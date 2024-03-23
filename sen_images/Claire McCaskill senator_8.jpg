@@ -1,0 +1,1720 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="/xmlrpc.php">
+<!--[if lt IE 9]>
+	<script src="https://saintpetersblog.com/wp-content/themes/fox/js/html5.js"></script>
+	<![endif]-->
+<script>(function(){document.documentElement.className='js'})();</script>
+<title>SaintPetersBlog &#8211; Life and politics from the Sunshine State&#039;s best city</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="SaintPetersBlog &raquo; Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="SaintPetersBlog &raquo; Comments Feed" href="/comments/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/saintpetersblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.10"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.5.10" type="text/css" media="all">
+<link rel="stylesheet" id="wi-fonts-css" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7COswald%3A300%2Cregular%2C700&#038;subset=cyrillic%2Ccyrillic-ext%2Clatin%2Clatin-ext&#038;ver=5.5.10" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/fox/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="/wp-content/themes/fox/style.min.css?ver=5.5.10" type="text/css" media="all">
+<link rel="stylesheet" id="wi-responsive-css" href="/wp-content/themes/fox/css/responsive.css?ver=5.5.10" type="text/css" media="all">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.5.10">
+<style type="text/css">/* LOGO MARGIN */
+        
+        
+    /* Logo width */
+        
+    /* footer logo width */
+        
+    /* content width */
+        @media (min-width: 1200px) {
+    .container {width:1020px;}#wi-wrapper {max-width:1080px;}
+    }
+    
+    /* sidebar width */
+        
+    /* ================== FONT FAMILY ==================== */
+    body{font-family:Merriweather,sans-serif;}h1,h2,h3,h4,h5,h6, #cboxCurrent,#toggle-menu span,#wi-mainnav,.no-menu,.slide .slide-caption,.title-label span, .gallery-caption,.wp-caption-text, .big-meta,.blog-slider .flex-direction-nav a,.grid-meta,.list-meta,.masonry-meta,.more-link span.post-more,.pagination-inner,.post-big .more-link,.readmore,.slider-more, .post-share, .single-cats,.single-date, .page-links-container, .single-tags, .authorbox-nav,.post-navigation .meta-nav,.same-author-posts .viewall, .post-navigation .post-title, .review-criterion,.review-score, .comment .reply a,.comment-metadata a, .commentlist .fn, .comment-notes,.logged-in-as, #respond p .required,#respond p label, #respond #submit, .widget_archive ul,.widget_categories ul,.widget_meta ul,.widget_nav_menu ul,.widget_pages ul,.widget_recent_entries ul, a.rsswidget, .widget_rss>ul>li>cite, .widget_recent_comments ul, .tagcloud a, .null-instagram-feed .clear a, #backtotop span,#footernav,.view-count,.wpcf7 .wpcf7-submit,.wpcf7 p,div.wpcf7-response-output, button,input[type=button],input[type=reset],input[type=submit], .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta, .woocommerce span.onsale, .woocommerce ul.products li.product .onsale, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce a.added_to_cart, .woocommerce nav.woocommerce-pagination ul, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce table.shop_table th, .woocommerce table.shop_table td.product-name a{font-family:Oswald,sans-serif;}#toggle-menu span,.no-menu, #wi-mainnav{font-family:Oswald,sans-serif;}    
+    /* ================== FONT SIZE ==================== */
+    body{font-size:24px;}        /* ipad portrait */
+        @media (max-width: 979px) {
+            body{font-size:24px;}        }
+        
+        /* iphone landscape */
+        @media (max-width: 767px) {
+            body{font-size:21px;}        }
+        
+        /* iphone portrait */
+        @media (max-width: 479px) {
+            body{font-size:21px;}        }
+
+    
+    /* ================== SLOGAN LETTER SPACING ==================== */
+        
+    
+    /* ================== COLORS ==================== */
+    /* selection color */
+        ::-moz-selection { /* Code for Firefox */
+        background: #0e174e;
+        color: #0e174e;
+    }
+    ::selection {
+        background: #0e174e;
+        color: #0e174e;
+    }
+        
+    /* body text color */
+        body {
+        color: #0e174e    }
+        
+    /* primary color */
+        
+    a, #header-social ul li a:hover, #wi-mainnav .menu>ul>li>ul li.current-menu-ancestor>a,#wi-mainnav .menu>ul>li>ul li.current-menu-item>a,#wi-mainnav .menu>ul>li>ul li>a:hover, .submenu-dark #wi-mainnav .menu>ul>li>ul li.current-menu-ancestor>a,.submenu-dark #wi-mainnav .menu>ul>li>ul li.current-menu-item>a,.submenu-dark #wi-mainnav .menu>ul>li>ul li>a:hover, .blog-slider .counter, .related-title a:hover, .grid-title a:hover, .wi-pagination a.page-numbers:hover, .page-links>a:hover, .single-tags a:hover, .author-social ul li a:hover, .small-title a:hover, .widget_archive ul li a:hover,.widget_categories ul li a:hover,.widget_meta ul li a:hover,.widget_nav_menu ul li a:hover,.widget_pages ul li a:hover,.widget_recent_entries ul li a:hover, .widget_recent_comments ul li>a:last-child:hover, .tagcloud a:hover, .latest-title a:hover, .widget a.readmore:hover, .header-cart a:hover, .woocommerce .star-rating span:before, 
+.null-instagram-feed .clear a:hover {
+        color: #0e174e;
+}
+            @media (max-width: 979px) {
+            #wi-mainnav .menu > ul > li.current-menu-item > a,
+            #wi-mainnav .menu > ul > li.current-menu-ancestor > a {
+                color: #0e174e;
+            }
+            }
+    
+.mejs-controls .mejs-time-rail .mejs-time-current {
+        background-color: #0e174e !important;
+    }
+    
+    
+
+.blog-slider .flex-direction-nav a:hover, .more-link span.post-more:hover, .masonry-thumbnail, .post-newspaper .related-thumbnail, .carousel-thumbnail:hover .format-sign.sign-video,.grid-thumbnail:hover .format-sign.sign-video,.list-thumbnail:hover .format-sign.sign-video,.masonry-thumbnail:hover .format-sign.sign-video,.small-thumbnail:hover .format-sign.sign-video, .related-list .grid-thumbnail, #respond #submit:active,#respond #submit:focus,#respond #submit:hover, .small-thumbnail, .widget-social ul li a:hover, .wpcf7 .wpcf7-submit:hover, #footer-search .submit:hover,#footer-social ul li a:hover, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce span.onsale, .woocommerce ul.products li.product .onsale, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce a.add_to_cart_button:hover, .woocommerce #review_form #respond .form-submit input:hover, 
+
+.review-item.overrall .review-score {
+        background-color: #0e174e;
+}
+    .carousel-thumbnail:hover .format-sign:before,.grid-thumbnail:hover .format-sign:before,.list-thumbnail:hover .format-sign:before,.masonry-thumbnail:hover .format-sign:before,.small-thumbnail:hover .format-sign:before  {
+    border-right-color: #0e174e;
+}
+    
+.null-instagram-feed .clear a:hover, .review-item.overrall .review-score {
+        border-color: #0e174e;
+    }
+        
+    /* widget title bg color */
+        .widget-title {
+        background-color: #0e174e;
+    }
+        
+    /* link color */
+        a {
+        color: #0e174e;
+    }
+        
+    /* link hover color */
+        a:hover {
+        color: #142ab2;
+    }
+        
+    /* active menu item */
+        @media (min-width: 980px) {
+    #wi-mainnav .menu > ul > li.current-menu-item > a,
+    #wi-mainnav .menu > ul > li.current-menu-ancestor > a {
+        color: #0e174e;
+    }
+    }
+        
+    body {
+        /* body background color */
+                
+        /* body background */
+                
+        /* position */
+                
+        /* repeat */
+                
+        /* size */
+                
+        /* attachment */
+            }
+    
+     /* content bg opacity */
+        
+    /* CUSTOM CSS */
+    .disable-hand-lines #wi-wrapper{
+    border-top:2px solid #0e174e;
+}
+.disable-hand-lines #wi-wrapper:after, .disable-hand-lines #wi-wrapper:before {
+    border-left: 2px solid #0e174e;
+}
+.section-heading{
+    border-top:2px solid #0e174e;
+}
+.disable-hand-lines #wi-footer, .disable-hand-lines .topbar-inner:after{
+   border-bottom:2px solid #0e174e;  
+}
+.footer-widgets-inner .line{
+  border-left: 1px solid #0e174e !important;
+}
+.disable-hand-lines #footer-widgets{
+    border-top:2px solid #0e174e;
+}
+.disable-hand-lines #footer-bottom:before{
+    border-top: 2px solid #0e174e;
+}
+.big-title a{
+color: #0e174e;
+}
+.grid-title a{
+color: #0e174e;
+}
+.grid-cats a{
+color: #0e174e;
+}
+.post-title a{
+color: #0e174e;
+}
+.post-title a:hover
+{
+    color: #142ab2;
+}
+.grid-meta{
+display:none;
+}
+.big-title a:hover{
+    color: #142ab2;
+}
+.more-link a{
+    color: #0e174e;
+}
+.related-title a{
+    color: #0e174e;
+}
+.related-title a.hover{
+    color: #142ab2;
+}
+.more-link span.post-more{
+    background: #0e174e;
+}
+.button {
+	background: #0e174e;
+}
+.footer-social {
+background: #0e174e;
+}
+#wi-mainnav .menu>ul>li>a{
+color: #0e174e !important;
+}
+#wi-mainnav .menu>ul>li>a:hover{
+color: #142ab2 !important;
+}
+.more-link{
+margin-top: 25px !important;
+color: #0e174e !important;
+}
+.more-link:hover{
+color: #142ab2 !important;
+}
+.section-ad img{
+margin-top:40px !important;
+margin-bottom:60px !important;
+}
+.grid-content{
+ text-align: justify !important;
+font-size: 18px !important;
+}
+.related-excerpt p{
+text-align: justify !important;
+}
+p{
+text-align: justify !important;
+}
+#header-social ul li}
+color: #0e174e !important;
+}
+.meta-category a{
+color: #0e174e !important;
+}
+input[type=submit]{
+background: #0e174e !important;
+margin: 0 auto !important;
+line-height: 30px !important;
+padding: 0 9px 0 11px !important;
+}
+input[type=submit]:hover{
+background: #142ab2 !important;
+margin: 0 auto !important;
+}
+.latest-article.format-standard a{
+color: #0e174e;
+}
+.latest-article.format-standard a:hover{
+color: #142ab2;
+}
+.fa.fa-facebook-square{
+color: #0e174e !important;
+}
+.fa.fa-facebook-square:hover{
+color: #142ab2 !important;
+}
+.fa.fa-twitter{
+color: #0e174e !important;
+}
+.fa.fa-twitter:hover{
+color: #142ab2 !important;
+}
+.fa.fa-instagram{
+color: #0e174e !important;
+}
+.fa.fa-instagram:hover{
+color: #142ab2 !important;
+}
+.fa.fa-search{
+color: #0e174e !important;
+}
+.fa.fa-search:hover{
+color: #142ab2 !important;
+}
+.fa.fa-rss{
+color: #0e174e !important;
+}
+.fa.fa-rss:hover{
+color: #142ab2 !important;
+}
+.widget_wpcom_social_media_icons_widget ul {
+padding-left: 0pc !important;
+text-align: center !important;
+}
+.genericon{
+font-size: 24px !important;
+}
+.post-header-meta a{
+color: #0e174e !important;
+}
+.post-header-meta a:hover{
+color: #142ab2 !important;
+}
+.latest-date{
+display: none;
+}
+.entry-content.entry-excerpt{
+font-size: 24px;
+}
+.post-share.share-5{
+margin-top: 60px !important;
+}
+.meta-category{
+display: none;
+}
+.copyright{
+text-align: center !important;
+}
+#wi-mainnav .menu>ul>li.current-menu-item>a {
+background: #ffffff !important;
+}
+#footer-social ul li a {
+background: none;
+}
+#footer-social ul li a:hover {
+background: none;
+}
+.fa{
+font-size: 26px !important;
+}
+#footer-search .submit {
+position: absolute !important;
+background: #ffffff !important;
+border: 1px solid #0e174e !important;
+margin: 3px 0 !important;
+}
+.fa.fa-search{
+margin: 0 -100px !important;
+}
+#socialButtonOnPage{
+display: none;
+}
+.sharedaddy.sd-sharing-enabled{
+display: none !important;
+}
+.post-share.share-4.single-share{
+display: none;
+}
+button{
+background: #0e174e !important;
+margin: 0 auto !important;
+line-height: 30px !important;
+padding: 0 9px 0 11px !important;
+}
+button:hover{
+background: #142ab2 !important;
+}
+.li-comment{
+display: none !important;
+}
+.post-share ul li {
+width: 25% !important;
+}
+.meta-time{
+display: none; !important;
+}
+#wi-header{
+padding: 10px 0 0px !important;
+}
+#wi-main{
+margin-top: -30px !important;
+}
+.customize-unpreviewable{
+font-family: oswald !important;
+font-size: 18px !important;
+}
+.dfad.dfad_pos_1.dfad_first{
+text-align: center !important;
+}
+#subForm{
+font-family: oswald !important;
+font-size: 16px !important;
+}
+.copyright{
+font-size: 16px !important;
+font-family: oswald !important;
+}
+.wi-flexslider.blog-slider.loaded{
+display:none !important;
+}
+.post-nav{
+display: none !important;
+}
+#posts-small-wrapper{
+display: none !important;
+}
+#titlebar{
+display: none !important;
+}
+.copyright a{
+font-weight: normal !important;
+}
+@media screen and (max-width: 768px) {
+.bannerad_desktop{
+display: none;
+}
+#300_ad_lower {
+display: none !important;
+}
+.entry-content.entry-content{
+font-size: 18px !important;
+}
+.post-share ul li {
+display: none; !important;
+}
+#text-57{
+display: none !important;
+}
+#latest-posts-3{
+display: none !important;
+}
+.wi-section.section-1{
+display: none !important;
+}
+.widget-even.widget-4.widget.widget_wpcom_social_media_icons_widget{
+display: none !important;
+}
+.widget-odd.widget-5.widget.jr-insta-slider{
+display: none !important;
+}
+.wi-section.section-2{
+margin-top: -40px !important;
+}
+.section-heading{
+text-align: center !important;
+}
+.section-heading{
+display: none !important;
+}
+.blog-grid{
+display:none !important;
+}
+.squaread_mobile{
+display: none !important;
+}
+}
+@media screen and (min-width:769px) {
+.squaread_mobile{
+display: none;
+}
+}</style>
+<link rel="icon" href="/wp-content/uploads/2016/09/cropped-spb-browser-icon-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2016/09/cropped-spb-browser-icon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2016/09/cropped-spb-browser-icon-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2016/09/cropped-spb-browser-icon-270x270.png">
+</head>
+<body class="home blog enable-dropcap has-sidebar sidebar-right disable-hand-lines submenu-light">
+<div id="wi-all">
+<div id="wi-wrapper">
+<div id="topbar-wrapper">
+<div class="wi-topbar" id="wi-topbar">
+<div class="container">
+<div class="topbar-inner">
+<a class="toggle-menu" id="toggle-menu"><i class="fa fa-align-justify"></i> <span>Menu</span></a>
+<nav id="wi-mainnav" class="navigation-ele wi-mainnav" role="navigation">
+<div class="menu"><ul id="menu-main-menu" class="menu">
+<li id="menu-item-231637" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/2017/"><span>2017</span></a></li>
+<li id="menu-item-184862" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/the-bay-and-the-burg/"><span>Bay &#038; Burg</span></a></li>
+<li id="menu-item-184861" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/statewide/"><span>Statewide</span></a></li>
+<li id="menu-item-270345" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/local-courts/"><span>Local Courts</span></a></li>
+<li id="menu-item-231638" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/sports/"><span>Sports</span></a></li>
+<li id="menu-item-184864" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/category/apolitical/"><span>Apolitical</span></a></li>
+</ul></div> </nav>
+<div id="header-social" class="social-list">
+<ul>
+<li class="li-facebook-square"><a href="https://www.facebook.com/SaintPetersblog/" target="_blank" rel="alternate" title="Facebook"><i class="fa fa-facebook-square"></i> <span>Facebook</span></a></li>
+<li class="li-twitter"><a href="https://twitter.com/SaintPetersblog" target="_blank" rel="alternate" title="Twitter"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li>
+<li class="li-instagram"><a href="https://www.instagram.com/fla_pol" target="_blank" rel="alternate" title="Instagram"><i class="fa fa-instagram"></i> <span>Instagram</span></a></li>
+<li class="li-rss"><a href="https://saintpetersblog.com/feed/" target="_blank" rel="alternate" title="Feed"><i class="fa fa-rss"></i> <span>Feed</span></a></li>
+<li class="li-search"><a><i class="fa fa-search"></i> <span>Search</span></a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<header id="wi-header" class="wi-header">
+<div class="container">
+<div class="header-search" id="header-search">
+<form role="search" method="get" action="https://saintpetersblog.com">
+<input type="text" name="s" class="s" value placeholder="Type & hit enter...">
+<button class="submit" role="button" title="Go"><span>Go</span></button>
+</form>
+</div>
+
+<div id="logo-area">
+<div id="wi-logo">
+<h2>
+<a href="/" rel="home">
+<img src="https://saintpetersblog.com/wp-content/uploads/2016/09/spb_header_oswald.png" alt="Logo">
+</a>
+</h2>
+</div>
+
+<h3 class="slogan">Life and politics from the Sunshine State&#039;s best city</h3>
+</div>
+
+<div class="clearfix"></div>
+<div id="header-area" class="widget-area" role="complementary">
+<aside id="text-53" class="widget widget_text"> <div class="textwidget"></div>
+</aside>
+</div>
+
+</div>
+
+</header>
+<div id="wi-main">
+<div class="container">
+<div class="content">
+<div id="wi-bf">
+<div class="wi-section section-1">
+<div class="seciton-list">
+<div class="wi-big">
+<article id="post-288448" class="post-big has-thumbnail post-288448 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-peter tag-florida-politics tag-floridapolitics-com tag-rick-baker tag-rick-kriseman tag-saintpetersblog tag-sunburn">
+<figure class="post-thumbnail">
+<a href="/the-end-for-saintpetersblog/">
+<img width="4288" height="2848" src="/wp-content/uploads/2017/10/The-End.jpeg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/The-End.jpeg 4288w, /wp-content/uploads/2017/10/The-End-300x199.jpeg 300w, /wp-content/uploads/2017/10/The-End-768x510.jpeg 768w, /wp-content/uploads/2017/10/The-End-1024x680.jpeg 1024w, /wp-content/uploads/2017/10/The-End-480x319.jpeg 480w, /wp-content/uploads/2017/10/The-End-753x500.jpeg 753w" sizes="(max-width: 4288px) 100vw, 4288px"> </a>
+</figure>
+<section class="big-body">
+<header class="big-header">
+<div class="big-meta">
+<span class="big-cats">
+<a href="/category/peter/" rel="category tag">Peter</a> </span>
+<span class="big-date">
+<time datetime="2017-10-08T10:50:56-04:00">October 8, 2017</time>
+</span>
+</div>
+
+<h2 class="big-title"><a href="/the-end-for-saintpetersblog/">The end for SaintPetersBlog</a></h2>
+<div class="big-content">
+<p style="text-align: justify;">Ever since I acquired the rights to the perfect domain for my efforts — <strong><a href="https://FloridaPolitics.com/">FloridaPolitics.com</a></strong> — I knew that one day, this website would have to be put out to pasture.</p>
+<p style="text-align: justify;">Well, after more than 51,000 posts, this is the final one.</p>
+<p style="text-align: justify;">Going forward, I am devoting my full energies to the Florida Politics brand, whether it be the website, <strong><a href="https://floridapolitics.com/archives/246125-sunburn-morning-read-whats-hot-florida-politics-10-5-17">email programs like &#8220;Sunburn&#8221;</a> </strong>and &#8220;Last Call,&#8221; or our gorgeous, award-winning <strong><a href="https://influencemagazineflorida.com/">INFLUENCE Magazine</a></strong>. <a href="/the-end-for-saintpetersblog/" class="more-link"><span class="big-more">Keep Reading</span></a></p>
+</div>
+</header>
+</section>
+<div class="clearfix"></div>
+</article>
+</div>
+
+</div>
+
+</div>
+
+<div class="wi-section section-2">
+<div class="section-ad ad-code">
+<div class="bannerad_desktop"><div class="dfad dfad_pos_1 dfad_first" id="_ad_262070"><a href="https://www.flapartners.com/signup-floridian-partners-mailing-list/?utm_source=St%20Petersblog&utm_medium=Banner&utm_content=728x90&utm_campaign=Mailing%20list"><img src="https://saintpetersblog.com/wp-content/uploads/2016/06/728x90-mailing-list.jpg" width="728" height="90" class="alignnone size-full wp-image-3213"></a></div></div>
+</div>
+<h3 class="section-heading">
+<span>Latest Highlights</span>
+</h3>
+<div class="seciton-list">
+<div class="blog-container">
+<div class="wi-blog blog-grid column-4">
+<article id="post-288439" class="post-grid post-288439 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-amy-foster tag-barclay-harless tag-brandi-gabbard tag-darden-rice tag-darryl-rouson tag-gina-driscoll tag-jerick-johnston tag-justin-bean tag-rick-kriseman tag-steve-kornell"><div class="grid-inner">
+<figure class="grid-thumbnail">
+<a href="/darden-rice-st-petes-campaign-finance-ordinance-no-means/"> <img width="480" height="384" src="/wp-content/uploads/2017/10/IMG_20171007_122512868_BURST000_COVER_TOP-480x384.jpg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="grid-body">
+<div class="post-content">
+<header class="grid-header">
+<div class="grid-meta">
+<span class="grid-date">
+<time datetime="2017-10-08T07:00:35-04:00" title="October 8, 2017">October 8, 2017</time>
+</span>
+<span class="grid-cats">
+<a href="/category/the-bay-and-the-burg/" rel="category tag">The Bay and the 'Burg</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+</div>
+
+<h2 class="grid-title"><a href="/darden-rice-st-petes-campaign-finance-ordinance-no-means/">Darden Rice on St. Pete&#8217;s campaign finance ordinance — it&#8217;s &#8216;by no means over&#8217;</a></h2>
+</header>
+<div class="grid-content">
+<p>
+Two days after the St. Petersburg City Council passed an ordinance limiting campaign contributions, which is expected to be legally challenged, Council Chair Darden Rice was still exulting. A former president of the League of Women Voters in St. Pete, Rice was an early champion of the just passed measure that &hellip;
+<a href="/darden-rice-st-petes-campaign-finance-ordinance-no-means/" class="readmore">Keep Reading</a>
+</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div></article>
+<article id="post-288451" class="post-grid post-288451 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-sports category-top-headlines tag-brandon-wimbush tag-bret-bielema tag-bronco-mendenhall tag-bryce-love tag-chris-petersen tag-ed-orgeron tag-gordie-lockbaum tag-hunter-johnson tag-jeff-long tag-jim-harbaugh tag-joel-lanning tag-jonathan-taylor tag-kelly-bryant tag-khalil-tate tag-mark-dantonio tag-matt-campbell tag-rashaad-penny tag-rich-rodriguez tag-saquon-barkley tag-scott-frost tag-will-grier tag-zerrick-cooper"><div class="grid-inner">
+<figure class="grid-thumbnail">
+<a href="/ap-top-25-takeaways-oklahoma-upset-miami-fsu-finally/"> <img width="480" height="384" src="/wp-content/uploads/2017/10/Michigan-State-vs.-Michigan-480x384.jpeg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="grid-body">
+<div class="post-content">
+<header class="grid-header">
+<div class="grid-meta">
+<span class="grid-date">
+<time datetime="2017-10-08T06:39:21-04:00" title="October 8, 2017">October 8, 2017</time>
+</span>
+<span class="grid-cats">
+<a href="/category/sports/" rel="category tag">Sports</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+</div>
+
+<h2 class="grid-title"><a href="/ap-top-25-takeaways-oklahoma-upset-miami-fsu-finally/">AP Top 25 Takeaways: Oklahoma upset; Miami over FSU, finally</a></h2>
+</header>
+<div class="grid-content">
+<p>
+Four of the top five teams in the country kicked off their games at noon Eastern on Saturday, which suggests that all were expected to roll. No. 2 Clemson, No. 4 Penn State and No. 5 Georgia all did just that. Then there was No. 3 Oklahoma. The Sooners and Iowa &hellip;
+<a href="/ap-top-25-takeaways-oklahoma-upset-miami-fsu-finally/" class="readmore">Keep Reading</a>
+</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div></article>
+<article id="post-288333" class="post-grid post-288333 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-amy-foster tag-darden-rice tag-ed-montanari tag-jim-kennedy tag-joe-pafner tag-john-bonifaz tag-rick-kriseman tag-speecnow"><div class="grid-inner">
+<figure class="grid-thumbnail">
+<a href="/leading-nation-st-pete-council-1st-ban-corporate-campaign-cash/"> <img width="480" height="384" src="/wp-content/uploads/2017/10/Screen-Shot-2017-10-05-at-1.34.09-PM-480x384.png" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="grid-body">
+<div class="post-content">
+<header class="grid-header">
+<div class="grid-meta">
+<span class="grid-date">
+<time datetime="2017-10-08T06:00:29-04:00" title="October 8, 2017">October 8, 2017</time>
+</span>
+<span class="grid-cats">
+<a href="/category/the-bay-and-the-burg/" rel="category tag">The Bay and the 'Burg</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+</div>
+
+<h2 class="grid-title"><a href="/leading-nation-st-pete-council-1st-ban-corporate-campaign-cash/">Leading nation, St. Pete Council is 1st to ban corporate campaign cash</a></h2>
+</header>
+<div class="grid-content">
+<p>
+After hours of debate, the St. Petersburg City Council approved a campaign-finance reform measure Thursday, which could have national implications. The final vote was 6-2, with Council members Ed Montanari and Jim Kennedy dissenting. Once the final vote became clear, the crowd in city chambers erupted with cheers. &hellip;
+<a href="/leading-nation-st-pete-council-1st-ban-corporate-campaign-cash/" class="readmore">Keep Reading</a>
+</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div></article>
+<article id="post-288431" class="post-grid post-288431 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines"><div class="grid-inner">
+<figure class="grid-thumbnail">
+<a href="/rick-baker-rick-kriseman-reload-campaign-coffers-general-election/"> <img width="480" height="384" src="/wp-content/uploads/2016/09/Baker-vs.-Kriseman-2-480x384.jpg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="grid-body">
+<div class="post-content">
+<header class="grid-header">
+<div class="grid-meta">
+<span class="grid-date">
+<time datetime="2017-10-08T06:00:26-04:00" title="October 8, 2017">October 8, 2017</time>
+</span>
+<span class="grid-cats">
+<a href="/category/the-bay-and-the-burg/" rel="category tag">The Bay and the 'Burg</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+</div>
+
+<h2 class="grid-title"><a href="/rick-baker-rick-kriseman-reload-campaign-coffers-general-election/">Rick Baker, Rick Kriseman reload campaign coffers for general election</a></h2>
+</header>
+<div class="grid-content">
+<p>
+If there was any doubt about the interest level in the &#8216;battle of the two Ricks,&#8217; check the latest campaign finance reports for Rick Kriseman and Rick Baker, both of whom raised substantial money during the last two weeks of September.  &hellip;
+<a href="/rick-baker-rick-kriseman-reload-campaign-coffers-general-election/" class="readmore">Keep Reading</a>
+</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div></article>
+<div class="clearfix"></div>
+<div class="grid-sizer"></div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="wi-section section-3">
+<div class="section-ad ad-code">
+<div class="squaread_mobile"><div class="dfad dfad_pos_1 dfad_first" id="_ad_21741"><a href="https://www.flmedical.org/Index.aspx"><img src="https://saintpetersblog.com/wp-content/uploads/2015/04/FMA-stpeter_blog_305-ad-300x250.gif" alt="FMA-stpeter_blog_305-ad-300x250" width="300" height="250" class="aligncenter size-full wp-image-226428"></a></div></div>
+</div>
+<div class="seciton-list">
+<div class="wi-flexslider blog-slider">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<article id="post-288448" class="post-slider post-288448 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-peter tag-florida-politics tag-floridapolitics-com tag-rick-baker tag-rick-kriseman tag-saintpetersblog tag-sunburn">
+<figure class="slider-thumbnail">
+<img width="1020" height="510" src="/wp-content/uploads/2017/10/The-End-1020x510.jpeg" class="attachment-thumbnail-big size-thumbnail-big wp-post-image" alt loading="lazy">
+</figure>
+<section class="slider-body">
+<div class="slider-table"><div class="slider-cell">
+<div class="post-content">
+<header class="slider-header">
+<h2 class="slider-title"><a href="/the-end-for-saintpetersblog/">The end for SaintPetersBlog</a></h2>
+</header>
+<div class="slider-excerpt">
+<p>
+<span class="slider-meta">
+<span class="slider-date">
+<time datetime="2017-10-08T10:50:56-04:00">Published on October 8, 2017</time>
+</span>
+</span>
+Ever since I acquired the rights to the perfect domain for my efforts — FloridaPolitics.com — I knew that one&hellip;
+<a class="slider-more" href="/the-end-for-saintpetersblog/">Keep Reading</a>
+</p>
+</div>
+<div class="clearfix"></div>
+</div>
+
+</div></div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="main-stream" id="main-stream">
+<main class="content-area" id="primary" role="main">
+<div class="theiaStickySidebar">
+<div class="blog-container">
+<div class="wi-blog blog-standard column-2">
+<article id="post-288445" class="wi-post disable-2-columns post-288445 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-top-headlines tag-andrei-vasilevskiy tag-bob-boughner tag-brayden-point tag-colton-sceviour tag-evgenii-dadonov tag-j-t-brown tag-james-reimer tag-jared-mccann tag-jonathan-huberdeau tag-nick-bjugstad tag-nikita-kucherov tag-steven-stamkos tag-tyler-johnson tag-vincent-trocheck tag-vladislav-namestnikov">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/panthers-score-3-third-edge-lightning/">Panthers score 3 in third to edge Lightning</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-07T23:32:54-04:00">Published on October 7, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/sports/" rel="category tag">Sports</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/ap/" rel="author">Associated Press</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/panthers-score-3-third-edge-lightning/">
+<img width="646" height="800" src="/wp-content/uploads/2017/10/Panthers-vs.-Lightning.jpeg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/Panthers-vs.-Lightning.jpeg 646w, /wp-content/uploads/2017/10/Panthers-vs.-Lightning-242x300.jpeg 242w, /wp-content/uploads/2017/10/Panthers-vs.-Lightning-480x594.jpeg 480w, /wp-content/uploads/2017/10/Panthers-vs.-Lightning-404x500.jpeg 404w" sizes="(max-width: 646px) 100vw, 646px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Jared McCann scored the tiebreaking goal in the third period after a review overturned the initial ruling of goalie interference, and the Florida Panthers beat the Tampa Bay Lightning 5-4 on Saturday night. Evgenii Dadonov and Nick Bjugstad each had a goal and an assist, and Vincent Trocheck and Colton Sceviour also scored goals for the Panthers. James Reimer made 26 saves.</p>
+<p class="p-readmore">
+<a href="/panthers-score-3-third-edge-lightning/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fpanthers-score-3-third-edge-lightning%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/10/Panthers-vs.-Lightning.jpeg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fpanthers-score-3-third-edge-lightning%2F&amp;text=Panthers+score+3+in+third+to+edge+Lightning" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fpanthers-score-3-third-edge-lightning%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288426" class="post-related post-288426 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-sports category-top-headlines tag-aleksander-barkov tag-andrei-vasilevskiy tag-bob-boughner tag-brayden-point tag-connor-brickley tag-jake-dotchin tag-jonathan-huberdeau tag-keith-yandle tag-mark-pysyk tag-nikita-kucherov tag-ondrej-palat tag-owen-tippett tag-roberto-luongo tag-ryan-callahan tag-steven-stamkos tag-vladislav-namestnikov"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/steven-stamkos-key-assist-lightning-beat-panthers-5-3/"> <img width="150" height="150" src="/wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-150x150.jpg 150w, /wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-32x32.jpg 32w, /wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-64x64.jpg 64w, /wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-96x96.jpg 96w, /wp-content/uploads/2015/05/steven_stamkos.jpg.size_.xxlarge.letterbox-128x128.jpg 128w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/steven-stamkos-key-assist-lightning-beat-panthers-5-3/">Steven Stamkos has key assist, Lightning beat Panthers 5-3</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Steven Stamkos is back. Stamkos set up the go-ahead goal in his return from a right knee injury and the Tampa Bay</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288408" class="post-related post-288408 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-sports category-top-headlines tag-andrei-vasilevskiy tag-andrej-sustr tag-anton-stralman tag-ben-bishop tag-chris-kunitz tag-dan-girardi tag-jon-cooper tag-nikita-kucherov tag-ondrej-palat tag-ryan-callahan tag-steven-stamkos tag-tyler-johnson tag-victor-hedman"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/lightning-panthers-set-kick-off-nhl-season-friday/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/steven-stamkos-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/lightning-panthers-set-kick-off-nhl-season-friday/">Lightning, Panthers set to kick off NHL season on Friday</a></h3>
+</header>
+<div class="related-excerpt">
+<p>It all begins for real tonight at Amalie Arena. The Tampa Bay Lightning open the 2017-18 season against the Florida</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-287933" class="post-related post-287933 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-top-headlines tag-brett-howden tag-jon-cooper tag-nikita-kucherov tag-steven-stamkos"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/lightning-ready-get-serious-regular-season/"> <img width="150" height="150" src="/wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-150x150.jpg 150w, /wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-32x32.jpg 32w, /wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-64x64.jpg 64w, /wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-96x96.jpg 96w, /wp-content/uploads/2015/11/steven_stamkos.jpg.size_.xxlarge.letterbox-128x128.jpg 128w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/lightning-ready-get-serious-regular-season/">Lightning ready to get serious about regular season</a></h3>
+</header>
+<div class="related-excerpt">
+<p>The preseason for the Tampa Bay Lightning is now in its final week. Only three games remain before the regular</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288404" class="wi-post disable-2-columns post-288404 post type-post status-publish format-standard has-post-thumbnail hentry category-the-bay-and-the-burg category-top-headlines tag-dan-raulerson tag-lawrence-mcclure tag-rick-lott tag-william-carr tag-yvonne-fry">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/yvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary/">Lawrence McClure with more cash-on-hand in final days of HD 58 GOP primary</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-07T09:57:41-04:00">Published on October 7, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/the-bay-and-the-burg/" rel="category tag">The Bay and the 'Burg</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/perry/" rel="author">Mitch Perry</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/yvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary/">
+<img width="299" height="168" src="/wp-content/uploads/2017/10/Unknown.jpeg" class="attachment-full size-full wp-post-image" alt loading="lazy"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Dover businessman Lawrence McClure has more cash-on-hand than Plant City businesswoman and civic activist Yvonne Fry in the final days of their contentious House District 58 Republican primary campaign. With the latest financial figures coming in late Friday, McClure has raised a total of $135,485 versus Fry&#8217;s $112,790 through October 5. .</p>
+<p class="p-readmore">
+<a href="/yvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fyvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/10/Unknown.jpeg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fyvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary%2F&amp;text=Lawrence+McClure+with+more+cash-on-hand+in+final+days+of+HD+58+GOP+primary" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fyvonne-fry-aligned-pac-nets-11k-single-donor-ahead-hd-58-primary%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288374" class="post-related post-288374 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-anthony-pedicini tag-bill-galvano tag-brock-mikosky tag-chad-chronister tag-chris-sprowls tag-dan-raulerson tag-eric-robinson tag-jackie-toledo tag-sandy-murman tag-shawn-harrison tag-tommy-castellano tag-victor-crist tag-yvonne-fry"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/gop-consultant-becomes-newest-target-hd-58-attack-mailer/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/Unknown-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/gop-consultant-becomes-newest-target-hd-58-attack-mailer/">GOP consultant Anthony Pedicini subject of direct mail attack in bitter HD 58 race</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Republican consultant Anthony Pedicini is the latest target of a negative mailer in the vitriolic House District 58 primary.</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288277" class="post-related post-288277 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-hd-58 tag-hd-58-special-election tag-lawrence-mcclure tag-negative-campaigning tag-yvonne-fry"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/joe-henderson-hd-58-race-follows-negative-game-plan/"> <img width="150" height="150" src="/wp-content/uploads/2016/09/Yvonne-Fry-2-08.20-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/09/Yvonne-Fry-2-08.20-150x150.jpg 150w, /wp-content/uploads/2016/09/Yvonne-Fry-2-08.20-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/joe-henderson-hd-58-race-follows-negative-game-plan/">Joe Henderson: HD 58 race follows negative game plan</a></h3>
+</header>
+<div class="related-excerpt">
+<p>There is a game plan, oft-repeated in politics, that says going negative beats a reasoned argument almost every time. We</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288267" class="post-related post-288267 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-ahmad-saadaldin tag-ash-mason tag-brian-zemina tag-hd-58 tag-hd-58-special-election tag-hillsborough-county-conservatism-counts tag-jose-vasquez tag-lawrence-mcclure tag-yvonne-fry"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/anti-yvonne-fry-flyers-hit-hillsborough-mailboxes/"> <img width="150" height="150" src="/wp-content/uploads/2017/07/yvonne-fry-background-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/07/yvonne-fry-background-150x150.jpg 150w, /wp-content/uploads/2017/07/yvonne-fry-background-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/anti-yvonne-fry-flyers-hit-hillsborough-mailboxes/">More anti-Yvonne Fry flyers hit Hillsborough mailboxes</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Another wave of mailers went out in Hillsborough County blasting HD 58 Republican candidate Yvonne Fry for her alleged lack</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288428" class="wi-post disable-2-columns post-288428 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-top-headlines tag-auden-tate tag-braxton-berrios tag-cam-akers tag-deondre-francois tag-jacques-patrick tag-james-blackman tag-jimbo-fisher tag-malik-rosier tag-manny-diaz tag-mark-richt tag-mark-walton tag-michael-badgley tag-ricky-aguayo">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/miami-florida-state-look-get-ground-games-going/">Miami, Florida State look to get ground games going</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-07T09:21:20-04:00">Published on October 7, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/sports/" rel="category tag">Sports</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/ap/" rel="author">Associated Press</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/miami-florida-state-look-get-ground-games-going/">
+<img width="460" height="284" src="/wp-content/uploads/2017/10/FSU-vs.-Miami.jpg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/FSU-vs.-Miami.jpg 460w, /wp-content/uploads/2017/10/FSU-vs.-Miami-300x185.jpg 300w" sizes="(max-width: 460px) 100vw, 460px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>The running game has been an important factor in the Miami-Florida State series. In the past 30 meetings between the Sunshine State rivals, the team with the most rushing yards has won 22 times. It will likely be a determining factor again on Saturday when the 13th-ranked Hurricanes visit the Seminoles.</p>
+<p class="p-readmore">
+<a href="/miami-florida-state-look-get-ground-games-going/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fmiami-florida-state-look-get-ground-games-going%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/10/FSU-vs.-Miami.jpg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fmiami-florida-state-look-get-ground-games-going%2F&amp;text=Miami%2C+Florida+State+look+to+get+ground+games+going" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fmiami-florida-state-look-get-ground-games-going%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288443" class="post-related post-288443 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-sports category-top-headlines tag-auden-tate tag-braxton-berrios tag-cam-akers tag-darrell-langham tag-jacques-patrick tag-james-blackman tag-jimbo-fisher tag-malik-rosier tag-mark-walton"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/miami-snaps-7-game-losing-streak-vs-fsu-last-second-victory/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/Braxton-Berrios-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/Braxton-Berrios-150x150.jpeg 150w, /wp-content/uploads/2017/10/Braxton-Berrios-640x640.jpeg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/miami-snaps-7-game-losing-streak-vs-fsu-last-second-victory/">Miami snaps 7-game losing streak vs. FSU with last-second victory</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Coming into Saturday’s game between 13th-ranked Miami and Florida State, both teams were looking to get their running games going.</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288148" class="post-related post-288148 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-top-headlines tag-bobby-bowden tag-bryce-love tag-butch-jones tag-chad-morris tag-ed-orgeron tag-jacob-eason tag-james-blackman tag-john-currie tag-les-miles tag-luke-del-rio tag-malik-davis tag-nick-saban tag-sam-darnold tag-saquon-barkley"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/ap-top-25-takeaways-rock-bottom-butch-jones-year-rb/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/Butch-Jones-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/Butch-Jones-150x150.jpeg 150w, /wp-content/uploads/2017/10/Butch-Jones-640x640.jpeg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/ap-top-25-takeaways-rock-bottom-butch-jones-year-rb/">AP Top 25 takeaways: Rock bottom for Butch Jones; Year of RB</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Takeaways, thoughts and takedowns from Week 5 of the college football season. 1. As the fans poured out of Neyland</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288133" class="post-related post-288133 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-top-headlines tag-auden-tate tag-deondre-francois tag-james-blackman tag-john-wolford tag-keith-gavin tag-ricky-aguayo tag-scotty-washington"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/seminoles-earn-first-win-td-final-minute/"> <img width="150" height="150" src="/wp-content/uploads/2017/09/FSU-v.-Wake-Forest-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/09/FSU-v.-Wake-Forest-150x150.jpeg 150w, /wp-content/uploads/2017/09/FSU-v.-Wake-Forest-640x640.jpeg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/seminoles-earn-first-win-td-final-minute/">Seminoles earn first win with TD in final minute</a></h3>
+</header>
+<div class="related-excerpt">
+<p>James Blackman shook off a struggle-filled day to connect with Auden Tate on a 40-yard touchdown throw with 53 seconds</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288418" class="wi-post disable-2-columns post-288418 post type-post status-publish format-standard has-post-thumbnail hentry category-statewide category-top-headlines tag-bonuses tag-enterprise-florida tag-pete-antonacci tag-rick-scott tag-visit-florida">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/enterprise-florida-gives-raises-ditches-bonuses/">Enterprise Florida gives raises, ditches bonuses</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-06T17:53:12-04:00">Published on October 6, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/statewide/" rel="category tag">Statewide</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/nsf/" rel="author">News Service Of Florida</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/enterprise-florida-gives-raises-ditches-bonuses/">
+<img width="1200" height="800" src="/wp-content/uploads/2017/08/enterprise-florida.jpg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/08/enterprise-florida.jpg 1200w, /wp-content/uploads/2017/08/enterprise-florida-300x200.jpg 300w, /wp-content/uploads/2017/08/enterprise-florida-768x512.jpg 768w, /wp-content/uploads/2017/08/enterprise-florida-1024x683.jpg 1024w, /wp-content/uploads/2017/08/enterprise-florida-480x320.jpg 480w, /wp-content/uploads/2017/08/enterprise-florida-750x500.jpg 750w" sizes="(max-width: 1200px) 100vw, 1200px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Raises will be provided to 16 upper-level and mid-level employees of Enterprise Florida, as the state&#8217;s business-recruitment agency does away with a controversial bonus program. The Enterprise Florida Executive Committee voted unanimously during a conference call Friday to approve a recommendation &#8212; supported by Gov. Rick Scott &#8212; to replace the bonus program.</p>
+<p class="p-readmore">
+<a href="/enterprise-florida-gives-raises-ditches-bonuses/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fenterprise-florida-gives-raises-ditches-bonuses%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/08/enterprise-florida.jpg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fenterprise-florida-gives-raises-ditches-bonuses%2F&amp;text=Enterprise+Florida+gives+raises%2C+ditches+bonuses" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fenterprise-florida-gives-raises-ditches-bonuses%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288364" class="post-related post-288364 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-carlo-luzzatto tag-judy-marks tag-richard-corcoran tag-rick-scott"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/siemens-chromalloy-announce-joint-project-will-bring-350-jobs-hillsborough-county/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/siemens_gas_turbine_nc_7_web_0-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/siemens-chromalloy-announce-joint-project-will-bring-350-jobs-hillsborough-county/">Siemens, Chromalloy joint project to bring 350 new Hillsborough jobs</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Two global engineering companies, Siemens and Chromalloy Gas Turbine Corporation, have chosen Hillsborough County for the headquarters of a new joint</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288347" class="post-related post-288347 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-statewide category-top-headlines tag-air-conditioning tag-elderly-deaths-hollywood-hills tag-hurricane-irma tag-james-shelfer tag-lawsuit tag-nursing-home tag-rick-scott"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/broward-nursing-home-expands-lawsuit-state/"> <img width="150" height="150" src="/wp-content/uploads/2017/09/la-na-hurricane-irma-nursing-home-20170913-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/09/la-na-hurricane-irma-nursing-home-20170913-150x150.jpg 150w, /wp-content/uploads/2017/09/la-na-hurricane-irma-nursing-home-20170913-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/broward-nursing-home-expands-lawsuit-state/">Broward nursing home expands lawsuit against state</a></h3>
+</header>
+<div class="related-excerpt">
+<p>A Broward County nursing home has expanded a lawsuit challenging moves by Gov. Rick Scott&#8216;s administration that effectively shut down</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288324" class="post-related post-288324 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-statewide category-top-headlines tag-bay-county tag-bay-county-emergency-operations-center tag-escambia-county tag-escambia-county-emergency-management tag-florida-panhandle tag-gulf-of-mexico tag-hurricane-irma tag-national-hurricane-center tag-rick-scott tag-tropical-depression-16"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/rick-scott-shifts-storm-focus-panhandle/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-150x150.jpg 150w, /wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/rick-scott-shifts-storm-focus-panhandle/">Rick Scott shifts storm focus to Panhandle</a></h3>
+</header>
+<div class="related-excerpt">
+<p>After spending much of the past month focused on Hurricane Irma, Gov. Rick Scott will shift Thursday to the one</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288413" class="wi-post disable-2-columns post-288413 post type-post status-publish format-standard has-post-thumbnail hentry category-statewide category-top-headlines tag-anthony-pedicini tag-citizens-alliance-for-floridas-economy tag-growing-floridas-future tag-jobs-for-florida tag-joe-negron tag-political-fundraising tag-steve-crisafulli tag-wilton-simpson">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/wilton-simpsons-committee-raised-209k-september/">Wilton Simpson&#8217;s committee raised $209K in September</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-06T15:21:23-04:00">Published on October 6, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/statewide/" rel="category tag">Statewide</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/drew/" rel="author">Drew Wilson</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/wilton-simpsons-committee-raised-209k-september/">
+<img width="1406" height="810" src="/wp-content/uploads/2016/04/Wilton-Simpson.jpg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/04/Wilton-Simpson.jpg 1406w, /wp-content/uploads/2016/04/Wilton-Simpson-300x173.jpg 300w, /wp-content/uploads/2016/04/Wilton-Simpson-768x442.jpg 768w, /wp-content/uploads/2016/04/Wilton-Simpson-1024x590.jpg 1024w" sizes="(max-width: 1406px) 100vw, 1406px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Future Senate President Wilton Simpson brought in more than $200,000 through his political committee last month, and forked over half that sum to the committee supporting GOP candidates for state senate.</p>
+<p class="p-readmore">
+<a href="/wilton-simpsons-committee-raised-209k-september/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fwilton-simpsons-committee-raised-209k-september%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2016/04/Wilton-Simpson.jpg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fwilton-simpsons-committee-raised-209k-september%2F&amp;text=Wilton+Simpson%E2%80%99s+committee+raised+%24209K+in+September" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fwilton-simpsons-committee-raised-209k-september%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288374" class="post-related post-288374 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-anthony-pedicini tag-bill-galvano tag-brock-mikosky tag-chad-chronister tag-chris-sprowls tag-dan-raulerson tag-eric-robinson tag-jackie-toledo tag-sandy-murman tag-shawn-harrison tag-tommy-castellano tag-victor-crist tag-yvonne-fry"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/gop-consultant-becomes-newest-target-hd-58-attack-mailer/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/Unknown-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/gop-consultant-becomes-newest-target-hd-58-attack-mailer/">GOP consultant Anthony Pedicini subject of direct mail attack in bitter HD 58 race</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Republican consultant Anthony Pedicini is the latest target of a negative mailer in the vitriolic House District 58 primary.</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288227" class="post-related post-288227 post type-post status-publish format-standard has-post-thumbnail hentry category-statewide category-top-headlines tag-c-44-canal tag-caulkins-citrus tag-george-caulkins tag-indiantown tag-joe-negron tag-water-farm"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/martin-county-water-farm-expanded/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/Caulkins-Water-Farm-in-Indiantown-Florida-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/Caulkins-Water-Farm-in-Indiantown-Florida-150x150.jpg 150w, /wp-content/uploads/2017/10/Caulkins-Water-Farm-in-Indiantown-Florida-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/martin-county-water-farm-expanded/">Martin County &#8216;water farm&#8217; expanded</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Caulkins Citrus Co. launched the expansion of its Indiantown &#8220;water farm,&#8221; increasing the reservoir from an existing 413 acres to</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288218" class="post-related post-288218 post type-post status-publish format-standard has-post-thumbnail hentry category-the-bay-and-the-burg category-top-headlines tag-ardian-zika tag-bill-gunter tag-elle-rudisell tag-george-agovino tag-richard-corcoran tag-will-weatherford tag-wilton-simpson"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/wilton-simpson-latest-republican-back-ardian-zika-hd-37-race/"> <img width="150" height="150" src="/wp-content/uploads/2017/05/Wilton-Simpson-EDIT-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/wilton-simpson-latest-republican-back-ardian-zika-hd-37-race/">Wilton Simpson latest Republican to back Ardian Zika in HD 37 race</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Florida Senate Majority Leader Wilton Simpson is the latest Republican to endorse Ardian Zika in the Pasco County-area House District</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288407" class="wi-post disable-2-columns post-288407 post type-post status-publish format-standard has-post-thumbnail hentry category-statewide category-top-headlines tag-escambia-county tag-fl-panhandle tag-gov-rick-scott tag-irma tag-state-of-emergency tag-storm-surge tag-tropical-storm-nate tag-wind">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/nate-poised-send-wind-waves-panhandle/">Nate poised to send wind, waves to Panhandle</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-06T15:15:27-04:00">Published on October 6, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/statewide/" rel="category tag">Statewide</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/nsf/" rel="author">News Service Of Florida</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/nate-poised-send-wind-waves-panhandle/">
+<img width="897" height="736" src="/wp-content/uploads/2017/10/Nate.png" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/Nate.png 897w, /wp-content/uploads/2017/10/Nate-300x246.png 300w, /wp-content/uploads/2017/10/Nate-768x630.png 768w, /wp-content/uploads/2017/10/Nate-480x394.png 480w, /wp-content/uploads/2017/10/Nate-609x500.png 609w" sizes="(max-width: 897px) 100vw, 897px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Florida&#8217;s western Panhandle, the one area of the state spared the impact of Hurricane Irma nearly a month ago, is expected to get winds, surging water and rain this weekend from fast-moving Tropical Storm Nate.</p>
+<p class="p-readmore">
+<a href="/nate-poised-send-wind-waves-panhandle/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fnate-poised-send-wind-waves-panhandle%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/10/Nate.png" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fnate-poised-send-wind-waves-panhandle%2F&amp;text=Nate+poised+to+send+wind%2C+waves+to+Panhandle" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fnate-poised-send-wind-waves-panhandle%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288368" class="post-related post-288368 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-statewide category-top-headlines tag-carlos-gimenez tag-irma tag-miami-dade tag-ronald-book tag-shelter"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/last-shelter-used-hurricane-irma-evacuees-closes/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/gettyimages-844273686-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/last-shelter-used-hurricane-irma-evacuees-closes/">Last shelter used for Hurricane Irma evacuees closes</a></h3>
+</header>
+<div class="related-excerpt">
+<p>The last shelter used for Hurricane Irma evacuees has closed in Miami-Dade County.</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288366" class="post-related post-288366 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-statewide category-top-headlines tag-gov-rick-scott tag-gulf-coast tag-state-of-emergency tag-storm-preparedness tag-tropical-storm-nate"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/rick-scott-declares-state-emergency-nate/"> <img width="150" height="150" src="/wp-content/uploads/2016/09/tropical-storm-Florida-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/09/tropical-storm-Florida-150x150.jpg 150w, /wp-content/uploads/2016/09/tropical-storm-Florida-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/rick-scott-declares-state-emergency-nate/">Rick Scott declares state of emergency for Nate</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Gov. Rick Scott on Thursday declared a state of emergency in 29 Florida counties as Tropical Storm Nate seems headed for</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288324" class="post-related post-288324 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-statewide category-top-headlines tag-bay-county tag-bay-county-emergency-operations-center tag-escambia-county tag-escambia-county-emergency-management tag-florida-panhandle tag-gulf-of-mexico tag-hurricane-irma tag-national-hurricane-center tag-rick-scott tag-tropical-depression-16"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/rick-scott-shifts-storm-focus-panhandle/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-150x150.jpg 150w, /wp-content/uploads/2017/10/10-04-17_Jacksonville_Puerto-Rico-Distribution2-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/rick-scott-shifts-storm-focus-panhandle/">Rick Scott shifts storm focus to Panhandle</a></h3>
+</header>
+<div class="related-excerpt">
+<p>After spending much of the past month focused on Hurricane Irma, Gov. Rick Scott will shift Thursday to the one</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<article id="post-288388" class="wi-post disable-2-columns post-288388 post type-post status-publish format-standard has-post-thumbnail hentry category-the-bay-and-the-burg category-top-headlines tag-hart tag-katherine-eagan tag-les-miller tag-ron-weaver">
+<section class="post-body">
+<header class="post-header">
+<h2 class="post-title"><a href="/hart-ceo-talks-less-hillsborough-transit/">HART CEO talks &#8216;doing more with less&#8217; for Hillsborough transit</a></h2>
+<div class="post-header-meta">
+<span class="meta-time">
+<time datetime="2017-10-06T11:57:53-04:00">Published on October 6, 2017</time>
+</span>
+<span class="meta-category">
+in <a href="/category/the-bay-and-the-burg/" rel="category tag">The Bay and the 'Burg</a><span class="sep">/</span><a href="/category/top-headlines/" rel="category tag">Top Headlines</a> </span>
+<span class="meta-author">
+by <a href="/author/perry/" rel="author">Mitch Perry</a> </span>
+</div>
+
+</header>
+<figure class="post-thumbnail">
+<a href="/hart-ceo-talks-less-hillsborough-transit/">
+<img width="1486" height="1114" src="/wp-content/uploads/2017/10/IMG_20171006_081643497.jpg" class="attachment-full size-full wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/IMG_20171006_081643497.jpg 1486w, /wp-content/uploads/2017/10/IMG_20171006_081643497-300x225.jpg 300w, /wp-content/uploads/2017/10/IMG_20171006_081643497-768x576.jpg 768w, /wp-content/uploads/2017/10/IMG_20171006_081643497-1024x768.jpg 1024w, /wp-content/uploads/2017/10/IMG_20171006_081643497-480x360.jpg 480w, /wp-content/uploads/2017/10/IMG_20171006_081643497-667x500.jpg 667w" sizes="(max-width: 1486px) 100vw, 1486px"> </a>
+</figure>
+<div class="post-content">
+<div class="entry-content entry-excerpt">
+<p>Doing more with less. That&#8217;s essentially the theme espoused by Hillsborough Area Regional Transit Authority CEO Katharine Egan since taking over the financially troubled agency nearly three years ago, but it&#8217;s definitely the case now as HART unveils its &#8220;Mission Max&#8221; schedule Sunday morning.</p>
+<p class="p-readmore">
+<a href="/hart-ceo-talks-less-hillsborough-transit/" class="more-link"><span class="post-more">Keep Reading</span></a>
+</p>
+</div>
+
+<div class="post-share share-5">
+<ul>
+<li class="li-comment">
+<span><i class="fa fa-comment"></i><span>Off</span></span> </li>
+<li class="li-facebook"><a data-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaintpetersblog.com%2Fhart-ceo-talks-less-hillsborough-transit%2F&p[images][0]=https://saintpetersblog.com/wp-content/uploads/2017/10/IMG_20171006_081643497.jpg" title="Facebook" class="share"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+<li class="li-twitter"><a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsaintpetersblog.com%2Fhart-ceo-talks-less-hillsborough-transit%2F&amp;text=HART+CEO+talks+%E2%80%98doing+more+with+less%E2%80%99+for+Hillsborough+transit" title="Twitter" class="share"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+<li class="li-google-plus"><a data-href="https://plus.google.com/share?url=https%3A%2F%2Fsaintpetersblog.com%2Fhart-ceo-talks-less-hillsborough-transit%2F" title="Google+" class="share"><i class="fa fa-google-plus"></i><span>Google</span></a></li>
+<li class="li-pinterest"><a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());" title="Pinterest"><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
+</ul>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div class="related-area">
+<h3 class="blog-related-heading"><span>You might be interested in</span></h3>
+<div class="blog-related">
+<article id="post-288280" class="post-related post-288280 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-the-bay-and-the-burg category-top-headlines tag-ash-britt tag-john-lyons tag-ken-hagan tag-les-miller tag-mike-merrill tag-phillips-jordan tag-sandy-murman tag-stacy-white"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/hillsborough-commissioners-urge-patience-debris-pickup/"> <img width="150" height="150" src="/wp-content/uploads/2017/10/IMG_20170911_073835844-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2017/10/IMG_20170911_073835844-150x150.jpg 150w, /wp-content/uploads/2017/10/IMG_20170911_073835844-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/hillsborough-commissioners-urge-patience-debris-pickup/">Hillsborough Commissioners urge patience on debris pickup</a></h3>
+</header>
+<div class="related-excerpt">
+<p>While it&#8217;s been less than a month since Hurricane Irma&#8217;s strong winds brushed through Florida, Hillsborough County Commissioners are getting</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-288071" class="post-related post-288071 post type-post status-publish format-standard has-post-thumbnail hentry category-the-bay-and-the-burg category-top-headlines tag-florida-department-of-transportation tag-go-hillsborough tag-hart tag-hillsborough-area-regional-transit-authority tag-regional-transit-feasibility-plan tag-university-of-south-florida tag-wesley-chapel"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/light-rail-ranks-top-choice-tampa-bay-premium-transit-study/"> <img width="150" height="150" src="/wp-content/uploads/2017/09/0209-2016-VTA-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/light-rail-ranks-top-choice-tampa-bay-premium-transit-study/">Light rail ranks as top choice in Tampa Bay premium transit study</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Since the demise of the Go Hillsborough initiative last year, transit officials and Tampa Bay-area lawmakers have pinned their hopes</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<article id="post-287409" class="post-related post-287409 post type-post status-publish format-standard has-post-thumbnail hentry category-the-bay-and-the-burg category-top-headlines tag-brad-miller tag-hart tag-katharine-eagan tag-psta"><div class="related-inner">
+<figure class="related-thumbnail">
+<a href="/tampa-bay-transit-systems-back-regular-schedule/"> <img width="150" height="150" src="/wp-content/uploads/2016/10/psta-express-buses-Large-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/10/psta-express-buses-Large-150x150.jpg 150w, /wp-content/uploads/2016/10/psta-express-buses-Large-640x640.jpg 640w" sizes="(max-width: 150px) 100vw, 150px">
+</a> </figure>
+<section class="related-body">
+<div class="post-content">
+<header class="related-header">
+<h3 class="related-title"><a href="/tampa-bay-transit-systems-back-regular-schedule/">Tampa Bay transit systems back to regular schedule</a></h3>
+</header>
+<div class="related-excerpt">
+<p>Another sign of a return to normalcy iin the Tampa Bay region post Hurricane Irma&#8217;s arrival as a Category 1</p>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</section>
+<div class="clearfix"></div>
+</div>
+</article>
+<div class="clearfix"></div>
+<div class="line line1"></div>
+<div class="line line2"></div>
+</div>
+
+</div>
+
+</section>
+<div class="clearfix"></div>
+</article>
+<div class="clearfix"></div>
+<div class="grid-sizer"></div>
+</div>
+
+<div class="wi-pagination"><div class="pagination-inner">
+<span aria-current="page" class="page-numbers current"><span>1</span></span>
+<a class="page-numbers" href="/page/2/"><span>2</span></a>
+<a class="page-numbers" href="/page/3/"><span>3</span></a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="/page/7092/"><span>7,092</span></a>
+<a class="next page-numbers" href="/page/2/"><span>Next</span></a><div class="clearfix"></div>
+</div></div>
+</div>
+
+</div>
+
+</main>
+<div id="secondary" class="secondary">
+<div class="theiaStickySidebar">
+<div id="widget-area" class="widget-area" role="complementary">
+<aside id="text-46" class="widget widget_text"> <div class="textwidget">
+<div class="300_ad_lower"><div class="dfad dfad_pos_1 dfad_first" id="_ad_183181"><a href="https://conversaco.com/"><img src="https://saintpetersblog.com/wp-content/uploads/2015/08/300x250.gif" alt="Conversa_300x250" width="300" height="250" class="aligncenter size-full wp-image-7498"></a></div></div>
+</div>
+</aside><aside id="text-57" class="widget widget_text"><h3 class="widget-title"><span>Sunburn</span></h3> <div class="textwidget">
+<form id="subForm" action="https://schorsch.createsend.com/t/i/s/tiukjr/" method="post">Receive Peter Schorsch&#8217;s agenda-setting read of what&#8217;s hot in Florida politics.
+<p><input id="fieldEmail" name="cm-tiukjr-tiukjr" required type="email" placeholder="Email Address"></p>
+<p><button type="submit">Subscribe</button></p>
+</form>
+</div>
+</aside><aside id="latest-posts-3" class="widget widget_display_posts"><h3 class="widget-title"><span>Peter&#8217;s Latest</span></h3>
+<div class="latest-posts">
+<ul class="latest-list">
+<li class="latest-article format-standard">
+<figure class="latest-thumb">
+<a href="/the-end-for-saintpetersblog/">
+<img width="480" height="384" src="/wp-content/uploads/2017/10/The-End-480x384.jpeg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy"> </a>
+</figure>
+<section class="latest-content">
+<time class="latest-date" datetime="2017-10-08T10:50:56-04:00">October 8, 2017</time>
+<h3 class="latest-title"><a href="/the-end-for-saintpetersblog/">The end for SaintPetersBlog</a></h3>
+</section>
+<div class="clearfix"></div>
+</li>
+
+<li class="latest-article format-standard">
+<figure class="latest-thumb">
+<a href="/takeaways-tallahassee-fsu-takes-campus-names-markers/">
+<img width="480" height="343" src="/wp-content/uploads/2016/09/University-of-Florida-Large.jpg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/09/University-of-Florida-Large.jpg 1512w, /wp-content/uploads/2016/09/University-of-Florida-Large-300x214.jpg 300w, /wp-content/uploads/2016/09/University-of-Florida-Large-768x549.jpg 768w, /wp-content/uploads/2016/09/University-of-Florida-Large-1024x731.jpg 1024w" sizes="(max-width: 480px) 100vw, 480px"> </a>
+</figure>
+<section class="latest-content">
+<time class="latest-date" datetime="2017-10-07T06:00:15-04:00">October 7, 2017</time>
+<h3 class="latest-title"><a href="/takeaways-tallahassee-fsu-takes-campus-names-markers/">Takeaways from Tallahassee — FSU takes on campus names, markers</a></h3>
+</section>
+<div class="clearfix"></div>
+</li>
+
+<li class="latest-article format-standard">
+<figure class="latest-thumb">
+<a href="/sunburn-morning-read-whats-hot-florida-politics-10-5-17/">
+<img width="480" height="320" src="/wp-content/uploads/2016/09/capitol-building-tallahassee.jpeg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy" srcset="/wp-content/uploads/2016/09/capitol-building-tallahassee.jpeg 2520w, /wp-content/uploads/2016/09/capitol-building-tallahassee-300x200.jpeg 300w, /wp-content/uploads/2016/09/capitol-building-tallahassee-768x512.jpeg 768w, /wp-content/uploads/2016/09/capitol-building-tallahassee-1024x683.jpeg 1024w" sizes="(max-width: 480px) 100vw, 480px"> </a>
+</figure>
+<section class="latest-content">
+<time class="latest-date" datetime="2017-10-05T04:00:11-04:00">October 5, 2017</time>
+<h3 class="latest-title"><a href="/sunburn-morning-read-whats-hot-florida-politics-10-5-17/">Sunburn — The morning read of what&#8217;s hot in Florida politics — 10.5.17</a></h3>
+</section>
+<div class="clearfix"></div>
+</li>
+
+<li class="latest-article format-standard">
+<figure class="latest-thumb">
+<a href="/exclusive-major-puerto-rico-power-restoration-project-awarded-small-untested-vendor/">
+<img width="480" height="384" src="/wp-content/uploads/2017/10/170907-hurricane-irma-puerto-rico-njs-835a_f49999cd27a4f1cfd711bac26c5436cf.nbcnews-ux-2880-1000-480x384.jpg" class="attachment-thumbnail-medium size-thumbnail-medium wp-post-image" alt loading="lazy"> </a>
+</figure>
+<section class="latest-content">
+<time class="latest-date" datetime="2017-10-04T07:08:56-04:00">October 4, 2017</time>
+<h3 class="latest-title"><a href="/exclusive-major-puerto-rico-power-restoration-project-awarded-small-untested-vendor/">Exclusive: Major Puerto Rico power restoration project awarded to small, untested vendor </a></h3>
+</section>
+<div class="clearfix"></div>
+</li>
+
+</ul>
+<div class="clearfix"></div>
+</div>
+
+</aside><aside id="text-58" class="widget widget_text"> <div class="textwidget">
+<div><div class="dfad dfad_pos_1 dfad_first" id="_ad_262068"><a href="https://www.flapartners.com/signup-floridian-partners-mailing-list/?utm_source=St%20Petersblog&utm_medium=Banner&utm_content=160x600&utm_campaign=Mailing%20list"><img src="https://saintpetersblog.com/wp-content/uploads/2016/06/160x600-mailing-list.jpg" width="160" height="600" class="alignnone size-full wp-image-3213"></a></div></div>
+</div>
+</aside> <div class="gutter-sidebar"></div>
+</div>
+
+</div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<footer id="wi-footer">
+<div id="footer-bottom" role="contentinfo">
+<div class="container">
+<div id="footer-social" class="social-list">
+<ul>
+<li class="li-facebook-square"><a href="https://www.facebook.com/SaintPetersblog/" target="_blank" rel="alternate" title="Facebook"><i class="fa fa-facebook-square"></i> <span>Facebook</span></a></li>
+<li class="li-twitter"><a href="https://twitter.com/SaintPetersblog" target="_blank" rel="alternate" title="Twitter"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li>
+<li class="li-instagram"><a href="https://www.instagram.com/fla_pol" target="_blank" rel="alternate" title="Instagram"><i class="fa fa-instagram"></i> <span>Instagram</span></a></li>
+<li class="li-rss"><a href="https://saintpetersblog.com/feed/" target="_blank" rel="alternate" title="Feed"><i class="fa fa-rss"></i> <span>Feed</span></a></li>
+</ul>
+</div>
+
+<div class="footer-search-container">
+<div class="footer-search" id="footer-search">
+<form action="https://saintpetersblog.com" method="get">
+<input type="text" name="s" class="s" value placeholder="Search...">
+<button class="submit" type="submit"><i class="fa fa-search"></i></button>
+</form>
+
+</div>
+
+</div>
+
+<p class="copyright">All rights reserved. Digital Notices, LLC.</p>
+<nav id="footernav" class="footernav" role="navigation">
+<div class="menu"><ul id="menu-footer-menu" class="menu">
+<li id="menu-item-284230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284230"><a href="https://saintpetersblog.com/">Home</a></li>
+<li id="menu-item-284231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284231"><a href="/about/">About</a></li>
+</ul></div> </nav>
+</div>
+
+</div>
+
+</footer>
+</div>
+
+<div class="clearfix"></div>
+</div>
+
+<div id="backtotop" class="backtotop">
+<span class="go">Go to</span>
+<span class="top">Top</span>
+</div>
+
+<script type="text/javascript" id="wi-main-js-extra">
+/* <![CDATA[ */
+var WITHEMES = {"l10n":{"prev":"Previous","next":"Next"},"enable_sticky_sidebar":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/fox/js/theme.min.js?ver=2.5.2" id="wi-main-js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.5.10" id="wp-embed-js"></script>
+</body>
+</html>
