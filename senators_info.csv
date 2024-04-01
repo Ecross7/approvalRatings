@@ -1,0 +1,94 @@
+full_name,pct,birthday,gender,party,senate_class,stage,cycle,start_date,end_date,age,Emotion (Majority),Race (Majority),Valence (Mean)
+amy klobuchar,54.0,1960-05-25,F,Democrat,1.0,general,2018,2018-10-15,2018-10-30,64,happy,white,26.80534018117629
+benjamin l. cardin,56.0,1943-10-05,M,Democrat,1.0,general,2018,2018-09-11,2018-09-16,81,angry,white,0.5169637530488529
+bernard sanders,75.0,1941-09-08,M,Independent,1.0,general,2018,2018-09-23,2018-09-26,83,happy,white,10.594323282770713
+bill cassidy,52.0,1957-09-28,M,Republican,2.0,runoff,2020,2020-08-06,2020-08-12,67,neutral,white,-3.6262515459061526
+bill hagerty,55.0,1959-08-14,M,Republican,2.0,general,2020,2020-01-28,2020-01-30,65,happy,asian,34.399512664827704
+bill nelson,40.6,1942-09-29,M,Democrat,1.0,general,2018,2018-10-18,2018-10-21,82,happy,white,60.46165978363185
+charles e. schumer,56.0,1950-11-23,M,Democrat,3.0,general,2022,2022-07-24,2022-07-28,74,happy,white,30.037539427004926
+christopher a. coons,57.0,1963-09-09,M,Democrat,2.0,general,2020,2020-09-21,2020-09-27,61,neutral,white,-22.56037820727488
+christopher murphy,56.0,1973-08-03,M,Democrat,1.0,general,2018,2018-10-22,2018-10-28,51,neutral,white,36.546874483254975
+cindy hyde-smith,53.0,1959-05-10,F,Republican,2.0,general,2020,2020-02-26,2020-02-28,65,happy,white,37.55366501088453
+claire mccaskill,44.0,1953-07-24,F,Democrat,1.0,general,2018,2017-07-07,2017-07-08,71,happy,white,37.82030643630891
+cory a. booker,55.0,1969-04-27,M,Democrat,2.0,general,2020,2020-04-16,2020-04-19,55,sad,black,-25.862446014386386
+cory gardner,39.0,1974-08-22,M,Republican,2.0,general,2020,2020-10-12,2020-10-16,50,happy,white,8.173778885984957
+cynthia m. lummis,56.0,1954-09-10,F,Republican,2.0,general,2020,2020-10-08,2020-10-28,70,happy,white,73.71523732754788
+dan sullivan,39.0,1964-11-13,M,Republican,2.0,general,2020,2019-05-28,2019-06-04,60,sad,white,-60.4136763966063
+david perdue,48.0,1949-12-10,M,Republican,2.0,general,2020,2020-10-23,2020-10-27,75,happy,white,4.654623573088737
+dean heller,43.0,1960-05-10,M,Republican,1.0,general,2018,2018-08-20,2018-08-21,64,sad,white,-29.753429978299987
+deb fischer,42.0,1951-03-01,F,Republican,1.0,general,2018,2017-11-10,2017-11-12,73,happy,white,71.39274896922947
+debbie stabenow,52.0,1950-04-29,F,Democrat,1.0,general,2018,2018-11-01,2018-11-03,74,happy,white,70.94527648897927
+dianne feinstein,40.0,1933-06-22,F,Democrat,1.0,general,2018,2018-09-09,2018-09-18,91,neutral,white,-38.11519955639624
+edward j. markey,65.0,1946-07-11,M,Democrat,2.0,general,2020,2020-10-14,2020-10-21,78,happy,white,40.26237904606963
+elizabeth warren,54.0,1949-06-22,F,Democrat,1.0,general,2018,2018-10-25,2018-10-28,75,happy,white,20.429168730235908
+eric schmitt,50.0,1975-06-20,M,Republican,3.0,general,2022,2022-04-27,2022-04-28,49,happy,white,43.73073468839683
+gary c. peters,47.0,1958-12-01,M,Democrat,2.0,general,2020,2020-07-28,2020-07-29,66,happy,white,50.3195603357082
+heidi heitkamp,43.0,1955-10-30,F,Democrat,1.0,general,2018,2018-02-21,2018-02-24,69,neutral,white,8.663680887043517
+james e. risch,53.36,1943-05-03,M,Republican,2.0,general,2020,2020-08-29,2020-09-01,81,happy,white,14.529241159937367
+james lankford,59.0,1968-03-04,M,Republican,3.0,general,2022,2022-08-31,2022-09-07,56,surprise,white,2.8414981580408387
+james m. inhofe,46.0,1934-11-17,M,Republican,2.0,general,2020,2020-09-17,2020-09-20,90,happy,white,29.794733149061827
+jeanne shaheen,54.0,1947-01-28,F,Democrat,2.0,general,2020,2020-07-16,2020-07-28,77,happy,white,59.93191924222657
+jeff merkley,55.0,1956-10-24,M,Democrat,2.0,general,2020,2020-09-26,2020-09-29,68,neutral,white,-30.98241391620025
+jerry moran,54.0,1954-05-29,M,Republican,3.0,general,2022,2022-08-31,2022-09-07,70,happy,white,52.48092638079847
+joe donnelly,55.0,1955-09-29,M,Democrat,1.0,general,2018,2018-10-13,2018-10-15,69,happy,latino hispanic,34.26972694667271
+"joe manchin, iii",36.2,1947-08-24,M,Democrat,1.0,general,2024,2022-08-24,2022-08-26,77,sad,white,-18.143174148652324
+john barrasso,60.0,1952-07-21,M,Republican,1.0,general,2018,2018-11-02,2018-11-04,72,sad,latino hispanic,18.06961020787273
+john boozman,54.6,1950-12-10,M,Republican,3.0,general,2022,2022-10-13,2022-10-31,74,sad,latino hispanic,-73.29325515232493
+john cornyn,45.0,1952-02-02,M,Republican,2.0,general,2020,2020-10-17,2020-10-25,72,happy,white,25.95003657000364
+john fetterman,46.0,1969-08-15,M,Democrat,3.0,general,2022,2022-10-18,2022-10-20,55,sad,white,-61.447517586379526
+john kennedy,51.0,1951-11-21,M,Republican,3.0,jungle primary,2022,2022-08-31,2022-09-07,73,fear,white,-46.301529892828285
+john mccain,29.0,1936-08-29,M,Republican,3.0,general,2022,2021-05-03,2021-05-05,88,neutral,white,-19.627204721417737
+john thune,59.0,1961-01-07,M,Republican,3.0,general,2022,2022-03-14,2022-03-19,63,happy,white,25.00993045735318
+john w. hickenlooper,53.0,1952-02-07,M,Democrat,2.0,general,2020,2019-10-10,2019-10-14,72,neutral,white,-2.723335189678059
+jon ossoff,46.0,1987-02-16,M,Democrat,2.0,runoff,2020,2020-11-08,2020-11-09,37,sad,white,8.028879021008894
+jon tester,46.0,1956-08-21,M,Democrat,1.0,general,2024,2023-01-30,2023-02-01,68,happy,white,63.739560441804265
+joni ernst,45.0,1970-07-01,F,Republican,2.0,general,2020,2020-10-21,2020-10-24,54,happy,white,98.50188529148238
+katie boyd britt,57.1,1982-02-02,F,Republican,3.0,general,2022,2022-10-27,2022-10-29,42,happy,white,39.11848358956996
+kelly ayotte,36.0,1968-06-27,F,Republican,3.0,general,2020,2019-02-07,2019-02-15,56,sad,white,-11.95475998529677
+kelly loeffler,44.0,1970-11-27,F,Republican,3.0,general,2022,2021-08-04,2021-08-05,54,happy,white,-3.193532532418831
+kevin cramer,53.0,1961-01-21,M,Republican,1.0,general,2018,2018-06-11,2018-07-02,63,happy,white,56.31816933913245
+kirsten e. gillibrand,60.0,1966-12-09,F,Democrat,1.0,general,2018,2018-03-11,2018-03-16,58,happy,white,89.56546600210419
+kyrsten sinema,46.0,1976-07-12,F,Independent,1.0,general,2018,2018-10-17,2018-10-26,48,happy,white,8.316579195094784
+lindsey graham,49.0,1955-07-09,M,Republican,2.0,general,2020,2020-07-15,2020-07-20,69,happy,white,56.45449255479361
+lisa murkowski,41.0,1957-05-22,F,Republican,3.0,general,2022,2022-09-25,2022-09-27,67,happy,white,25.55839500020313
+marco rubio,42.0,1971-05-28,M,Republican,3.0,general,2022,2022-10-04,2022-10-11,53,happy,latino hispanic,18.84698936874464
+maria cantwell,53.0,1958-10-13,F,Democrat,1.0,general,2018,2018-10-04,2018-10-09,66,happy,white,72.52642763735518
+mark kelly,49.0,1964-02-21,M,Democrat,3.0,general,2020,2020-10-02,2020-10-11,60,neutral,white,45.87416319936832
+mark r. warner,50.7,1954-12-15,M,Democrat,2.0,general,2020,2020-09-22,2020-09-25,70,happy,white,54.06185941743346
+markwayne mullin,53.0,1977-07-26,M,Republican,2.0,general,2022,2022-11-05,2022-11-06,47,happy,white,-5.033317046881995
+marsha blackburn,44.0,1952-06-06,F,Republican,1.0,general,2018,2018-10-09,2018-10-12,72,fear,white,8.592579815737258
+martha mcsally,45.0,1966-03-22,F,Republican,3.0,general,2020,2020-03-10,2020-03-15,58,happy,white,64.26156084349186
+martin heinrich,47.0,1971-10-17,M,Democrat,1.0,general,2018,2018-11-01,2018-11-03,53,neutral,white,-48.85289416639012
+michael f. bennet,46.3,1964-11-28,M,Democrat,3.0,general,2022,2022-04-06,2022-04-08,60,happy,white,98.21498810060211
+mike braun,42.0,1954-03-24,M,Republican,1.0,general,2018,2018-10-24,2018-10-28,70,angry,white,-12.296416334504157
+mike lee,43.0,1971-06-04,M,Republican,3.0,general,2022,2022-10-08,2022-10-11,53,happy,white,31.832268762770678
+mitch mcconnell,49.0,1942-02-20,M,Republican,2.0,general,2020,2020-07-25,2020-07-29,82,happy,white,50.69853156356106
+mitt romney,59.0,1947-03-12,M,Republican,1.0,general,2018,2018-10-03,2018-10-09,77,neutral,white,26.01999892272916
+patrick j. leahy,38.0,1940-03-31,M,Democrat,3.0,general,2022,2020-09-03,2020-09-15,84,sad,white,-20.36947482148387
+patty murray,49.0,1950-10-11,F,Democrat,3.0,general,2022,2021-10-25,2021-10-28,74,fear,white,-37.52913226470474
+peter welch,62.0,1947-05-02,M,Democrat,3.0,general,2022,2022-04-14,2022-04-18,77,happy,white,37.67638477293168
+rand paul,55.0,1963-01-07,M,Republican,3.0,general,2022,2022-01-19,2022-01-22,61,neutral,white,17.60515708136543
+raphael g. warnock,51.1,1969-07-23,M,Democrat,3.0,runoff,2022,2022-12-03,2022-12-05,55,happy,black,27.55499914118782
+richard blumenthal,51.0,1946-02-13,M,Democrat,3.0,general,2022,2022-05-10,2022-05-11,78,happy,white,33.3983708057631
+richard j. durbin,52.0,1944-11-21,M,Democrat,2.0,general,2020,2020-10-31,2020-11-01,80,neutral,white,-36.13230847400164
+rick scott,48.6,1952-12-01,M,Republican,1.0,general,2018,2018-10-15,2018-10-16,72,angry,white,-48.6986344276481
+robert menendez,53.0,1954-01-01,M,Democrat,1.0,general,2018,2018-09-25,2018-10-02,70,happy,white,70.12972175766451
+roger f. wicker,48.0,1951-07-05,M,Republican,1.0,general,2018,2018-11-02,2018-11-04,73,angry,white,-40.68411582742755
+roger marshall,47.0,1960-08-09,M,Republican,2.0,general,2020,2020-10-25,2020-10-27,64,happy,white,7.087163597306109
+ron johnson,47.7,1955-04-08,M,Republican,3.0,general,2022,2022-09-16,2022-09-18,69,happy,white,10.692536417088064
+ron wyden,50.6,1949-05-03,M,Democrat,3.0,general,2022,2022-10-31,2022-11-01,75,happy,white,72.19425996262969
+roy blunt,45.0,1950-01-10,M,Republican,3.0,general,2022,2021-01-10,2021-01-12,74,angry,white,-37.84117301936279
+sheldon whitehouse,54.0,1955-10-20,M,Democrat,1.0,general,2018,2018-05-30,2018-06-04,69,happy,white,23.102676034612177
+sherrod brown,40.9,1952-11-09,M,Democrat,1.0,general,2024,2023-11-10,2023-11-13,72,happy,white,98.7373767702039
+steve daines,47.0,1962-08-20,M,Republican,2.0,general,2020,2020-10-26,2020-10-27,62,happy,white,99.4289344665158
+susan m. collins,47.0,1952-12-07,F,Republican,2.0,general,2020,2020-08-30,2020-09-05,72,happy,white,19.437815548807485
+tammy baldwin,57.0,1962-02-11,F,Democrat,1.0,general,2018,2018-06-11,2018-07-02,62,sad,white,-2.880489108420562
+tammy duckworth,49.1,1968-03-12,F,Democrat,3.0,general,2022,2022-10-20,2022-10-24,56,happy,asian,70.99628729876423
+ted budd,45.0,1971-10-21,M,Republican,3.0,general,2022,2022-06-17,2022-06-19,53,happy,white,62.551687306211896
+ted cruz,50.3,1970-12-22,M,Republican,1.0,general,2018,2018-10-28,2018-10-30,54,happy,white,5.415103760152585
+thomas r. carper,61.0,1947-01-23,M,Democrat,1.0,general,2018,2018-09-11,2018-09-17,77,happy,white,5.634980809110985
+tim scott,54.0,1965-09-19,M,Republican,3.0,general,2022,2022-08-31,2022-09-07,59,happy,black,43.021640875754606
+tina smith,44.0,1958-03-04,F,Democrat,2.0,general,2018,2018-09-10,2018-09-12,66,happy,white,87.91818738107787
+todd young,39.0,1972-08-24,M,Republican,3.0,general,2022,2022-09-25,2022-09-26,52,happy,white,14.54432360615813
+tom cotton,62.5,1977-05-13,M,Republican,2.0,general,2020,2020-10-11,2020-10-13,47,happy,white,37.55573974117401
+tommy tuberville,47.0,1954-09-18,M,Republican,2.0,general,2020,2020-05-14,2020-05-18,70,neutral,white,-49.08704041298221
