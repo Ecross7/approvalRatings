@@ -1,0 +1,1117 @@
+Senator,Age,Emotion,Race,Val1,Val2,Val3,pct,Gender
+amy_klobuchar,36,sad,white,-0.099,-0.198,-0.297,54.0,Woman
+amy_klobuchar,38,sad,white,-0.07,-0.134,-0.174,50.2,Woman
+amy_klobuchar,32,happy,white,0.396,0.297,0.495,60.0,Woman
+amy_klobuchar,24,happy,white,0.396,0.297,0.495,63.0,Woman
+amy_klobuchar,42,happy,white,0.396,0.297,0.495,62.0,Woman
+amy_klobuchar,36,happy,white,0.396,0.297,0.495,60.0,Woman
+amy_klobuchar,36,happy,white,0.374,0.278,0.468,53.6,Woman
+amy_klobuchar,38,sad,white,-0.07,-0.134,-0.174,59.0,Woman
+amy_klobuchar,36,happy,white,0.396,0.297,0.495,53.0,Woman
+amy_klobuchar,41,fear,white,-0.053,-0.15,-0.097,49.0,Woman
+amy_klobuchar,37,happy,white,0.392,0.294,0.49,50.0,Woman
+amy_klobuchar,36,happy,white,0.346,0.252,0.43,56.0,Woman
+benjamin_l._cardin,56,happy,asian,0.396,0.297,0.495,53.6,Man
+benjamin_l._cardin,61,happy,asian,0.396,0.297,0.495,59.0,Man
+benjamin_l._cardin,50,happy,asian,0.396,0.297,0.495,53.0,Man
+benjamin_l._cardin,50,happy,asian,0.396,0.297,0.495,49.0,Man
+benjamin_l._cardin,44,angry,white,0.03,-0.069,0.129,50.0,Man
+benjamin_l._cardin,41,angry,asian,-0.109,-0.174,-0.099,56.0,Man
+benjamin_l._cardin,32,sad,white,-0.099,-0.198,-0.287,57.0,Man
+benjamin_l._cardin,39,happy,white,0.368,0.276,0.46,53.0,Man
+benjamin_l._cardin,39,sad,white,0.022,-0.049,-0.057,55.0,Man
+benjamin_l._cardin,54,angry,white,-0.1,-0.161,-0.097,56.0,Man
+benjamin_l._cardin,48,fear,white,-0.059,-0.155,-0.05,49.4,Man
+benjamin_l._cardin,54,angry,white,-0.162,-0.256,-0.11,53.6,Man
+benjamin_l._cardin,51,happy,asian,0.317,0.223,0.398,59.0,Man
+bernard_sanders,49,fear,white,-0.105,-0.202,-0.169,60.0,Man
+bernard_sanders,27,fear,white,-0.098,-0.196,-0.13,75.0,Man
+bernard_sanders,39,happy,white,0.392,0.294,0.49,66.0,Man
+bernard_sanders,39,happy,white,0.392,0.294,0.49,60.0,Man
+bernard_sanders,27,fear,white,-0.098,-0.196,-0.13,75.0,Man
+bernard_sanders,39,happy,white,0.104,0.024,0.184,66.0,Man
+bernard_sanders,54,angry,white,-0.13,-0.213,-0.133,60.0,Man
+bernard_sanders,36,fear,white,-0.054,-0.108,-0.054,75.0,Man
+bernard_sanders,35,fear,asian,0.049,-0.046,0.003,66.0,Man
+bernard_sanders,38,sad,asian,-0.096,-0.177,-0.213,60.0,Man
+bernard_sanders,52,happy,white,0.396,0.297,0.495,75.0,Man
+bernard_sanders,39,happy,white,0.396,0.297,0.495,66.0,Man
+bernard_sanders,25,fear,white,-0.099,-0.198,-0.099,60.0,Man
+bill_cassidy,33,sad,white,-0.091,-0.178,-0.233,42.0,Man
+bill_cassidy,25,neutral,white,-0.031,-0.057,-0.04,52.0,Man
+bill_cassidy,26,happy,white,0.4,0.3,0.5,46.0,Man
+bill_cassidy,35,neutral,white,-0.002,-0.013,0.003,48.0,Man
+bill_cassidy,51,happy,white,0.4,0.3,0.5,49.0,Man
+bill_cassidy,53,fear,white,-0.101,-0.2,-0.099,50.0,Man
+bill_cassidy,44,happy,white,0.4,0.3,0.5,42.0,Man
+bill_cassidy,33,sad,white,-0.091,-0.178,-0.233,44.0,Man
+bill_cassidy,30,neutral,white,-0.015,-0.036,-0.003,46.0,Man
+bill_hagerty,35,happy,white,0.316,0.237,0.395,55.0,Man
+bill_hagerty,39,fear,asian,-0.033,-0.128,-0.048,56.3,Man
+bill_hagerty,46,happy,asian,0.192,0.094,0.25,60.7,Man
+bill_hagerty,44,happy,asian,0.384,0.288,0.48,55.0,Man
+bill_hagerty,41,neutral,asian,0.124,0.093,0.155,56.3,Man
+bill_hagerty,31,neutral,asian,-0.027,-0.054,-0.063,60.7,Man
+bill_hagerty,44,happy,asian,0.384,0.288,0.48,55.0,Man
+bill_hagerty,46,fear,latino hispanic,-0.099,-0.198,-0.099,56.3,Man
+bill_hagerty,41,neutral,asian,0.02,0.015,0.025,60.7,Man
+bill_hagerty,39,neutral,latino hispanic,0.091,0.068,0.112,55.0,Man
+bill_nelson,27,angry,asian,-0.14,-0.223,-0.171,48.0,Man
+bill_nelson,42,sad,white,-0.093,-0.185,-0.274,49.9,Man
+bill_nelson,41,happy,white,0.396,0.297,0.495,48.0,Man
+bill_nelson,42,sad,white,-0.093,-0.185,-0.274,53.0,Man
+bill_nelson,40,happy,white,0.396,0.297,0.495,47.0,Man
+bill_nelson,41,happy,white,0.396,0.297,0.495,46.0,Man
+bill_nelson,51,neutral,white,0.0,0.0,0.0,46.0,Man
+bill_nelson,37,happy,white,0.396,0.297,0.495,44.0,Man
+bill_nelson,30,happy,white,0.396,0.297,0.495,41.3,Man
+bill_nelson,41,happy,white,0.396,0.297,0.495,48.0,Man
+bill_nelson,32,angry,white,-0.155,-0.251,-0.133,50.0,Man
+bill_nelson,29,happy,white,0.383,0.286,0.479,45.0,Man
+charles_e._schumer,41,happy,white,0.392,0.294,0.49,54.0,Man
+charles_e._schumer,35,happy,white,0.34,0.255,0.425,56.0,Man
+charles_e._schumer,59,angry,middle eastern,-0.191,-0.29,-0.109,50.0,Man
+charles_e._schumer,27,happy,middle eastern,0.396,0.297,0.495,59.0,Man
+charles_e._schumer,23,happy,middle eastern,0.396,0.297,0.495,60.0,Man
+charles_e._schumer,44,happy,white,0.316,0.237,0.395,52.0,Man
+charles_e._schumer,41,happy,white,0.392,0.294,0.49,56.0,Man
+charles_e._schumer,59,sad,white,-0.095,-0.182,-0.239,50.6,Man
+christopher_a._coons,26,happy,white,0.388,0.29,0.478,57.0,Man
+christopher_a._coons,42,happy,asian,0.3,0.225,0.375,57.0,Man
+christopher_a._coons,35,angry,white,-0.122,-0.202,-0.15,57.0,Man
+christopher_a._coons,37,angry,white,-0.19,-0.288,-0.11,57.0,Man
+christopher_a._coons,49,happy,white,0.175,0.092,0.171,57.0,Man
+christopher_a._coons,26,happy,white,0.388,0.29,0.478,57.0,Man
+christopher_a._coons,25,neutral,white,-0.05,-0.1,-0.068,57.0,Man
+christopher_a._coons,50,neutral,asian,-0.065,-0.111,-0.1,57.0,Man
+christopher_a._coons,50,neutral,asian,-0.065,-0.111,-0.1,57.0,Man
+christopher_a._coons,28,neutral,latino hispanic,0.0,0.0,0.0,57.0,Man
+christopher_a._coons,55,neutral,white,0.042,0.0079999999999999,0.048,57.0,Man
+christopher_a._coons,44,neutral,white,-0.076,-0.133,-0.103,57.0,Man
+christopher_a._coons,25,neutral,white,-0.05,-0.1,-0.068,57.0,Man
+christopher_a._coons,50,fear,white,-0.097,-0.194,-0.099,57.0,Man
+christopher_murphy,46,neutral,white,0.08,0.05,0.09,58.0,Man
+christopher_murphy,34,neutral,white,0.08,0.06,0.1,59.0,Man
+christopher_murphy,28,happy,white,0.396,0.297,0.495,55.1,Man
+christopher_murphy,27,happy,white,0.335,0.247,0.42,57.0,Man
+christopher_murphy,30,surprise,white,0.297,0.198,0.198,56.0,Man
+christopher_murphy,40,angry,white,-0.182,-0.278,-0.103,54.0,Man
+christopher_murphy,28,happy,white,0.396,0.297,0.495,58.0,Man
+christopher_murphy,27,sad,asian,-0.099,-0.198,-0.281,59.0,Man
+christopher_murphy,34,neutral,white,0.08,0.06,0.1,55.1,Man
+christopher_murphy,26,neutral,white,-0.004,-0.033,-0.032,57.0,Man
+christopher_murphy,27,happy,white,0.368,0.276,0.46,56.0,Man
+christopher_murphy,37,neutral,white,0.0,0.0,0.0,54.0,Man
+christopher_murphy,30,surprise,white,0.277,0.178,0.183,58.0,Man
+christopher_murphy,35,happy,white,0.383,0.287,0.477,59.0,Man
+cindy_hyde-smith,39,happy,white,0.264,0.168,0.342,29.0,Woman
+cindy_hyde-smith,49,happy,white,0.147,0.069,0.186,27.4,Woman
+cindy_hyde-smith,35,sad,white,-0.064,-0.126,-0.178,58.31,Woman
+cindy_hyde-smith,37,happy,white,0.388,0.291,0.485,47.0,Woman
+cindy_hyde-smith,51,happy,white,0.396,0.297,0.495,50.0,Woman
+cindy_hyde-smith,42,happy,white,0.34,0.255,0.425,36.0,Woman
+cindy_hyde-smith,34,sad,white,-0.057,-0.125,-0.139,24.0,Woman
+cindy_hyde-smith,35,sad,white,-0.064,-0.126,-0.178,38.0,Woman
+cindy_hyde-smith,32,happy,white,0.34,0.255,0.425,38.0,Woman
+cindy_hyde-smith,46,happy,white,0.32,0.24,0.4,27.0,Woman
+cindy_hyde-smith,39,happy,white,0.264,0.168,0.342,54.0,Woman
+claire_mccaskill,27,fear,white,-0.139,-0.237,-0.13,46.0,Woman
+claire_mccaskill,28,fear,white,-0.118,-0.216,-0.118,47.0,Woman
+claire_mccaskill,47,neutral,white,-0.053,-0.097,-0.07,41.0,Woman
+claire_mccaskill,49,surprise,white,0.273,0.174,0.18,46.0,Woman
+claire_mccaskill,42,happy,white,0.384,0.288,0.48,45.0,Woman
+claire_mccaskill,46,happy,white,0.396,0.297,0.495,50.0,Woman
+claire_mccaskill,53,happy,white,0.396,0.297,0.495,41.0,Woman
+claire_mccaskill,49,surprise,white,0.273,0.174,0.18,45.2,Woman
+claire_mccaskill,47,happy,white,0.396,0.297,0.495,43.0,Woman
+claire_mccaskill,49,happy,white,0.396,0.297,0.495,45.0,Woman
+claire_mccaskill,46,happy,white,0.396,0.297,0.495,46.0,Woman
+claire_mccaskill,46,surprise,white,0.146,0.053,0.044,46.0,Woman
+claire_mccaskill,42,happy,white,0.384,0.288,0.48,46.0,Woman
+claire_mccaskill,42,happy,white,0.384,0.288,0.48,47.0,Woman
+cory_a._booker,34,sad,black,-0.09,-0.18,-0.266,58.0,Man
+cory_a._booker,34,sad,black,-0.09,-0.18,-0.266,55.0,Man
+cory_a._booker,30,fear,white,-0.1,-0.199,-0.099,59.0,Man
+cory_a._booker,31,sad,black,0.012,-0.085,-0.043,61.0,Man
+cory_a._booker,31,happy,latino hispanic,0.396,0.297,0.495,56.6,Man
+cory_a._booker,33,fear,black,-0.019,-0.118,-0.039,51.55,Man
+cory_a._booker,29,happy,black,0.396,0.297,0.495,55.0,Man
+cory_a._booker,32,happy,latino hispanic,0.38,0.282,0.472,61.0,Man
+cory_a._booker,29,sad,black,-0.097,-0.193,-0.278,58.0,Man
+cory_a._booker,33,fear,black,-0.019,-0.118,-0.039,55.0,Man
+cory_a._booker,30,fear,black,-0.129,-0.227,-0.118,59.0,Man
+cory_a._booker,29,sad,black,-0.098,-0.196,-0.276,61.0,Man
+cory_a._booker,30,fear,black,-0.128,-0.227,-0.111,56.6,Man
+cory_a._booker,30,neutral,black,-0.052,-0.116,-0.056,51.55,Man
+cory_gardner,28,happy,white,0.396,0.297,0.495,42.0,Man
+cory_gardner,29,fear,white,-0.068,-0.166,-0.062,39.0,Man
+cory_gardner,29,fear,white,-0.068,-0.166,-0.062,46.0,Man
+cory_gardner,39,neutral,white,0.0,0.0,0.0,42.0,Man
+cory_gardner,30,neutral,white,0.0,0.0,0.0,39.0,Man
+cory_gardner,33,happy,white,0.327,0.241,0.412,40.0,Man
+cory_gardner,33,angry,white,-0.148,-0.239,-0.116,40.0,Man
+cory_gardner,39,happy,white,0.396,0.297,0.495,41.0,Man
+cory_gardner,39,neutral,white,0.0,0.0,0.0,45.0,Man
+cory_gardner,40,happy,white,0.396,0.297,0.495,38.0,Man
+cory_gardner,34,angry,white,-0.107,-0.163,-0.066,39.7,Man
+cory_gardner,33,angry,white,-0.148,-0.239,-0.116,42.0,Man
+cory_gardner,34,happy,white,0.392,0.294,0.49,42.0,Man
+cory_gardner,44,angry,white,-0.092,-0.177,-0.085,43.1,Man
+cynthia_m._lummis,36,happy,white,0.388,0.291,0.485,56.0,Woman
+cynthia_m._lummis,30,neutral,latino hispanic,0.096,0.072,0.12,56.0,Woman
+cynthia_m._lummis,39,happy,white,0.396,0.297,0.495,56.0,Woman
+cynthia_m._lummis,32,happy,white,0.396,0.297,0.495,56.0,Woman
+cynthia_m._lummis,35,happy,white,0.396,0.297,0.495,56.0,Woman
+cynthia_m._lummis,39,happy,white,0.396,0.297,0.495,56.0,Woman
+cynthia_m._lummis,36,happy,white,0.388,0.291,0.485,56.0,Woman
+cynthia_m._lummis,44,happy,white,0.396,0.297,0.495,56.0,Woman
+dan_sullivan,41,fear,white,-0.098,-0.196,-0.101,46.0,Man
+dan_sullivan,37,happy,white,0.336,0.252,0.42,48.0,Man
+dan_sullivan,48,sad,white,-0.141,-0.24,-0.213,44.0,Man
+dan_sullivan,42,sad,white,-0.098,-0.195,-0.275,46.0,Man
+dan_sullivan,33,sad,white,-0.092,-0.183,-0.259,45.0,Man
+dan_sullivan,37,happy,white,0.336,0.252,0.42,46.0,Man
+dan_sullivan,33,happy,white,0.344,0.258,0.43,47.0,Man
+dan_sullivan,41,fear,white,-0.098,-0.196,-0.101,53.0,Man
+dan_sullivan,49,angry,white,-0.181,-0.28,-0.133,46.0,Man
+dan_sullivan,33,sad,white,-0.092,-0.183,-0.259,43.0,Man
+david_perdue,50,angry,middle eastern,-0.108,-0.18,-0.115,44.0,Man
+david_perdue,24,happy,white,0.272,0.176,0.333,46.0,Man
+david_perdue,35,sad,white,-0.122,-0.22,-0.184,44.0,Man
+david_perdue,45,angry,white,-0.014,-0.111,0.005,47.0,Man
+david_perdue,49,happy,white,0.356,0.267,0.445,48.0,Man
+david_perdue,52,happy,white,0.368,0.276,0.46,48.0,Man
+david_perdue,51,happy,asian,0.392,0.294,0.49,50.0,Man
+david_perdue,24,happy,white,0.272,0.176,0.333,41.0,Man
+david_perdue,49,happy,white,0.38,0.285,0.475,43.0,Man
+david_perdue,35,sad,white,-0.122,-0.22,-0.184,43.0,Man
+david_perdue,51,happy,white,0.34,0.255,0.425,43.15,Man
+david_perdue,25,happy,white,0.396,0.297,0.495,44.0,Man
+david_perdue,45,angry,white,-0.014,-0.111,0.005,48.0,Man
+david_perdue,30,fear,white,-0.099,-0.198,-0.169,43.0,Man
+david_perdue,46,happy,white,0.332,0.249,0.415,47.0,Man
+dean_heller,24,happy,white,0.392,0.294,0.49,45.0,Man
+dean_heller,35,fear,white,-0.097,-0.194,-0.099,46.0,Man
+dean_heller,38,sad,white,-0.098,-0.196,-0.264,42.0,Man
+dean_heller,37,fear,white,-0.089,-0.185,-0.158,46.0,Man
+dean_heller,28,sad,white,-0.075,-0.144,-0.151,45.0,Man
+dean_heller,30,happy,white,0.332,0.249,0.415,43.0,Man
+dean_heller,31,neutral,asian,0.052,0.039,0.065,40.0,Man
+dean_heller,36,neutral,asian,-0.035,-0.072,-0.055,42.49,Man
+dean_heller,28,sad,white,-0.075,-0.144,-0.151,44.0,Man
+dean_heller,44,sad,white,-0.096,-0.191,-0.261,43.0,Man
+dean_heller,35,fear,white,-0.097,-0.194,-0.099,34.0,Man
+dean_heller,27,happy,white,0.396,0.297,0.495,48.1,Man
+deb_fischer,48,fear,white,-0.07,-0.166,-0.075,38.0,Woman
+deb_fischer,46,happy,white,0.396,0.297,0.495,54.0,Woman
+deb_fischer,44,happy,white,0.396,0.297,0.495,42.0,Woman
+deb_fischer,36,sad,white,-0.082,-0.164,-0.246,51.0,Woman
+deb_fischer,34,sad,latino hispanic,-0.101,-0.199,-0.278,38.0,Woman
+deb_fischer,39,happy,white,0.392,0.294,0.49,54.0,Woman
+deb_fischer,43,happy,white,0.356,0.267,0.445,42.0,Woman
+deb_fischer,43,happy,white,0.332,0.249,0.415,51.0,Woman
+deb_fischer,46,happy,white,0.396,0.297,0.495,38.0,Woman
+deb_fischer,49,neutral,white,-0.012,-0.021,-0.013,54.0,Woman
+deb_fischer,37,happy,white,0.384,0.288,0.48,42.0,Woman
+debbie_stabenow,26,neutral,white,-0.047,-0.094,-0.055,48.0,Woman
+debbie_stabenow,50,happy,white,0.396,0.297,0.495,51.3,Woman
+debbie_stabenow,44,happy,white,0.396,0.297,0.495,49.0,Woman
+debbie_stabenow,55,happy,white,0.388,0.291,0.485,53.0,Woman
+debbie_stabenow,42,angry,white,-0.087,-0.153,-0.03,47.3,Woman
+debbie_stabenow,31,happy,white,0.327,0.234,0.411,52.8,Woman
+debbie_stabenow,51,happy,white,0.396,0.297,0.495,49.0,Woman
+debbie_stabenow,41,neutral,white,0.128,0.076,0.132,53.0,Woman
+debbie_stabenow,58,happy,white,0.396,0.297,0.495,53.0,Woman
+debbie_stabenow,55,happy,white,0.392,0.294,0.49,49.0,Woman
+debbie_stabenow,42,happy,white,0.396,0.297,0.495,54.0,Woman
+debbie_stabenow,53,fear,white,0.055,-0.043,0.04,53.0,Woman
+debbie_stabenow,39,sad,white,-0.107,-0.204,-0.205,52.0,Woman
+debbie_stabenow,55,happy,white,0.348,0.251,0.421,53.0,Woman
+dianne_feinstein,41,fear,white,-0.097,-0.194,-0.193,45.0,Woman
+dianne_feinstein,50,neutral,white,0.0,0.0,0.0,40.9,Woman
+dianne_feinstein,55,happy,white,0.396,0.297,0.495,50.0,Woman
+dianne_feinstein,36,sad,white,-0.097,-0.194,-0.291,47.0,Woman
+dianne_feinstein,55,happy,white,0.396,0.297,0.495,41.0,Woman
+dianne_feinstein,39,neutral,white,-0.032,-0.064,-0.096,43.0,Woman
+dianne_feinstein,40,fear,white,-0.132,-0.23,-0.098,36.0,Woman
+dianne_feinstein,52,neutral,white,0.039,0.026,0.026,37.8,Woman
+dianne_feinstein,40,fear,white,-0.132,-0.23,-0.098,55.0,Woman
+dianne_feinstein,50,neutral,white,0.0,0.0,0.0,43.0,Woman
+dianne_feinstein,37,neutral,white,0.0,0.0,0.0,42.0,Woman
+dianne_feinstein,42,happy,white,0.153,0.056,0.199,40.0,Woman
+dianne_feinstein,36,sad,white,-0.097,-0.194,-0.291,45.0,Woman
+edward_j._markey,66,fear,white,-0.123,-0.22,-0.109,60.0,Man
+edward_j._markey,48,surprise,white,0.262,0.164,0.181,44.0,Man
+edward_j._markey,33,happy,asian,0.386,0.288,0.484,65.0,Man
+edward_j._markey,49,angry,white,0.048,-0.049,0.134,50.0,Man
+edward_j._markey,30,happy,white,0.259,0.193,0.324,60.0,Man
+edward_j._markey,24,neutral,white,0.019,-0.03,0.008,44.0,Man
+edward_j._markey,55,happy,white,0.387,0.289,0.482,65.0,Man
+edward_j._markey,54,happy,white,0.374,0.278,0.468,50.0,Man
+edward_j._markey,38,happy,latino hispanic,0.388,0.291,0.485,60.0,Man
+edward_j._markey,32,fear,white,-0.051,-0.107,-0.052,44.0,Man
+edward_j._markey,46,happy,latino hispanic,0.396,0.297,0.495,65.0,Man
+edward_j._markey,49,angry,white,0.048,-0.049,0.134,50.0,Man
+elizabeth_warren,44,fear,white,-0.053,-0.148,-0.135,56.0,Woman
+elizabeth_warren,28,happy,latino hispanic,0.396,0.297,0.495,55.7,Woman
+elizabeth_warren,38,fear,middle eastern,-0.102,-0.193,-0.111,60.0,Woman
+elizabeth_warren,28,happy,latino hispanic,0.396,0.297,0.495,56.0,Woman
+elizabeth_warren,42,happy,white,0.38,0.285,0.475,55.0,Woman
+elizabeth_warren,35,neutral,white,-0.047,-0.094,-0.103,54.0,Woman
+elizabeth_warren,51,angry,white,-0.19,-0.288,-0.1,58.0,Woman
+elizabeth_warren,42,happy,white,0.392,0.294,0.49,34.4,Woman
+elizabeth_warren,29,happy,asian,0.391,0.292,0.489,55.2,Woman
+elizabeth_warren,53,fear,asian,-0.1,-0.198,-0.098,53.8,Woman
+elizabeth_warren,29,happy,latino hispanic,0.371,0.272,0.465,56.0,Woman
+elizabeth_warren,35,sad,white,-0.1,-0.192,-0.269,54.0,Woman
+elizabeth_warren,39,neutral,latino hispanic,-0.001,-0.002,-0.003,56.0,Woman
+eric_schmitt,45,happy,white,0.38,0.285,0.475,49.0,Man
+eric_schmitt,23,happy,white,0.315,0.217,0.41,51.0,Man
+eric_schmitt,34,happy,white,0.384,0.288,0.48,47.0,Man
+eric_schmitt,36,happy,white,0.356,0.267,0.445,49.1,Man
+eric_schmitt,40,happy,white,0.396,0.297,0.495,55.0,Man
+eric_schmitt,42,fear,white,-0.094,-0.186,-0.172,50.0,Man
+eric_schmitt,42,happy,white,0.273,0.196,0.339,47.0,Man
+eric_schmitt,46,neutral,white,-0.045,-0.067,-0.064,53.6,Man
+eric_schmitt,42,fear,white,-0.094,-0.186,-0.172,53.3,Man
+eric_schmitt,40,happy,white,0.396,0.297,0.495,37.0,Man
+eric_schmitt,36,happy,white,0.356,0.267,0.445,44.0,Man
+eric_schmitt,44,happy,white,0.36,0.27,0.45,36.0,Man
+eric_schmitt,40,happy,white,0.364,0.273,0.455,46.0,Man
+eric_schmitt,45,sad,white,-0.121,-0.219,-0.198,54.9,Man
+eric_schmitt,37,happy,white,0.392,0.294,0.49,54.4,Man
+gary_c._peters,58,happy,white,0.396,0.297,0.495,51.0,Man
+gary_c._peters,46,happy,white,0.396,0.297,0.495,50.0,Man
+gary_c._peters,41,fear,white,-0.099,-0.196,-0.129,49.0,Man
+gary_c._peters,48,happy,latino hispanic,0.396,0.297,0.495,43.6,Man
+gary_c._peters,48,happy,white,0.396,0.297,0.495,52.0,Man
+gary_c._peters,58,happy,white,0.396,0.297,0.495,51.8,Man
+gary_c._peters,39,happy,middle eastern,0.4,0.3,0.5,54.0,Man
+gary_c._peters,45,angry,white,-0.195,-0.293,-0.098,48.8,Man
+gary_c._peters,50,happy,white,0.396,0.297,0.495,52.0,Man
+gary_c._peters,45,happy,white,0.368,0.276,0.46,39.5,Man
+heidi_heitkamp,38,happy,white,0.396,0.297,0.495,42.0,Woman
+heidi_heitkamp,35,happy,white,0.396,0.297,0.495,47.0,Woman
+heidi_heitkamp,49,sad,white,-0.093,-0.182,-0.173,44.0,Woman
+heidi_heitkamp,45,neutral,white,-0.07,-0.12,-0.104,44.0,Woman
+heidi_heitkamp,53,neutral,white,0.043,0.031,0.052,45.0,Woman
+heidi_heitkamp,39,fear,latino hispanic,0.06,-0.037,0.015,44.0,Woman
+heidi_heitkamp,27,angry,middle eastern,-0.176,-0.274,-0.138,46.0,Woman
+heidi_heitkamp,38,happy,white,0.396,0.297,0.495,46.0,Woman
+heidi_heitkamp,53,happy,latino hispanic,0.4,0.3,0.5,46.0,Woman
+heidi_heitkamp,37,happy,latino hispanic,0.396,0.297,0.495,44.0,Woman
+heidi_heitkamp,49,sad,white,-0.093,-0.182,-0.173,41.0,Woman
+heidi_heitkamp,35,sad,white,-0.102,-0.186,-0.186,41.0,Woman
+jacky_rosen,48,happy,white,0.373,0.276,0.458,49.1,Woman
+jacky_rosen,33,happy,white,0.364,0.273,0.455,45.8,Woman
+jacky_rosen,32,happy,white,0.396,0.297,0.495,43.0,Woman
+jacky_rosen,33,happy,white,0.359,0.262,0.437,39.6,Woman
+jacky_rosen,29,happy,white,0.384,0.288,0.48,42.7,Woman
+jacky_rosen,33,happy,white,0.396,0.297,0.495,45.0,Woman
+james_e._risch,46,fear,latino hispanic,-0.103,-0.201,-0.124,53.36,Man
+james_e._risch,48,sad,white,-0.141,-0.236,-0.195,53.36,Man
+james_e._risch,46,fear,latino hispanic,-0.103,-0.201,-0.124,53.36,Man
+james_e._risch,36,fear,white,-0.067,-0.159,-0.062,53.36,Man
+james_e._risch,26,neutral,white,0.0,0.0,0.0,53.36,Man
+james_e._risch,51,sad,white,-0.114,-0.206,-0.206,53.36,Man
+james_e._risch,34,happy,white,0.396,0.297,0.495,53.36,Man
+james_e._risch,45,happy,white,0.396,0.297,0.495,53.36,Man
+james_e._risch,42,angry,white,-0.167,-0.265,-0.116,53.36,Man
+james_e._risch,42,angry,white,-0.167,-0.265,-0.116,53.36,Man
+james_e._risch,34,happy,white,0.396,0.297,0.495,53.36,Man
+james_e._risch,34,happy,white,0.396,0.297,0.495,53.36,Man
+james_e._risch,51,happy,white,0.343,0.252,0.42,53.36,Man
+james_e._risch,34,happy,white,0.396,0.297,0.495,53.36,Man
+james_lankford,25,happy,white,0.392,0.294,0.49,51.7,Man
+james_lankford,27,surprise,white,0.135,0.04,0.085,52.1,Man
+james_lankford,27,disgust,white,-0.065,-0.116,-0.042,49.12,Man
+james_lankford,41,sad,white,-0.095,-0.18,-0.213,52.0,Man
+james_lankford,41,sad,white,-0.095,-0.18,-0.213,51.0,Man
+james_lankford,26,happy,white,0.36,0.264,0.456,59.0,Man
+james_lankford,26,neutral,white,-0.056,-0.102,-0.116,51.0,Man
+james_lankford,27,fear,white,-0.111,-0.199,-0.13,61.5,Man
+james_lankford,23,happy,white,0.343,0.249,0.421,52.0,Man
+james_lankford,27,surprise,white,0.135,0.04,0.085,56.0,Man
+james_lankford,29,angry,white,-0.073,-0.171,-0.038,52.0,Man
+james_m._inhofe,46,happy,white,0.388,0.291,0.485,50.0,Man
+james_m._inhofe,53,happy,white,0.384,0.288,0.48,56.4,Man
+james_m._inhofe,58,neutral,white,0.067,0.044,0.075,57.0,Man
+james_m._inhofe,51,fear,white,-0.098,-0.196,-0.098,46.0,Man
+james_m._inhofe,45,happy,white,0.396,0.297,0.495,57.3,Man
+james_m._inhofe,48,neutral,white,-0.029,-0.058,-0.087,50.0,Man
+james_m._inhofe,49,happy,white,0.396,0.297,0.495,56.4,Man
+james_m._inhofe,47,happy,white,0.396,0.297,0.495,57.0,Man
+james_m._inhofe,49,happy,white,0.392,0.294,0.49,46.0,Man
+james_m._inhofe,29,neutral,white,0.0,0.0,0.0,57.3,Man
+james_m._inhofe,51,fear,white,-0.098,-0.196,-0.098,50.0,Man
+james_m._inhofe,51,neutral,white,-0.029,-0.05,-0.045,56.4,Man
+james_m._inhofe,51,neutral,white,-0.029,-0.05,-0.045,57.0,Man
+jeanne_shaheen,32,happy,white,0.396,0.297,0.495,47.0,Woman
+jeanne_shaheen,28,sad,black,-0.099,-0.198,-0.289,52.0,Woman
+jeanne_shaheen,38,happy,white,0.396,0.297,0.495,58.0,Woman
+jeanne_shaheen,41,happy,white,0.396,0.297,0.495,51.0,Woman
+jeanne_shaheen,40,happy,white,0.396,0.297,0.495,54.0,Woman
+jeanne_shaheen,34,fear,white,-0.083,-0.166,-0.083,49.1,Woman
+jeanne_shaheen,41,happy,white,0.396,0.297,0.495,51.0,Woman
+jeanne_shaheen,35,happy,white,0.396,0.297,0.495,50.0,Woman
+jeanne_shaheen,34,surprise,white,0.106,0.012,0.056,44.1,Woman
+jeanne_shaheen,38,happy,white,0.396,0.297,0.495,41.0,Woman
+jeanne_shaheen,40,happy,white,0.396,0.297,0.495,45.0,Woman
+jeanne_shaheen,46,angry,white,-0.13,-0.228,-0.171,57.0,Woman
+jeanne_shaheen,42,happy,white,0.396,0.297,0.495,52.0,Woman
+jeff_merkley,30,neutral,white,-0.036,-0.073,-0.081,55.0,Man
+jeff_merkley,52,sad,white,-0.097,-0.194,-0.291,55.0,Man
+jeff_merkley,34,happy,white,0.396,0.297,0.495,55.0,Man
+jeff_merkley,36,angry,white,-0.179,-0.277,-0.1,55.0,Man
+jeff_merkley,45,neutral,white,-0.027,-0.052,-0.053,55.0,Man
+jeff_merkley,32,sad,white,0.032,-0.031,-0.039,55.0,Man
+jeff_merkley,26,happy,white,0.376,0.282,0.47,55.0,Man
+jeff_merkley,42,sad,white,-0.098,-0.185,-0.138,55.0,Man
+jeff_merkley,31,fear,black,-0.088,-0.176,-0.134,55.0,Man
+jeff_merkley,44,neutral,white,-0.061,-0.114,-0.101,55.0,Man
+jeff_merkley,32,sad,white,0.032,-0.031,-0.039,55.0,Man
+jeff_merkley,35,neutral,white,0.013,-0.012,-0.007,55.0,Man
+jerry_moran,35,happy,white,0.396,0.297,0.495,45.3,Man
+jerry_moran,39,sad,white,-0.112,-0.198,-0.2,54.2,Man
+jerry_moran,39,happy,white,0.388,0.291,0.485,54.0,Man
+jerry_moran,33,happy,white,0.396,0.297,0.495,57.5,Man
+jerry_moran,44,happy,white,0.396,0.297,0.495,45.3,Man
+jerry_moran,46,angry,white,-0.15,-0.247,-0.143,54.2,Man
+jerry_moran,26,neutral,white,-0.014,-0.026,-0.03,54.0,Man
+jerry_moran,33,happy,white,0.396,0.297,0.495,57.5,Man
+jerry_moran,40,happy,white,0.396,0.297,0.495,45.3,Man
+jerry_moran,38,sad,white,-0.118,-0.21,-0.212,54.2,Man
+jerry_moran,41,happy,white,0.396,0.297,0.495,54.0,Man
+joe_donnelly,34,happy,latino hispanic,0.274,0.204,0.341,50.7,Man
+joe_donnelly,47,happy,latino hispanic,0.396,0.297,0.495,48.0,Man
+joe_donnelly,36,happy,asian,0.396,0.297,0.495,44.0,Man
+joe_donnelly,46,happy,latino hispanic,0.396,0.297,0.495,43.0,Man
+joe_donnelly,46,happy,latino hispanic,0.392,0.294,0.49,42.0,Man
+joe_donnelly,47,sad,white,-0.066,-0.135,-0.123,43.0,Man
+joe_donnelly,44,sad,latino hispanic,-0.101,-0.196,-0.201,34.0,Man
+joe_donnelly,46,happy,latino hispanic,0.352,0.264,0.44,45.6,Man
+joe_donnelly,50,happy,white,0.352,0.264,0.44,42.7,Man
+joe_donnelly,51,neutral,asian,-0.06,-0.101,-0.085,40.0,Man
+joe_donnelly,36,sad,asian,-0.093,-0.183,-0.232,43.0,Man
+joe_donnelly,46,sad,latino hispanic,-0.091,-0.179,-0.254,41.6,Man
+"joe_manchin,_iii",50,sad,latino hispanic,-0.109,-0.205,-0.236,46.0,Man
+"joe_manchin,_iii",43,happy,white,0.352,0.264,0.44,41.0,Man
+"joe_manchin,_iii",36,happy,white,0.396,0.297,0.495,49.0,Man
+"joe_manchin,_iii",52,angry,white,-0.184,-0.282,-0.112,53.0,Man
+"joe_manchin,_iii",48,sad,white,-0.119,-0.201,-0.168,42.0,Man
+"joe_manchin,_iii",36,happy,white,0.396,0.297,0.495,50.0,Man
+"joe_manchin,_iii",52,angry,white,-0.184,-0.282,-0.112,45.0,Man
+"joe_manchin,_iii",40,happy,white,0.396,0.297,0.495,47.3,Man
+"joe_manchin,_iii",33,neutral,white,0.0,0.0,0.0,48.0,Man
+"joe_manchin,_iii",48,sad,white,-0.119,-0.201,-0.168,51.0,Man
+"joe_manchin,_iii",47,angry,white,-0.139,-0.225,-0.145,45.0,Man
+john_barrasso,34,happy,latino hispanic,0.392,0.294,0.49,60.0,Man
+john_barrasso,38,sad,latino hispanic,-0.099,-0.198,-0.291,60.0,Man
+john_barrasso,50,fear,white,-0.069,-0.166,-0.076,60.0,Man
+john_barrasso,34,happy,latino hispanic,0.372,0.279,0.465,60.0,Man
+john_barrasso,23,fear,white,-0.099,-0.198,-0.099,60.0,Man
+john_barrasso,33,happy,latino hispanic,0.388,0.291,0.485,60.0,Man
+john_barrasso,47,surprise,white,0.173,0.074,0.105,60.0,Man
+john_barrasso,31,happy,latino hispanic,0.388,0.291,0.485,60.0,Man
+john_barrasso,50,surprise,white,0.297,0.198,0.198,60.0,Man
+john_barrasso,25,fear,white,-0.085,-0.17,-0.127,60.0,Man
+john_barrasso,34,sad,white,-0.104,-0.203,-0.263,60.0,Man
+john_boozman,44,sad,white,-0.098,-0.187,-0.189,43.5,Man
+john_boozman,52,sad,latino hispanic,-0.118,-0.216,-0.242,52.0,Man
+john_boozman,53,neutral,latino hispanic,-0.023,-0.043,-0.052,54.6,Man
+john_boozman,47,sad,latino hispanic,-0.12,-0.214,-0.166,43.5,Man
+john_boozman,49,neutral,latino hispanic,-0.035,-0.069,-0.071,52.0,Man
+john_boozman,51,neutral,latino hispanic,-0.002,-0.004,-0.006,54.6,Man
+john_boozman,44,fear,white,-0.097,-0.191,-0.147,43.5,Man
+john_boozman,53,neutral,latino hispanic,-0.006,-0.012,-0.016,52.0,Man
+john_boozman,39,sad,latino hispanic,-0.105,-0.195,-0.186,54.6,Man
+john_boozman,47,sad,latino hispanic,-0.12,-0.214,-0.166,43.5,Man
+john_boozman,52,neutral,latino hispanic,-0.053,-0.1,-0.103,52.0,Man
+john_boozman,54,sad,latino hispanic,-0.072,-0.167,-0.149,54.6,Man
+john_boozman,39,sad,latino hispanic,-0.105,-0.195,-0.186,43.5,Man
+john_boozman,54,sad,latino hispanic,-0.072,-0.167,-0.149,52.0,Man
+john_boozman,51,angry,white,-0.132,-0.201,-0.081,54.6,Man
+john_cornyn,40,happy,white,0.396,0.297,0.495,50.0,Man
+john_cornyn,45,happy,white,0.301,0.202,0.367,48.0,Man
+john_cornyn,52,happy,white,0.384,0.288,0.48,47.0,Man
+john_cornyn,33,happy,white,0.392,0.294,0.49,45.0,Man
+john_cornyn,40,fear,white,-0.1,-0.192,-0.112,50.0,Man
+john_cornyn,49,sad,white,-0.099,-0.198,-0.297,39.0,Man
+john_cornyn,48,sad,white,-0.099,-0.198,-0.297,46.0,Man
+john_cornyn,51,neutral,white,0.011,0.002,0.005,44.0,Man
+john_cornyn,46,sad,white,-0.099,-0.198,-0.291,44.4,Man
+john_cornyn,33,sad,white,-0.09,-0.18,-0.258,44.0,Man
+john_cornyn,40,happy,white,0.396,0.297,0.495,43.0,Man
+john_cornyn,44,happy,white,0.36,0.27,0.45,47.0,Man
+john_cornyn,45,happy,white,0.301,0.202,0.367,46.0,Man
+john_cornyn,41,happy,white,0.384,0.288,0.48,44.0,Man
+john_cornyn,49,sad,white,-0.099,-0.198,-0.297,37.0,Man
+john_fetterman,41,sad,middle eastern,-0.136,-0.229,-0.185,44.0,Man
+john_fetterman,33,angry,latino hispanic,-0.185,-0.284,-0.125,48.0,Man
+john_fetterman,37,sad,white,-0.099,-0.198,-0.297,48.0,Man
+john_fetterman,39,sad,middle eastern,-0.092,-0.189,-0.209,42.0,Man
+john_fetterman,27,fear,white,-0.112,-0.21,-0.138,45.0,Man
+john_fetterman,41,neutral,white,0.0,0.0,0.0,46.0,Man
+john_fetterman,41,sad,middle eastern,-0.136,-0.229,-0.185,43.7,Man
+john_fetterman,27,sad,middle eastern,-0.108,-0.19,-0.172,52.0,Man
+john_fetterman,44,neutral,white,-0.074,-0.114,-0.052,51.0,Man
+john_fetterman,26,sad,white,-0.1,-0.187,-0.207,50.0,Man
+john_fetterman,31,sad,middle eastern,-0.105,-0.199,-0.214,47.0,Man
+john_kennedy,33,fear,white,-0.079,-0.154,-0.103,53.0,Man
+john_kennedy,43,happy,middle eastern,0.322,0.241,0.399,53.0,Man
+john_kennedy,34,fear,white,-0.074,-0.142,-0.118,51.0,Man
+john_kennedy,33,fear,white,-0.104,-0.202,-0.17,53.0,Man
+john_kennedy,33,neutral,white,-0.016,-0.031,-0.035,53.0,Man
+john_kennedy,25,sad,asian,-0.091,-0.182,-0.273,51.0,Man
+john_kennedy,36,sad,white,-0.133,-0.228,-0.203,53.0,Man
+john_kennedy,30,sad,white,-0.095,-0.19,-0.279,53.0,Man
+john_kennedy,45,happy,asian,0.396,0.297,0.495,51.0,Man
+john_kennedy,44,happy,white,0.38,0.285,0.475,53.0,Man
+john_kennedy,43,angry,white,-0.078,-0.162,-0.036,53.0,Man
+john_kennedy,41,neutral,white,-0.013,-0.026,-0.039,51.0,Man
+john_mccain,38,sad,white,-0.112,-0.21,-0.22,29.0,Man
+john_mccain,34,happy,white,0.352,0.264,0.44,29.0,Man
+john_mccain,38,neutral,white,0.069,0.039,0.078,29.0,Man
+john_mccain,39,angry,white,-0.165,-0.261,-0.148,29.0,Man
+john_mccain,28,neutral,white,0.0,0.0,0.0,29.0,Man
+john_mccain,43,fear,white,-0.106,-0.205,-0.117,29.0,Man
+john_mccain,38,sad,white,-0.07,-0.167,-0.175,29.0,Man
+john_mccain,34,happy,white,0.396,0.297,0.495,29.0,Man
+john_mccain,29,sad,white,-0.107,-0.205,-0.248,29.0,Man
+john_mccain,39,happy,white,0.152,0.056,0.193,29.0,Man
+john_mccain,36,fear,white,-0.055,-0.152,-0.073,29.0,Man
+john_thune,34,happy,white,0.396,0.297,0.495,59.0,Man
+john_thune,33,sad,white,-0.104,-0.177,-0.157,46.0,Man
+john_thune,32,happy,white,0.396,0.297,0.495,53.0,Man
+john_thune,33,sad,white,-0.112,-0.21,-0.266,58.0,Man
+john_thune,36,happy,white,0.396,0.297,0.495,59.0,Man
+john_thune,33,sad,white,-0.112,-0.21,-0.266,46.0,Man
+john_thune,35,surprise,white,0.159,0.062,0.101,53.0,Man
+john_thune,34,happy,white,0.396,0.297,0.495,58.0,Man
+john_thune,33,sad,white,-0.104,-0.177,-0.157,59.0,Man
+john_thune,32,happy,white,0.396,0.297,0.495,46.0,Man
+john_w._hickenlooper,42,fear,white,-0.099,-0.198,-0.099,53.0,Man
+john_w._hickenlooper,36,happy,white,0.384,0.288,0.48,51.0,Man
+john_w._hickenlooper,35,happy,white,0.174,0.077,0.209,48.0,Man
+john_w._hickenlooper,53,angry,white,-0.193,-0.29,-0.099,53.0,Man
+john_w._hickenlooper,35,happy,asian,0.375,0.277,0.466,54.0,Man
+john_w._hickenlooper,35,happy,asian,0.375,0.277,0.466,51.0,Man
+john_w._hickenlooper,42,fear,white,-0.099,-0.198,-0.099,50.0,Man
+john_w._hickenlooper,33,neutral,middle eastern,0.0,0.0,0.0,56.9,Man
+jon_ossoff,26,sad,white,-0.11,-0.207,-0.259,49.0,Man
+jon_ossoff,29,happy,white,0.396,0.297,0.495,47.3,Man
+jon_ossoff,31,sad,white,-0.123,-0.217,-0.2,44.6,Man
+jon_ossoff,32,neutral,white,-0.002,-0.004,-0.006,46.3,Man
+jon_ossoff,28,happy,white,0.396,0.297,0.495,46.0,Man
+jon_ossoff,28,neutral,white,-0.047,-0.094,-0.089,41.0,Man
+jon_ossoff,29,happy,white,0.396,0.297,0.495,47.0,Man
+jon_ossoff,32,sad,white,-0.09,-0.158,-0.158,42.63,Man
+jon_ossoff,27,happy,white,0.384,0.288,0.48,43.0,Man
+jon_ossoff,29,sad,white,-0.097,-0.195,-0.278,43.0,Man
+jon_ossoff,28,fear,white,-0.1,-0.198,-0.192,43.0,Man
+jon_tester,42,happy,white,0.362,0.269,0.449,55.0,Man
+jon_tester,29,happy,white,0.396,0.297,0.495,49.0,Man
+jon_tester,46,neutral,white,0.04,0.017,0.041,49.0,Man
+jon_tester,43,neutral,white,0.056,0.007,0.047,44.0,Man
+jon_tester,25,happy,white,0.396,0.297,0.495,51.0,Man
+jon_tester,31,happy,white,0.396,0.297,0.495,50.0,Man
+jon_tester,42,happy,white,0.362,0.269,0.449,45.0,Man
+jon_tester,52,neutral,white,-0.069,-0.107,-0.034,54.0,Man
+jon_tester,43,neutral,white,0.056,0.007,0.047,54.0,Man
+jon_tester,29,happy,white,0.396,0.297,0.495,47.0,Man
+jon_tester,41,sad,white,-0.104,-0.2,-0.206,55.0,Man
+jon_tester,33,angry,white,-0.198,-0.297,-0.099,49.0,Man
+jon_tester,25,happy,white,0.396,0.297,0.495,45.0,Man
+joni_ernst,25,happy,white,0.396,0.297,0.495,42.0,Woman
+joni_ernst,29,sad,white,-0.107,-0.198,-0.227,48.0,Woman
+joni_ernst,27,sad,white,0.039,-0.059,-0.03,43.0,Woman
+joni_ernst,26,happy,white,0.384,0.288,0.48,36.0,Woman
+joni_ernst,33,happy,white,0.392,0.294,0.49,45.0,Woman
+joni_ernst,25,happy,white,0.368,0.276,0.46,47.0,Woman
+joni_ernst,33,happy,white,0.392,0.294,0.49,43.0,Woman
+joni_ernst,34,happy,white,0.392,0.294,0.49,48.0,Woman
+joni_ernst,39,neutral,white,0.0,0.0,0.0,42.84,Woman
+joni_ernst,26,happy,white,0.388,0.291,0.485,45.0,Woman
+joni_ernst,33,happy,white,0.392,0.294,0.49,58.0,Woman
+katie_boyd_britt,26,happy,white,0.384,0.288,0.48,57.1,Woman
+katie_boyd_britt,33,happy,white,0.388,0.291,0.485,57.1,Woman
+katie_boyd_britt,31,angry,white,-0.176,-0.273,-0.133,57.1,Woman
+katie_boyd_britt,30,neutral,white,0.015,0.01,0.017,57.1,Woman
+katie_boyd_britt,31,happy,white,0.396,0.297,0.495,57.1,Woman
+katie_boyd_britt,32,fear,latino hispanic,0.026,-0.073,0.051,57.1,Woman
+katie_boyd_britt,38,fear,latino hispanic,-0.109,-0.206,-0.087,57.1,Woman
+katie_boyd_britt,26,happy,white,0.364,0.273,0.455,57.1,Woman
+katie_boyd_britt,32,fear,latino hispanic,0.026,-0.073,0.051,57.1,Woman
+katie_boyd_britt,33,happy,white,0.372,0.279,0.465,57.1,Woman
+katie_boyd_britt,33,happy,white,0.388,0.291,0.485,57.1,Woman
+katie_boyd_britt,36,happy,white,0.396,0.297,0.495,57.1,Woman
+kelly_ayotte,49,sad,white,-0.092,-0.177,-0.235,43.0,Woman
+kelly_ayotte,39,happy,white,0.396,0.297,0.495,45.0,Woman
+kelly_ayotte,37,sad,white,-0.109,-0.195,-0.192,36.0,Woman
+kelly_ayotte,38,happy,white,0.392,0.294,0.49,43.0,Woman
+kelly_ayotte,40,fear,latino hispanic,-0.086,-0.17,-0.154,43.0,Woman
+kelly_ayotte,35,neutral,white,0.0,0.0,0.0,45.0,Woman
+kelly_ayotte,49,sad,white,-0.092,-0.177,-0.235,36.0,Woman
+kelly_ayotte,41,neutral,white,-0.033,-0.066,-0.069,43.0,Woman
+kelly_ayotte,32,happy,white,0.236,0.177,0.295,43.0,Woman
+kelly_ayotte,46,angry,white,-0.146,-0.238,-0.119,45.0,Woman
+kelly_ayotte,37,sad,white,-0.109,-0.195,-0.192,36.0,Woman
+kelly_loeffler,33,happy,white,0.291,0.212,0.355,12.0,Woman
+kelly_loeffler,39,happy,white,0.396,0.297,0.495,21.0,Woman
+kelly_loeffler,33,sad,white,0.016,-0.071,-0.082,40.0,Woman
+kelly_loeffler,39,happy,white,0.396,0.297,0.495,46.9,Woman
+kelly_loeffler,34,fear,white,0.056,-0.043,0.081,21.0,Woman
+kelly_loeffler,39,happy,white,0.396,0.297,0.495,21.0,Woman
+kelly_loeffler,34,fear,white,0.056,-0.043,0.081,46.0,Woman
+kelly_loeffler,33,sad,white,0.016,-0.071,-0.082,48.0,Woman
+kelly_loeffler,39,happy,white,0.388,0.291,0.485,24.0,Woman
+kelly_loeffler,33,happy,white,0.291,0.212,0.355,17.0,Woman
+kelly_loeffler,34,fear,white,-0.099,-0.198,-0.099,21.0,Woman
+kelly_loeffler,35,happy,white,0.161,0.063,0.202,21.0,Woman
+kelly_loeffler,34,neutral,white,0.0,0.0,0.0,26.0,Woman
+kelly_loeffler,34,happy,white,0.396,0.297,0.495,26.0,Woman
+kevin_cramer,40,happy,white,0.396,0.297,0.495,53.0,Man
+kevin_cramer,40,happy,white,0.396,0.297,0.495,50.0,Man
+kevin_cramer,46,sad,white,-0.111,-0.206,-0.239,51.0,Man
+kevin_cramer,27,happy,latino hispanic,0.175,0.118,0.217,54.5,Man
+kevin_cramer,49,happy,white,0.4,0.3,0.5,56.0,Man
+kevin_cramer,52,happy,white,0.396,0.297,0.495,53.0,Man
+kevin_cramer,57,fear,white,0.124,0.026,0.172,49.0,Man
+kevin_cramer,36,happy,white,0.396,0.297,0.495,51.0,Man
+kevin_cramer,52,happy,white,0.396,0.297,0.495,47.0,Man
+kevin_cramer,40,happy,white,0.396,0.297,0.495,40.0,Man
+kevin_cramer,44,happy,white,0.396,0.297,0.495,45.0,Man
+kirsten_e._gillibrand,32,happy,white,0.388,0.291,0.485,58.0,Woman
+kirsten_e._gillibrand,41,neutral,white,0.086,0.047,0.101,57.0,Woman
+kirsten_e._gillibrand,25,sad,white,-0.099,-0.198,-0.297,58.0,Woman
+kirsten_e._gillibrand,26,happy,white,0.36,0.27,0.45,60.0,Woman
+kirsten_e._gillibrand,35,happy,white,0.388,0.291,0.485,58.0,Woman
+kirsten_e._gillibrand,30,happy,white,0.396,0.297,0.495,58.0,Woman
+kirsten_e._gillibrand,32,happy,white,0.384,0.288,0.48,51.0,Woman
+kirsten_e._gillibrand,32,happy,white,0.39,0.291,0.489,61.0,Woman
+kyrsten_sinema,32,happy,white,0.396,0.297,0.495,21.0,Woman
+kyrsten_sinema,32,happy,white,0.396,0.297,0.495,17.0,Woman
+kyrsten_sinema,32,happy,white,0.396,0.297,0.495,24.0,Woman
+kyrsten_sinema,31,fear,white,-0.098,-0.196,-0.098,27.0,Woman
+kyrsten_sinema,45,happy,white,0.178,0.109,0.204,13.8,Woman
+kyrsten_sinema,39,angry,white,-0.192,-0.289,-0.101,20.6,Woman
+kyrsten_sinema,28,fear,latino hispanic,-0.098,-0.196,-0.098,49.0,Woman
+kyrsten_sinema,28,fear,latino hispanic,-0.098,-0.196,-0.098,22.0,Woman
+kyrsten_sinema,33,happy,white,0.4,0.3,0.5,26.0,Woman
+lindsey_graham,39,neutral,white,-0.01,-0.024,-0.012,48.0,Man
+lindsey_graham,51,happy,white,0.356,0.267,0.445,47.0,Man
+lindsey_graham,40,happy,white,0.396,0.297,0.495,45.0,Man
+lindsey_graham,40,angry,white,-0.142,-0.237,-0.094,47.0,Man
+lindsey_graham,50,fear,white,-0.056,-0.148,-0.064,46.0,Man
+lindsey_graham,35,neutral,white,-0.043,-0.086,-0.043,48.0,Man
+lindsey_graham,46,happy,white,0.396,0.297,0.495,46.0,Man
+lindsey_graham,45,happy,white,0.396,0.297,0.495,48.0,Man
+lindsey_graham,51,happy,white,0.396,0.297,0.495,44.0,Man
+lindsey_graham,38,neutral,white,-0.006,-0.012,-0.018,49.28,Man
+lindsey_graham,40,angry,white,-0.142,-0.237,-0.094,43.0,Man
+lindsey_graham,51,happy,white,0.356,0.267,0.445,46.0,Man
+lindsey_graham,40,happy,white,0.396,0.297,0.495,44.9,Man
+lindsey_graham,39,happy,white,0.396,0.297,0.495,45.0,Man
+lisa_murkowski,28,sad,white,-0.043,-0.118,-0.161,38.0,Man
+lisa_murkowski,31,happy,white,0.396,0.297,0.495,55.0,Man
+lisa_murkowski,41,happy,latino hispanic,0.396,0.297,0.495,49.2,Man
+lisa_murkowski,33,happy,white,0.122,0.038,0.164,36.0,Man
+lisa_murkowski,35,happy,white,0.396,0.297,0.495,60.0,Man
+lisa_murkowski,50,fear,white,-0.076,-0.172,-0.081,52.2,Man
+lisa_murkowski,42,happy,white,0.396,0.297,0.495,35.7,Man
+lisa_murkowski,50,fear,white,-0.076,-0.172,-0.081,38.0,Man
+lisa_murkowski,28,sad,white,-0.043,-0.118,-0.161,35.3,Man
+lisa_murkowski,33,happy,white,0.122,0.038,0.164,35.0,Man
+lisa_murkowski,35,sad,white,-0.115,-0.207,-0.151,38.0,Man
+lisa_murkowski,38,happy,latino hispanic,0.396,0.297,0.495,56.6,Man
+marco_rubio,30,neutral,white,-0.082,-0.141,-0.119,46.0,Man
+marco_rubio,44,happy,latino hispanic,0.366,0.267,0.414,48.0,Man
+marco_rubio,27,surprise,latino hispanic,0.187,0.09,0.1,48.0,Man
+marco_rubio,27,surprise,latino hispanic,0.187,0.09,0.1,46.0,Man
+marco_rubio,24,angry,latino hispanic,-0.15,-0.244,-0.17,42.0,Man
+marco_rubio,40,neutral,latino hispanic,-0.088,-0.136,-0.046,44.0,Man
+marco_rubio,24,angry,latino hispanic,-0.15,-0.244,-0.17,46.0,Man
+marco_rubio,32,sad,latino hispanic,-0.096,-0.169,-0.167,45.0,Man
+marco_rubio,44,happy,latino hispanic,0.366,0.267,0.414,46.0,Man
+marco_rubio,25,fear,latino hispanic,-0.088,-0.176,-0.162,50.0,Man
+marco_rubio,26,neutral,white,-0.086,-0.145,-0.121,46.8,Man
+marco_rubio,25,happy,latino hispanic,0.376,0.282,0.47,45.0,Man
+marco_rubio,40,neutral,latino hispanic,-0.088,-0.136,-0.046,46.0,Man
+maria_cantwell,43,happy,white,0.363,0.271,0.454,50.0,Woman
+maria_cantwell,41,sad,white,-0.104,-0.201,-0.249,51.0,Woman
+maria_cantwell,31,happy,white,0.38,0.285,0.475,52.0,Woman
+maria_cantwell,43,happy,white,0.363,0.271,0.454,43.0,Woman
+maria_cantwell,32,happy,white,0.396,0.297,0.495,52.0,Woman
+maria_cantwell,43,happy,white,0.363,0.271,0.454,53.0,Woman
+maria_cantwell,35,surprise,asian,0.203,0.134,0.135,50.0,Woman
+maria_cantwell,33,neutral,white,0.012,0.009,0.015,51.0,Woman
+maria_cantwell,31,happy,white,0.38,0.285,0.475,52.0,Woman
+maria_cantwell,39,happy,white,0.351,0.252,0.441,43.0,Woman
+maria_cantwell,36,happy,white,0.396,0.297,0.495,52.0,Woman
+mark_kelly,51,neutral,white,-0.063,-0.102,-0.033,50.0,Man
+mark_kelly,35,happy,white,0.392,0.294,0.49,55.0,Man
+mark_kelly,37,happy,white,0.362,0.271,0.449,49.0,Man
+mark_kelly,48,neutral,white,0.14,0.096,0.178,46.0,Man
+mark_kelly,37,happy,white,0.362,0.271,0.449,48.9,Man
+mark_kelly,43,fear,white,-0.095,-0.193,-0.086,47.0,Man
+mark_kelly,34,angry,white,-0.141,-0.224,-0.104,47.2,Man
+mark_r._warner,26,happy,white,0.392,0.294,0.49,59.7,Man
+mark_r._warner,47,neutral,white,-0.084,-0.148,-0.063,55.0,Man
+mark_r._warner,26,happy,white,0.396,0.297,0.495,52.0,Man
+mark_r._warner,40,happy,white,0.332,0.249,0.415,60.7,Man
+mark_r._warner,48,angry,white,-0.149,-0.238,-0.133,55.0,Man
+mark_r._warner,49,neutral,white,-0.003,-0.006,-0.007,57.0,Man
+mark_r._warner,38,happy,white,0.396,0.297,0.495,51.3,Man
+mark_r._warner,25,happy,white,0.388,0.291,0.485,57.0,Man
+mark_r._warner,24,happy,white,0.392,0.294,0.49,54.0,Man
+mark_r._warner,26,neutral,white,0.002,0.0,0.004,55.0,Man
+mark_r._warner,47,neutral,white,-0.084,-0.148,-0.063,55.0,Man
+mark_r._warner,33,happy,white,0.348,0.261,0.435,55.0,Man
+mark_r._warner,38,happy,white,0.396,0.297,0.495,50.7,Man
+mark_r._warner,38,angry,white,-0.194,-0.291,-0.097,57.0,Man
+mark_r._warner,49,angry,white,-0.031,-0.127,-0.011,59.7,Man
+markwayne_mullin,33,neutral,white,0.112,0.084,0.14,58.0,Man
+markwayne_mullin,31,happy,white,0.38,0.285,0.475,52.0,Man
+markwayne_mullin,32,sad,white,-0.008,-0.081,-0.061,47.0,Man
+markwayne_mullin,39,fear,white,-0.099,-0.198,-0.101,52.0,Man
+markwayne_mullin,43,happy,white,0.082,4.44089209850063e-18,0.126,50.0,Man
+markwayne_mullin,39,fear,white,-0.099,-0.198,-0.101,58.9,Man
+markwayne_mullin,47,sad,white,-0.098,-0.196,-0.294,50.0,Man
+markwayne_mullin,48,happy,white,0.094,0.02,0.162,49.17,Man
+markwayne_mullin,43,neutral,white,0.0,0.0,0.0,51.9,Man
+markwayne_mullin,33,fear,white,-0.073,-0.167,-0.098,53.0,Man
+marsha_blackburn,40,happy,white,0.396,0.297,0.495,49.0,Woman
+marsha_blackburn,42,happy,white,0.386,0.287,0.483,44.0,Woman
+marsha_blackburn,35,neutral,white,0.0,0.0,0.0,50.5,Woman
+marsha_blackburn,50,happy,white,0.154,0.065,0.182,51.0,Woman
+marsha_blackburn,36,fear,white,-0.074,-0.173,-0.069,49.0,Woman
+marsha_blackburn,46,happy,white,0.396,0.297,0.495,43.0,Woman
+marsha_blackburn,26,happy,middle eastern,0.12,0.035,0.137,48.0,Woman
+marsha_blackburn,49,happy,white,0.268,0.186,0.338,37.0,Woman
+marsha_blackburn,50,happy,white,0.365,0.268,0.452,47.0,Woman
+marsha_blackburn,35,fear,white,-0.1,-0.198,-0.098,50.87,Woman
+marsha_blackburn,35,neutral,white,0.0,0.0,0.0,47.0,Woman
+marsha_blackburn,43,happy,white,0.396,0.297,0.495,54.46,Woman
+marsha_blackburn,28,fear,white,0.052,-0.026,0.044,46.0,Woman
+marsha_blackburn,30,fear,white,0.067,-0.025,0.02,45.0,Woman
+martha_mcsally,35,happy,white,0.396,0.297,0.495,39.0,Woman
+martha_mcsally,31,happy,white,0.394,0.295,0.489,41.0,Woman
+martha_mcsally,39,sad,white,-0.062,-0.159,-0.235,39.0,Woman
+martha_mcsally,45,happy,white,0.287,0.214,0.357,43.0,Woman
+martha_mcsally,25,happy,white,0.396,0.297,0.495,43.5,Woman
+martha_mcsally,34,happy,white,0.396,0.297,0.495,43.7,Woman
+martha_mcsally,35,happy,white,0.396,0.297,0.495,42.0,Woman
+martha_mcsally,43,neutral,white,-0.05,-0.083,-0.057,41.9,Woman
+martha_mcsally,34,happy,white,0.396,0.297,0.495,41.0,Woman
+martha_mcsally,25,happy,white,0.392,0.294,0.49,45.4,Woman
+martha_mcsally,24,neutral,white,-0.001,-0.002,-0.003,41.0,Woman
+martha_mcsally,34,happy,white,0.396,0.297,0.495,39.0,Woman
+martin_heinrich,45,neutral,white,-0.057,-0.103,-0.116,47.0,Man
+martin_heinrich,27,sad,latino hispanic,-0.096,-0.191,-0.253,48.0,Man
+martin_heinrich,27,sad,latino hispanic,-0.096,-0.191,-0.253,50.0,Man
+martin_heinrich,33,neutral,white,0.006,0.003,0.009,49.8,Man
+martin_heinrich,28,neutral,white,-0.004,-0.012,-0.014,47.0,Man
+martin_heinrich,34,angry,white,-0.132,-0.215,-0.131,38.9,Man
+martin_heinrich,29,neutral,white,-0.001,-0.002,-0.003,48.0,Man
+martin_heinrich,25,neutral,white,-0.002,-0.004,-0.006,41.0,Man
+martin_heinrich,35,sad,white,-0.069,-0.138,-0.207,45.0,Man
+martin_heinrich,30,neutral,white,0.087,0.041,0.057,39.0,Man
+martin_heinrich,34,angry,white,-0.132,-0.215,-0.131,38.0,Man
+martin_heinrich,26,fear,white,-0.092,-0.184,-0.178,38.0,Man
+martin_heinrich,41,neutral,white,0.164,0.123,0.205,35.65,Man
+martin_heinrich,29,sad,white,-0.094,-0.187,-0.237,50.7,Man
+martin_heinrich,30,neutral,white,-0.021,-0.042,-0.041,51.0,Man
+martin_heinrich,39,neutral,white,0.06,0.045,0.075,47.0,Man
+martin_heinrich,29,sad,white,-0.094,-0.187,-0.237,48.0,Man
+michael_f._bennet,36,happy,latino hispanic,0.388,0.291,0.485,45.5,Man
+michael_f._bennet,29,happy,white,0.396,0.297,0.495,46.0,Man
+michael_f._bennet,28,happy,white,0.392,0.294,0.49,56.0,Man
+michael_f._bennet,29,happy,white,0.392,0.294,0.49,54.0,Man
+michael_f._bennet,27,happy,white,0.36,0.27,0.45,48.0,Man
+michael_f._bennet,29,happy,white,0.396,0.297,0.495,51.0,Man
+michael_f._bennet,26,sad,white,-0.058,-0.114,-0.158,48.6,Man
+michael_f._bennet,25,happy,white,0.396,0.297,0.495,48.0,Man
+mike_braun,32,fear,white,-0.087,-0.182,-0.138,43.4,Man
+mike_braun,33,angry,white,-0.179,-0.278,-0.137,41.0,Man
+mike_braun,32,fear,white,-0.087,-0.182,-0.138,45.0,Man
+mike_braun,56,angry,white,-0.126,-0.204,-0.072,41.0,Man
+mike_braun,36,happy,white,0.396,0.297,0.495,51.0,Man
+mike_braun,51,happy,middle eastern,0.4,0.3,0.5,43.0,Man
+mike_braun,41,happy,white,0.396,0.297,0.495,38.6,Man
+mike_braun,36,happy,white,0.396,0.297,0.495,51.0,Man
+mike_braun,56,angry,white,-0.126,-0.204,-0.072,52.0,Man
+mike_braun,53,happy,white,0.218,0.156,0.28,40.0,Man
+mike_lee,37,happy,white,0.391,0.292,0.489,43.0,Man
+mike_lee,28,sad,white,-0.068,-0.136,-0.202,45.0,Man
+mike_lee,24,happy,white,0.396,0.297,0.495,33.0,Man
+mike_lee,29,happy,white,0.396,0.297,0.495,38.0,Man
+mike_lee,32,angry,white,-0.12,-0.188,-0.148,45.0,Man
+mike_lee,30,happy,white,0.392,0.294,0.49,34.0,Man
+mike_lee,29,happy,white,0.392,0.294,0.49,50.0,Man
+mike_lee,27,happy,latino hispanic,0.396,0.297,0.495,38.0,Man
+mike_lee,36,angry,white,-0.154,-0.244,-0.142,31.0,Man
+mitch_mcconnell,44,neutral,white,0.105,0.075,0.126,51.1,Man
+mitch_mcconnell,53,happy,white,0.392,0.294,0.49,52.0,Man
+mitch_mcconnell,42,angry,white,-0.166,-0.262,-0.098,40.0,Man
+mitch_mcconnell,46,surprise,white,0.208,0.111,0.134,41.0,Man
+mitch_mcconnell,33,happy,white,0.296,0.197,0.335,40.0,Man
+mitch_mcconnell,60,angry,white,-0.159,-0.257,-0.114,47.0,Man
+mitch_mcconnell,53,happy,white,0.376,0.282,0.47,47.0,Man
+mitch_mcconnell,52,sad,white,-0.109,-0.206,-0.253,45.0,Man
+mitch_mcconnell,51,happy,white,0.264,0.198,0.33,43.0,Man
+mitch_mcconnell,57,happy,white,0.396,0.297,0.495,55.29,Man
+mitch_mcconnell,31,neutral,white,-0.001,-0.002,-0.001,49.1,Man
+mitch_mcconnell,52,sad,white,-0.109,-0.206,-0.253,49.0,Man
+mitch_mcconnell,57,happy,white,0.396,0.297,0.495,53.0,Man
+mitch_mcconnell,33,happy,white,0.296,0.197,0.335,48.0,Man
+mitch_mcconnell,53,happy,white,0.376,0.282,0.47,46.0,Man
+mitch_mcconnell,53,happy,white,0.392,0.294,0.49,51.1,Man
+mitt_romney,32,neutral,white,0.017,0.007,0.017,64.0,Man
+mitt_romney,28,happy,white,0.396,0.297,0.495,64.0,Man
+mitt_romney,53,neutral,middle eastern,0.016,0.009,0.017,58.4,Man
+mitt_romney,30,neutral,white,0.0,0.0,0.0,72.0,Man
+mitt_romney,30,angry,middle eastern,-0.172,-0.269,-0.106,55.0,Man
+mitt_romney,30,happy,white,0.396,0.297,0.495,59.0,Man
+mitt_romney,33,happy,white,0.306,0.208,0.328,58.6,Man
+mitt_romney,29,happy,white,0.38,0.285,0.475,64.0,Man
+mitt_romney,53,neutral,middle eastern,0.016,0.009,0.017,64.0,Man
+mitt_romney,25,happy,white,0.396,0.297,0.495,58.4,Man
+patrick_j._leahy,39,happy,white,0.388,0.291,0.485,38.0,Man
+patrick_j._leahy,56,sad,white,-0.102,-0.201,-0.285,38.0,Man
+patrick_j._leahy,44,happy,white,0.167,0.07,0.261,38.0,Man
+patrick_j._leahy,56,sad,white,-0.102,-0.201,-0.285,38.0,Man
+patrick_j._leahy,55,sad,white,-0.086,-0.157,-0.167,38.0,Man
+patrick_j._leahy,37,happy,white,0.288,0.216,0.36,38.0,Man
+patrick_j._leahy,46,neutral,white,-0.053,-0.108,-0.097,38.0,Man
+patrick_j._leahy,45,sad,white,-0.119,-0.21,-0.185,38.0,Man
+patrick_j._leahy,40,happy,white,0.186,0.124,0.242,38.0,Man
+patrick_j._leahy,39,happy,white,0.388,0.291,0.485,38.0,Man
+patrick_j._leahy,44,sad,white,-0.136,-0.234,-0.178,38.0,Man
+patrick_j._leahy,62,sad,white,-0.107,-0.202,-0.249,38.0,Man
+patrick_j._leahy,37,angry,white,-0.055,-0.132,-0.051,38.0,Man
+patrick_j._leahy,37,fear,white,-0.022,-0.09,-0.012,38.0,Man
+patrick_j._leahy,46,happy,white,0.396,0.297,0.495,38.0,Man
+patty_murray,24,happy,asian,0.377,0.279,0.466,48.0,Woman
+patty_murray,25,fear,white,-0.087,-0.17,-0.123,52.0,Woman
+patty_murray,38,happy,white,0.396,0.297,0.495,46.0,Woman
+patty_murray,50,neutral,white,0.005,-0.048,-0.045,48.0,Woman
+patty_murray,46,fear,white,-0.049,-0.147,-0.035,48.7,Woman
+patty_murray,48,fear,white,0.01,-0.086,0.036,46.0,Woman
+patty_murray,34,fear,white,-0.094,-0.193,-0.093,50.0,Woman
+patty_murray,34,happy,white,0.396,0.297,0.495,50.0,Woman
+patty_murray,25,fear,white,-0.087,-0.17,-0.123,48.0,Woman
+patty_murray,46,fear,white,-0.049,-0.147,-0.035,52.0,Woman
+peter_welch,51,fear,white,-0.08,-0.17,-0.08,62.0,Man
+peter_welch,50,happy,white,0.396,0.297,0.495,62.0,Man
+peter_welch,48,happy,middle eastern,0.396,0.297,0.495,49.7,Man
+peter_welch,44,angry,white,-0.12,-0.208,-0.101,63.0,Man
+peter_welch,50,neutral,middle eastern,-0.09,-0.135,-0.045,63.0,Man
+peter_welch,46,angry,asian,-0.155,-0.254,-0.099,62.0,Man
+peter_welch,48,happy,middle eastern,0.396,0.297,0.495,62.0,Man
+peter_welch,31,neutral,white,0.124,0.093,0.155,49.7,Man
+peter_welch,34,sad,white,-0.092,-0.183,-0.209,63.0,Man
+rand_paul,34,neutral,white,0.0,0.0,0.0,55.0,Man
+rand_paul,32,neutral,white,-0.019,-0.046,-0.039,55.0,Man
+rand_paul,26,happy,white,0.183,0.091,0.164,55.0,Man
+rand_paul,42,happy,white,0.396,0.297,0.495,55.0,Man
+rand_paul,42,neutral,white,-0.004,-0.008,-0.012,55.0,Man
+rand_paul,42,happy,white,0.396,0.297,0.495,55.0,Man
+rand_paul,43,happy,latino hispanic,0.245,0.156,0.294,55.0,Man
+rand_paul,44,neutral,white,-0.042,-0.075,-0.081,55.0,Man
+rand_paul,33,neutral,white,0.163,0.121,0.202,55.0,Man
+rand_paul,32,neutral,white,-0.019,-0.046,-0.039,55.0,Man
+rand_paul,34,neutral,white,0.0,0.0,0.0,55.0,Man
+rand_paul,26,happy,white,0.183,0.091,0.164,55.0,Man
+rand_paul,42,neutral,white,-0.004,-0.008,-0.012,55.0,Man
+rand_paul,36,neutral,white,0.078,0.013,0.099,55.0,Man
+raphael_g._warnock,31,fear,asian,-0.099,-0.198,-0.099,48.7,Man
+raphael_g._warnock,28,happy,black,0.38,0.285,0.475,50.8,Man
+raphael_g._warnock,33,neutral,black,-0.037,-0.068,-0.063,50.0,Man
+raphael_g._warnock,37,fear,black,-0.011,-0.108,-0.031,51.0,Man
+raphael_g._warnock,28,happy,black,0.38,0.285,0.475,52.0,Man
+raphael_g._warnock,33,neutral,black,-0.037,-0.068,-0.063,51.0,Man
+raphael_g._warnock,29,happy,black,0.396,0.297,0.495,47.3,Man
+richard_blumenthal,28,happy,white,0.188,0.121,0.239,45.2,Man
+richard_blumenthal,39,sad,latino hispanic,-0.126,-0.225,-0.219,51.0,Man
+richard_blumenthal,39,happy,white,0.396,0.297,0.495,54.0,Man
+richard_blumenthal,26,sad,white,-0.066,-0.13,-0.128,53.0,Man
+richard_blumenthal,28,fear,white,-0.082,-0.16,-0.09,49.0,Man
+richard_blumenthal,39,happy,white,0.396,0.297,0.495,57.0,Man
+richard_blumenthal,25,fear,white,-0.099,-0.198,-0.099,51.0,Man
+richard_blumenthal,28,happy,white,0.396,0.297,0.495,52.2,Man
+richard_blumenthal,25,fear,white,-0.099,-0.198,-0.099,48.8,Man
+richard_blumenthal,28,happy,white,0.396,0.297,0.495,45.2,Man
+richard_blumenthal,48,neutral,white,-0.018,-0.042,-0.046,50.4,Man
+richard_j._durbin,42,fear,white,-0.042,-0.129,-0.038,52.0,Man
+richard_j._durbin,45,fear,asian,-0.099,-0.197,-0.188,50.6,Man
+richard_j._durbin,41,neutral,white,0.07,0.02,0.04,44.3,Man
+richard_j._durbin,37,happy,white,0.137,0.069,0.136,52.0,Man
+richard_j._durbin,35,neutral,white,-0.031,-0.076,-0.033,50.6,Man
+richard_j._durbin,35,happy,white,0.396,0.297,0.495,44.3,Man
+richard_j._durbin,45,fear,asian,-0.099,-0.197,-0.188,52.0,Man
+richard_j._durbin,39,happy,asian,0.396,0.297,0.495,50.6,Man
+richard_j._durbin,40,neutral,white,0.124,0.093,0.155,44.3,Man
+richard_j._durbin,39,neutral,white,0.111,0.082,0.137,52.0,Man
+richard_j._durbin,40,surprise,white,0.147,0.057,0.09,50.6,Man
+rick_scott,48,sad,white,-0.111,-0.209,-0.173,44.0,Man
+rick_scott,52,angry,white,0.023,-0.074,0.031,38.0,Man
+rick_scott,53,surprise,white,0.102,0.0039999999999999,0.048,41.8,Man
+rick_scott,48,angry,white,-0.189,-0.287,-0.108,39.0,Man
+rick_scott,33,sad,asian,-0.097,-0.194,-0.285,35.09,Man
+rick_scott,41,sad,white,-0.105,-0.196,-0.241,44.0,Man
+rick_scott,23,angry,white,-0.16,-0.254,-0.15,42.0,Man
+rick_scott,45,happy,white,0.392,0.294,0.49,44.0,Man
+rick_scott,23,angry,white,-0.16,-0.254,-0.15,40.0,Man
+rick_scott,51,angry,white,-0.12,-0.182,-0.07,41.6,Man
+rick_scott,32,fear,white,-0.089,-0.186,-0.109,43.0,Man
+rick_scott,23,angry,white,-0.16,-0.254,-0.15,40.0,Man
+rick_scott,47,fear,white,0.017,-0.08,-0.007,43.3,Man
+rick_scott,56,fear,white,-0.075,-0.171,-0.102,47.0,Man
+rick_scott,51,angry,white,-0.169,-0.267,-0.146,45.0,Man
+rick_scott,33,sad,asian,-0.097,-0.194,-0.285,44.0,Man
+robert_menendez,53,neutral,white,-0.052,-0.108,-0.073,43.0,Man
+robert_menendez,36,neutral,white,0.058,0.035,0.04,51.0,Man
+robert_menendez,42,happy,white,0.294,0.205,0.363,28.0,Man
+robert_menendez,40,happy,asian,0.207,0.144,0.243,43.0,Man
+robert_menendez,52,fear,white,-0.067,-0.141,-0.122,53.0,Man
+robert_menendez,36,happy,white,0.396,0.297,0.495,37.0,Man
+robert_menendez,37,happy,white,0.396,0.297,0.495,49.0,Man
+robert_menendez,38,happy,white,0.396,0.297,0.495,52.0,Man
+robert_menendez,49,happy,white,0.396,0.297,0.495,51.3,Man
+robert_menendez,31,neutral,white,0.019,-0.022,0.025,47.3,Man
+roger_f._wicker,38,sad,white,-0.12,-0.216,-0.236,57.0,Man
+roger_f._wicker,44,angry,white,-0.198,-0.297,-0.099,60.0,Man
+roger_f._wicker,48,happy,white,0.396,0.297,0.495,48.1,Man
+roger_f._wicker,43,angry,white,-0.09,-0.189,0.009,53.25,Man
+roger_f._wicker,37,neutral,middle eastern,0.069,0.018,0.082,57.0,Man
+roger_f._wicker,48,happy,white,0.198,0.099,0.297,54.0,Man
+roger_f._wicker,49,happy,white,0.384,0.288,0.48,48.0,Man
+roger_f._wicker,54,sad,white,-0.134,-0.233,-0.203,43.0,Man
+roger_f._wicker,35,happy,white,0.396,0.297,0.495,57.0,Man
+roger_marshall,40,fear,white,-0.088,-0.186,-0.094,51.0,Man
+roger_marshall,34,happy,white,0.375,0.28,0.467,47.0,Man
+roger_marshall,33,happy,white,0.299,0.203,0.37,50.0,Man
+roger_marshall,35,sad,white,0.034,-0.063,-0.043,47.03,Man
+roger_marshall,32,happy,white,0.396,0.297,0.495,40.0,Man
+roger_marshall,41,happy,white,0.356,0.258,0.454,43.0,Man
+roger_marshall,52,angry,white,-0.185,-0.284,-0.121,46.0,Man
+roger_marshall,34,happy,white,0.189,0.092,0.222,42.0,Man
+roger_marshall,36,disgust,white,-0.087,-0.147,-0.111,47.0,Man
+roger_marshall,40,fear,white,-0.088,-0.186,-0.094,46.0,Man
+roger_marshall,40,happy,white,0.396,0.297,0.495,43.0,Man
+ron_johnson,51,sad,white,-0.061,-0.12,-0.159,53.0,Man
+ron_johnson,25,happy,white,0.384,0.288,0.48,50.0,Man
+ron_johnson,50,neutral,white,-0.001,-0.002,-0.003,50.2,Man
+ron_johnson,38,happy,white,0.119,0.053,0.156,50.1,Man
+ron_johnson,38,happy,white,0.119,0.053,0.156,47.0,Man
+ron_johnson,35,angry,white,-0.135,-0.225,-0.097,48.0,Man
+ron_johnson,44,neutral,white,-0.092,-0.148,-0.081,51.0,Man
+ron_johnson,28,happy,white,0.396,0.297,0.495,51.6,Man
+ron_wyden,43,angry,white,-0.182,-0.278,-0.1,55.0,Man
+ron_wyden,37,fear,white,-0.034,-0.132,-0.05,51.1,Man
+ron_wyden,26,happy,white,0.396,0.297,0.495,50.6,Man
+ron_wyden,28,happy,white,0.396,0.297,0.495,51.0,Man
+ron_wyden,36,happy,white,0.396,0.297,0.495,56.0,Man
+ron_wyden,39,happy,white,0.396,0.297,0.495,55.0,Man
+ron_wyden,39,happy,white,0.396,0.297,0.495,56.0,Man
+ron_wyden,36,happy,white,0.396,0.297,0.495,55.0,Man
+ron_wyden,26,happy,white,0.396,0.297,0.495,51.1,Man
+ron_wyden,37,fear,white,-0.096,-0.192,-0.168,50.6,Man
+ron_wyden,49,angry,white,-0.173,-0.265,-0.114,51.0,Man
+ron_wyden,41,happy,white,0.396,0.297,0.495,56.0,Man
+ron_wyden,39,happy,white,0.396,0.297,0.495,55.0,Man
+roy_blunt,33,happy,white,0.319,0.223,0.396,45.0,Man
+roy_blunt,31,sad,asian,-0.099,-0.198,-0.235,45.0,Man
+roy_blunt,27,angry,white,-0.186,-0.284,-0.095,45.0,Man
+roy_blunt,26,neutral,latino hispanic,-0.081,-0.134,-0.085,45.0,Man
+roy_blunt,31,angry,white,-0.195,-0.293,-0.098,45.0,Man
+roy_blunt,38,happy,asian,0.208,0.156,0.26,45.0,Man
+roy_blunt,33,happy,white,0.319,0.223,0.396,45.0,Man
+roy_blunt,26,neutral,latino hispanic,-0.081,-0.134,-0.085,45.0,Man
+roy_blunt,31,sad,asian,-0.099,-0.198,-0.235,45.0,Man
+roy_blunt,27,angry,white,-0.186,-0.284,-0.095,45.0,Man
+roy_blunt,37,happy,asian,0.256,0.192,0.32,45.0,Man
+roy_blunt,38,happy,latino hispanic,0.3,0.225,0.375,45.0,Man
+roy_blunt,27,angry,white,-0.132,-0.22,-0.099,45.0,Man
+sheldon_whitehouse,26,neutral,white,0.071,0.04,0.09,54.0,Man
+sheldon_whitehouse,47,sad,white,-0.094,-0.165,-0.145,54.0,Man
+sheldon_whitehouse,38,sad,asian,-0.095,-0.19,-0.283,55.3,Man
+sheldon_whitehouse,51,angry,latino hispanic,-0.195,-0.294,-0.101,56.0,Man
+sheldon_whitehouse,50,sad,latino hispanic,-0.085,-0.151,-0.154,57.0,Man
+sheldon_whitehouse,39,sad,latino hispanic,-0.058,-0.112,-0.152,54.0,Man
+sheldon_whitehouse,34,angry,white,-0.166,-0.26,-0.115,54.0,Man
+sheldon_whitehouse,32,happy,white,0.364,0.273,0.455,54.0,Man
+sheldon_whitehouse,26,neutral,latino hispanic,0.058,0.034,0.067,54.0,Man
+sheldon_whitehouse,50,sad,latino hispanic,-0.085,-0.151,-0.154,55.3,Man
+sheldon_whitehouse,37,happy,middle eastern,0.312,0.234,0.39,56.0,Man
+sheldon_whitehouse,47,sad,white,-0.094,-0.165,-0.145,57.0,Man
+sheldon_whitehouse,37,happy,white,0.388,0.291,0.485,54.0,Man
+sheldon_whitehouse,43,neutral,white,-0.043,-0.086,-0.129,54.0,Man
+shelley_moore_capito,26,happy,white,0.396,0.297,0.495,53.0,Man
+shelley_moore_capito,47,angry,white,-0.172,-0.269,-0.115,53.0,Man
+shelley_moore_capito,25,happy,white,0.396,0.297,0.495,53.0,Man
+shelley_moore_capito,43,fear,white,-0.099,-0.198,-0.111,53.0,Man
+shelley_moore_capito,32,happy,white,0.308,0.212,0.387,53.0,Man
+shelley_moore_capito,31,happy,white,0.396,0.297,0.495,53.0,Man
+shelley_moore_capito,32,happy,white,0.392,0.294,0.49,53.0,Man
+sherrod_brown,34,happy,white,0.376,0.282,0.47,53.0,Man
+sherrod_brown,35,happy,white,0.396,0.297,0.495,53.0,Man
+sherrod_brown,32,happy,white,0.396,0.297,0.495,52.4,Man
+sherrod_brown,35,happy,white,0.396,0.297,0.495,46.0,Man
+sherrod_brown,32,happy,white,0.396,0.297,0.495,48.8,Man
+sherrod_brown,37,happy,white,0.396,0.297,0.495,52.5,Man
+sherrod_brown,34,happy,white,0.388,0.291,0.485,49.5,Man
+sherrod_brown,30,happy,white,0.396,0.297,0.495,49.5,Man
+sherrod_brown,34,happy,white,0.396,0.297,0.495,52.0,Man
+sherrod_brown,35,sad,white,-0.09,-0.187,-0.15,52.0,Man
+sherrod_brown,47,surprise,white,0.158,0.06,0.094,49.0,Man
+sherrod_brown,30,happy,white,0.396,0.297,0.495,49.0,Man
+sherrod_brown,38,happy,white,0.396,0.297,0.495,53.6,Man
+steve_daines,35,happy,white,0.356,0.267,0.445,50.0,Man
+steve_daines,38,happy,white,0.396,0.297,0.495,49.0,Man
+steve_daines,39,happy,white,0.396,0.297,0.495,50.0,Man
+steve_daines,35,happy,white,0.388,0.291,0.485,49.0,Man
+steve_daines,32,happy,white,0.396,0.297,0.495,51.8,Man
+steve_daines,45,happy,latino hispanic,0.396,0.297,0.495,47.0,Man
+steve_daines,28,neutral,white,-0.008,-0.016,-0.008,47.0,Man
+steve_daines,34,happy,latino hispanic,0.396,0.297,0.495,45.0,Man
+steve_daines,34,happy,latino hispanic,0.396,0.297,0.495,47.09,Man
+steve_daines,35,angry,white,-0.19,-0.288,-0.106,48.0,Man
+susan_m._collins,51,sad,white,-0.096,-0.187,-0.255,44.0,Woman
+susan_m._collins,49,happy,white,0.225,0.127,0.304,35.0,Woman
+susan_m._collins,50,happy,white,0.396,0.297,0.495,38.0,Woman
+susan_m._collins,39,happy,white,0.352,0.254,0.442,43.0,Woman
+susan_m._collins,38,happy,white,0.396,0.297,0.495,42.2,Woman
+susan_m._collins,46,fear,asian,0.047,-0.046,0.031,42.0,Woman
+susan_m._collins,46,fear,asian,0.047,-0.046,0.031,42.0,Woman
+susan_m._collins,58,fear,asian,-0.104,-0.201,-0.085,41.0,Woman
+susan_m._collins,51,sad,white,-0.096,-0.187,-0.255,40.82,Woman
+susan_m._collins,38,happy,white,0.382,0.284,0.478,41.0,Woman
+susan_m._collins,49,fear,white,0.081,-0.004,0.118,43.0,Woman
+susan_m._collins,43,neutral,white,-0.012,-0.043,-0.011,42.0,Woman
+tammy_baldwin,37,happy,asian,0.387,0.289,0.484,53.0,Man
+tammy_baldwin,28,sad,white,-0.107,-0.205,-0.258,51.0,Man
+tammy_baldwin,27,sad,white,-0.095,-0.19,-0.245,49.0,Man
+tammy_baldwin,45,happy,white,0.368,0.276,0.46,55.0,Man
+tammy_baldwin,33,happy,white,0.372,0.279,0.465,57.0,Man
+tammy_baldwin,40,happy,white,0.381,0.282,0.477,58.0,Man
+tammy_baldwin,27,sad,white,-0.134,-0.232,-0.202,49.0,Man
+tammy_baldwin,42,neutral,white,0.064,0.032,0.07,55.0,Man
+tammy_baldwin,46,happy,white,0.396,0.297,0.495,50.3,Man
+tammy_baldwin,31,fear,latino hispanic,-0.095,-0.194,-0.096,51.0,Man
+tammy_baldwin,34,sad,white,-0.098,-0.192,-0.258,49.8,Man
+tammy_baldwin,33,fear,white,0.013,-0.084,0.035,56.0,Man
+tammy_baldwin,45,happy,white,0.368,0.276,0.46,56.0,Man
+tammy_baldwin,24,neutral,white,-0.003,-0.006,-0.009,50.0,Man
+tammy_duckworth,35,happy,asian,0.396,0.297,0.495,50.0,Woman
+tammy_duckworth,32,happy,asian,0.396,0.297,0.495,56.0,Woman
+tammy_duckworth,36,neutral,white,0.018,0.011,0.019,49.7,Woman
+tammy_duckworth,38,surprise,white,0.277,0.178,0.183,48.2,Woman
+tammy_duckworth,41,happy,asian,0.396,0.297,0.495,43.3,Woman
+tammy_duckworth,37,happy,asian,0.396,0.297,0.495,58.0,Woman
+tammy_duckworth,29,neutral,latino hispanic,0.096,0.072,0.12,49.1,Woman
+tammy_duckworth,36,happy,asian,0.396,0.297,0.495,58.0,Woman
+tammy_duckworth,35,happy,asian,0.396,0.297,0.495,50.0,Woman
+tammy_duckworth,37,happy,asian,0.396,0.297,0.495,56.0,Woman
+tammy_duckworth,36,neutral,white,0.018,0.011,0.019,49.7,Woman
+tammy_duckworth,32,happy,asian,0.396,0.297,0.495,48.2,Woman
+tammy_duckworth,29,neutral,latino hispanic,0.096,0.072,0.12,43.3,Woman
+ted_budd,45,happy,white,0.344,0.258,0.43,44.6,Man
+ted_budd,29,happy,white,0.38,0.285,0.475,37.0,Man
+ted_budd,28,happy,white,0.388,0.291,0.485,44.0,Man
+ted_budd,41,happy,white,0.388,0.291,0.485,46.9,Man
+ted_budd,33,sad,white,-0.099,-0.198,-0.297,51.4,Man
+ted_budd,30,happy,white,0.392,0.294,0.49,43.9,Man
+ted_budd,31,happy,white,0.357,0.264,0.447,49.0,Man
+ted_budd,37,neutral,white,0.0,0.0,0.0,48.0,Man
+ted_budd,45,happy,white,0.344,0.258,0.43,51.0,Man
+ted_budd,41,happy,white,0.396,0.297,0.495,51.2,Man
+ted_budd,33,sad,white,-0.099,-0.198,-0.297,40.0,Man
+ted_budd,30,happy,white,0.392,0.294,0.49,50.0,Man
+ted_budd,36,happy,white,0.364,0.273,0.455,45.0,Man
+ted_budd,28,happy,white,0.388,0.291,0.485,48.2,Man
+ted_budd,29,happy,white,0.38,0.285,0.475,49.3,Man
+ted_cruz,28,happy,white,0.392,0.294,0.49,48.0,Man
+ted_cruz,28,happy,white,0.392,0.294,0.49,50.0,Man
+ted_cruz,24,fear,white,-0.091,-0.184,-0.169,49.0,Man
+ted_cruz,24,fear,white,-0.091,-0.184,-0.169,41.0,Man
+ted_cruz,29,sad,white,-0.098,-0.185,-0.199,50.0,Man
+ted_cruz,30,happy,white,0.396,0.297,0.495,51.0,Man
+ted_cruz,30,happy,white,0.339,0.248,0.423,41.0,Man
+ted_cruz,43,neutral,white,-0.05,-0.099,-0.141,49.0,Man
+ted_cruz,27,fear,white,-0.099,-0.198,-0.099,36.0,Man
+ted_cruz,24,fear,white,-0.091,-0.184,-0.169,46.0,Man
+ted_cruz,45,neutral,white,-0.051,-0.095,-0.11,38.0,Man
+ted_cruz,23,happy,middle eastern,0.388,0.291,0.485,47.0,Man
+ted_cruz,36,angry,white,-0.165,-0.248,-0.085,48.0,Man
+ted_cruz,30,happy,white,0.339,0.248,0.423,41.0,Man
+ted_cruz,29,happy,white,0.384,0.288,0.48,48.0,Man
+ted_cruz,29,sad,white,-0.098,-0.185,-0.199,50.0,Man
+thomas_r._carper,31,sad,white,-0.104,-0.202,-0.262,47.0,Man
+thomas_r._carper,35,happy,white,0.392,0.294,0.49,60.0,Man
+thomas_r._carper,52,happy,white,0.304,0.228,0.38,61.0,Man
+thomas_r._carper,34,happy,white,0.392,0.294,0.49,47.0,Man
+thomas_r._carper,40,sad,white,-0.049,-0.138,-0.183,60.0,Man
+thomas_r._carper,41,neutral,white,-0.006,-0.012,-0.018,61.0,Man
+thomas_r._carper,34,fear,white,-0.064,-0.128,-0.074,47.0,Man
+thomas_r._carper,48,angry,white,-0.173,-0.262,-0.099,60.0,Man
+thomas_r._carper,27,happy,white,0.396,0.297,0.495,61.0,Man
+thomas_r._carper,41,neutral,white,-0.006,-0.012,-0.018,47.0,Man
+thomas_r._carper,30,happy,white,0.396,0.297,0.495,60.0,Man
+thomas_r._carper,48,happy,white,0.105,0.03,0.135,61.0,Man
+thomas_r._carper,52,sad,white,-0.142,-0.239,-0.193,47.0,Man
+tim_scott,33,angry,black,0.034,-0.064,0.126,56.0,Man
+tim_scott,34,happy,black,0.272,0.19,0.324,57.0,Man
+tim_scott,28,happy,black,0.388,0.291,0.485,54.0,Man
+tim_scott,29,angry,black,-0.055,-0.139,-0.075,53.0,Man
+tim_scott,31,neutral,black,0.135,0.101,0.167,58.0,Man
+tim_scott,33,happy,black,0.368,0.276,0.46,55.0,Man
+tim_scott,32,happy,black,0.384,0.288,0.48,57.0,Man
+tim_scott,33,happy,black,0.228,0.17,0.278,54.0,Man
+tina_smith,37,happy,white,0.396,0.297,0.495,51.0,Woman
+tina_smith,45,happy,white,0.396,0.297,0.495,48.0,Woman
+tina_smith,42,happy,white,0.396,0.297,0.495,48.21,Woman
+tina_smith,43,happy,white,0.396,0.297,0.495,43.0,Woman
+tina_smith,53,happy,white,0.387,0.289,0.484,43.8,Woman
+tina_smith,44,happy,white,0.396,0.297,0.495,46.6,Woman
+tina_smith,48,happy,white,0.396,0.297,0.495,49.0,Woman
+tina_smith,39,happy,white,0.307,0.209,0.388,47.0,Woman
+todd_young,28,fear,white,-0.067,-0.134,-0.101,39.0,Man
+todd_young,42,happy,white,0.388,0.291,0.485,45.0,Man
+todd_young,35,happy,white,0.267,0.194,0.325,49.0,Man
+todd_young,46,happy,white,0.396,0.297,0.495,39.0,Man
+todd_young,38,sad,white,-0.058,-0.116,-0.146,49.0,Man
+todd_young,40,happy,white,0.396,0.297,0.495,39.0,Man
+todd_young,42,sad,middle eastern,-0.072,-0.148,-0.216,45.0,Man
+todd_young,36,happy,white,0.396,0.297,0.495,49.0,Man
+todd_young,45,happy,white,0.396,0.297,0.495,39.0,Man
+todd_young,42,sad,middle eastern,-0.072,-0.148,-0.216,45.0,Man
+todd_young,47,happy,white,0.396,0.297,0.495,49.0,Man
+todd_young,33,fear,latino hispanic,-0.035,-0.134,-0.055,39.0,Man
+tom_cotton,35,sad,middle eastern,-0.086,-0.166,-0.21,75.0,Man
+tom_cotton,29,happy,white,0.396,0.297,0.495,62.5,Man
+tom_cotton,26,neutral,middle eastern,-0.028,-0.05,-0.042,49.0,Man
+tom_cotton,34,happy,white,0.396,0.297,0.495,75.0,Man
+tom_cotton,28,happy,white,0.396,0.297,0.495,62.5,Man
+tom_cotton,27,happy,middle eastern,0.396,0.297,0.495,49.0,Man
+tom_cotton,34,angry,white,-0.13,-0.226,-0.084,75.0,Man
+tom_cotton,33,happy,middle eastern,0.396,0.297,0.495,62.5,Man
+tom_cotton,35,sad,middle eastern,-0.086,-0.166,-0.21,49.0,Man
+tom_cotton,34,happy,white,0.36,0.27,0.45,75.0,Man
+tom_cotton,25,angry,middle eastern,-0.141,-0.232,-0.125,62.5,Man
+tom_cotton,34,angry,white,-0.13,-0.226,-0.084,49.0,Man
+tom_cotton,35,sad,middle eastern,-0.086,-0.166,-0.21,75.0,Man
+tom_cotton,33,happy,middle eastern,0.396,0.297,0.495,62.5,Man
+tom_cotton,30,happy,white,0.396,0.297,0.495,49.0,Man
+tom_cotton,34,happy,white,0.396,0.297,0.495,75.0,Man
+tommy_tuberville,47,neutral,white,0.083,0.051,0.088,43.9,Man
+tommy_tuberville,53,sad,white,-0.118,-0.215,-0.211,52.0,Man
+tommy_tuberville,39,surprise,white,0.123,0.025,0.085,52.0,Man
+tommy_tuberville,39,happy,white,0.299,0.209,0.356,47.0,Man
+tommy_tuberville,41,disgust,white,-0.098,-0.148,-0.186,55.0,Man
+tommy_tuberville,39,surprise,white,0.123,0.025,0.085,54.7,Man
+tommy_tuberville,47,neutral,white,0.053,0.026,0.047,54.4,Man
+tommy_tuberville,43,neutral,white,-0.059,-0.116,-0.121,53.8,Man
+tommy_tuberville,41,disgust,white,-0.098,-0.148,-0.186,51.1,Man
+tommy_tuberville,43,neutral,white,-0.059,-0.116,-0.121,57.6,Man
+tommy_tuberville,44,happy,white,0.396,0.297,0.495,56.0,Man
