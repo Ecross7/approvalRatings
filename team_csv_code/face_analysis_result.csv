@@ -1,0 +1,1117 @@
+Senator,Age,Gender,Emotion,Race,Val1,Val2,Val3,pct
+amy_klobuchar,36,Man,sad,white,-0.099,-0.198,-0.297,54.0
+amy_klobuchar,38,Woman,sad,white,-0.07,-0.134,-0.17400000000000000,50.2
+amy_klobuchar,32,Man,happy,white,0.396,0.297,0.495,60.0
+amy_klobuchar,24,Man,happy,white,0.396,0.297,0.495,63.0
+amy_klobuchar,42,Woman,happy,white,0.396,0.297,0.495,62.0
+amy_klobuchar,36,Woman,happy,white,0.396,0.297,0.495,60.0
+amy_klobuchar,36,Man,happy,white,0.374,0.278,0.46800000000000000,53.6
+amy_klobuchar,38,Woman,sad,white,-0.07,-0.134,-0.17400000000000000,59.0
+amy_klobuchar,36,Woman,happy,white,0.396,0.297,0.495,53.0
+amy_klobuchar,41,Woman,fear,white,-0.053000000000000000,-0.15,-0.09700000000000000,49.0
+amy_klobuchar,37,Woman,happy,white,0.392,0.294,0.49,50.0
+amy_klobuchar,36,Woman,happy,white,0.34600000000000000,0.252,0.43,56.0
+benjamin_l._cardin,56,Man,happy,asian,0.396,0.297,0.495,53.6
+benjamin_l._cardin,61,Man,happy,asian,0.396,0.297,0.495,59.0
+benjamin_l._cardin,50,Man,happy,asian,0.396,0.297,0.495,53.0
+benjamin_l._cardin,50,Man,happy,asian,0.396,0.297,0.495,49.0
+benjamin_l._cardin,44,Man,angry,white,0.03,-0.069,0.12900000000000000,50.0
+benjamin_l._cardin,41,Man,angry,asian,-0.109,-0.17400000000000000,-0.099,56.0
+benjamin_l._cardin,32,Man,sad,white,-0.099,-0.198,-0.287,57.0
+benjamin_l._cardin,39,Man,happy,white,0.36800000000000000,0.27600000000000000,0.46,53.0
+benjamin_l._cardin,39,Man,sad,white,0.022000000000000000,-0.049000000000000000,-0.057000000000000000,55.0
+benjamin_l._cardin,54,Man,angry,white,-0.10000000000000000,-0.16100000000000000,-0.09700000000000000,56.0
+benjamin_l._cardin,48,Man,fear,white,-0.059000000000000000,-0.155,-0.05,49.4
+benjamin_l._cardin,54,Man,angry,white,-0.162,-0.256,-0.11,53.6
+benjamin_l._cardin,51,Man,happy,asian,0.3170000000000000,0.22300000000000000,0.398,59.0
+bernard_sanders,49,Man,fear,white,-0.105,-0.20200000000000000,-0.16900000000000000,60.0
+bernard_sanders,27,Man,fear,white,-0.098,-0.196,-0.13,75.0
+bernard_sanders,39,Man,happy,white,0.392,0.294,0.49,66.0
+bernard_sanders,39,Man,happy,white,0.392,0.294,0.49,60.0
+bernard_sanders,27,Man,fear,white,-0.098,-0.196,-0.13,75.0
+bernard_sanders,39,Man,happy,white,0.10400000000000000,0.024000000000000000,0.184,66.0
+bernard_sanders,54,Man,angry,white,-0.13,-0.213,-0.13300000000000000,60.0
+bernard_sanders,36,Man,fear,white,-0.054000000000000000,-0.10800000000000000,-0.054000000000000000,75.0
+bernard_sanders,35,Man,fear,asian,0.04900000000000000,-0.046000000000000000,0.0030000000000000000,66.0
+bernard_sanders,38,Man,sad,asian,-0.09600000000000000,-0.17700000000000000,-0.213,60.0
+bernard_sanders,52,Man,happy,white,0.396,0.297,0.495,75.0
+bernard_sanders,39,Man,happy,white,0.396,0.297,0.495,66.0
+bernard_sanders,25,Man,fear,white,-0.099,-0.198,-0.099,60.0
+bill_cassidy,33,Man,sad,white,-0.091,-0.17800000000000000,-0.233,42.0
+bill_cassidy,25,Man,neutral,white,-0.031,-0.057,-0.04,52.0
+bill_cassidy,26,Man,happy,white,0.4,0.3,0.5,46
+bill_cassidy,35,Man,neutral,white,-0.002,-0.013000000000000000,0.003000000000000000,48
+bill_cassidy,51,Man,happy,white,0.4,0.3,0.5,49
+bill_cassidy,53,Man,fear,white,-0.10100000000000000,-0.20000000000000000,-0.099,50
+bill_cassidy,44,Man,happy,white,0.4,0.3,0.5,42
+bill_cassidy,33,Man,sad,white,-0.091,-0.17800000000000000,-0.233,44
+bill_cassidy,30,Woman,neutral,white,-0.015000000000000000,-0.036000000000000000,-0.0030000000000000000,46
+bill_hagerty,35,Man,happy,white,0.316,0.237,0.395,55.0
+bill_hagerty,39,Man,fear,asian,-0.03300000000000000,-0.128,-0.04800000000000000,56.3
+bill_hagerty,46,Man,happy,asian,0.192,0.09400000000000000,0.25000000000000000,60.7
+bill_hagerty,44,Man,happy,asian,0.38400000000000000,0.288,0.48,55.0
+bill_hagerty,41,Man,neutral,asian,0.124,0.09300000000000000,0.155,56.3
+bill_hagerty,31,Man,neutral,asian,-0.027000000000000000,-0.054000000000000000,-0.063,60.7
+bill_hagerty,44,Man,happy,asian,0.38400000000000000,0.288,0.48,55.0
+bill_hagerty,46,Man,fear,latino hispanic,-0.099,-0.198,-0.099,56.3
+bill_hagerty,41,Man,neutral,asian,0.02,0.015,0.025,60.7
+bill_hagerty,39,Man,neutral,latino hispanic,0.09100000000000000,0.068,0.11200000000000000,55.0
+bill_nelson,27,Man,angry,asian,-0.14,-0.223,-0.17100000000000000,48.0
+bill_nelson,42,Man,sad,white,-0.09300000000000000,-0.185,-0.274,49.9
+bill_nelson,41,Man,happy,white,0.396,0.297,0.495,48.0
+bill_nelson,42,Man,sad,white,-0.09300000000000000,-0.185,-0.274,53.0
+bill_nelson,40,Man,happy,white,0.396,0.297,0.495,47.0
+bill_nelson,41,Man,happy,white,0.396,0.297,0.495,46.0
+bill_nelson,51,Man,neutral,white,0.0,0.0,0.0,46.0
+bill_nelson,37,Man,happy,white,0.396,0.297,0.495,44.0
+bill_nelson,30,Man,happy,white,0.396,0.297,0.495,41.3
+bill_nelson,41,Man,happy,white,0.396,0.297,0.495,48.0
+bill_nelson,32,Man,angry,white,-0.155,-0.251,-0.133,50.0
+bill_nelson,29,Woman,happy,white,0.38300000000000000,0.286,0.479,45.0
+charles_e._schumer,41,Man,happy,white,0.392,0.294,0.49,54.0
+charles_e._schumer,35,Man,happy,white,0.34,0.255,0.425,56.0
+charles_e._schumer,59,Man,angry,middle eastern,-0.191,-0.29,-0.109,50.0
+charles_e._schumer,27,Man,happy,middle eastern,0.396,0.297,0.495,59.0
+charles_e._schumer,23,Man,happy,middle eastern,0.396,0.297,0.495,60.0
+charles_e._schumer,44,Man,happy,white,0.316,0.237,0.395,52.0
+charles_e._schumer,41,Man,happy,white,0.392,0.294,0.49,56.0
+charles_e._schumer,59,Man,sad,white,-0.09500000000000000,-0.18200000000000000,-0.23900000000000000,50.6
+christopher_a._coons,26,Man,happy,white,0.38800000000000000,0.29,0.478,57.0
+christopher_a._coons,42,Man,happy,asian,0.3,0.225,0.375,57.0
+christopher_a._coons,35,Man,angry,white,-0.12200000000000000,-0.20200000000000000,-0.15,57.0
+christopher_a._coons,37,Man,angry,white,-0.19000000000000000,-0.288,-0.11,57.0
+christopher_a._coons,49,Man,happy,white,0.175,0.092,0.171,57.0
+christopher_a._coons,26,Man,happy,white,0.38800000000000000,0.29,0.478,57.0
+christopher_a._coons,25,Man,neutral,white,-0.05000000000000000,-0.10000000000000000,-0.068,57.0
+christopher_a._coons,50,Man,neutral,asian,-0.065,-0.11100000000000000,-0.1,57.0
+christopher_a._coons,50,Man,neutral,asian,-0.065,-0.11100000000000000,-0.1,57.0
+christopher_a._coons,28,Man,neutral,latino hispanic,0.0,0.0,0.0,57.0
+christopher_a._coons,55,Man,neutral,white,0.042,0.007999999999999990,0.048,57.0
+christopher_a._coons,44,Man,neutral,white,-0.076,-0.133,-0.103,57.0
+christopher_a._coons,25,Man,neutral,white,-0.05000000000000000,-0.10000000000000000,-0.068,57.0
+christopher_a._coons,50,Man,fear,white,-0.09700000000000000,-0.19400000000000000,-0.09900000000000000,57.0
+christopher_murphy,46,Man,neutral,white,0.08000000000000000,0.05000000000000000,0.09,58.0
+christopher_murphy,34,Man,neutral,white,0.08,0.06,0.1,59.0
+christopher_murphy,28,Man,happy,white,0.396,0.297,0.495,55.1
+christopher_murphy,27,Man,happy,white,0.335,0.247,0.42,57.0
+christopher_murphy,30,Man,surprise,white,0.297,0.198,0.198,56.0
+christopher_murphy,40,Man,angry,white,-0.182,-0.278,-0.10300000000000000,54.0
+christopher_murphy,28,Man,happy,white,0.396,0.297,0.495,58.0
+christopher_murphy,27,Man,sad,asian,-0.099,-0.198,-0.281,59.0
+christopher_murphy,34,Man,neutral,white,0.08,0.06,0.1,55.1
+christopher_murphy,26,Man,neutral,white,-0.004000000000000000,-0.033,-0.032,57.0
+christopher_murphy,27,Man,happy,white,0.36800000000000000,0.27600000000000000,0.46,56.0
+christopher_murphy,37,Man,neutral,white,0.0,0.0,0.0,54.0
+christopher_murphy,30,Man,surprise,white,0.27700000000000000,0.17800000000000000,0.183,58.0
+christopher_murphy,35,Man,happy,white,0.38300000000000000,0.287,0.47700000000000000,59.0
+cindy_hyde-smith,39,Man,happy,white,0.264,0.16800000000000000,0.342,29.0
+cindy_hyde-smith,49,Woman,happy,white,0.147,0.069,0.18600000000000000,27.4
+cindy_hyde-smith,35,Woman,sad,white,-0.06400000000000000,-0.126,-0.17800000000000000,58.31
+cindy_hyde-smith,37,Woman,happy,white,0.38800000000000000,0.291,0.485,47.0
+cindy_hyde-smith,51,Woman,happy,white,0.396,0.297,0.495,50.0
+cindy_hyde-smith,42,Woman,happy,white,0.34,0.255,0.425,36.0
+cindy_hyde-smith,34,Woman,sad,white,-0.057,-0.125,-0.139,24.0
+cindy_hyde-smith,35,Woman,sad,white,-0.06400000000000000,-0.126,-0.17800000000000000,38.0
+cindy_hyde-smith,32,Woman,happy,white,0.34,0.255,0.425,38.0
+cindy_hyde-smith,46,Woman,happy,white,0.32,0.24,0.4,27.0
+cindy_hyde-smith,39,Man,happy,white,0.264,0.16800000000000000,0.342,54.0
+claire_mccaskill,27,Man,fear,white,-0.139,-0.23700000000000000,-0.13,46.0
+claire_mccaskill,28,Man,fear,white,-0.11800000000000000,-0.21600000000000000,-0.11800000000000000,47.0
+claire_mccaskill,47,Woman,neutral,white,-0.053000000000000000,-0.09700000000000000,-0.07,41.0
+claire_mccaskill,49,Woman,surprise,white,0.27300000000000000,0.17400000000000000,0.18,46.0
+claire_mccaskill,42,Woman,happy,white,0.38400000000000000,0.288,0.48,45.0
+claire_mccaskill,46,Woman,happy,white,0.396,0.297,0.495,50.0
+claire_mccaskill,53,Woman,happy,white,0.396,0.297,0.495,41.0
+claire_mccaskill,49,Woman,surprise,white,0.27300000000000000,0.17400000000000000,0.18,45.2
+claire_mccaskill,47,Woman,happy,white,0.396,0.297,0.495,43.0
+claire_mccaskill,49,Woman,happy,white,0.396,0.297,0.495,45.0
+claire_mccaskill,46,Woman,happy,white,0.396,0.297,0.495,46.0
+claire_mccaskill,46,Woman,surprise,white,0.146,0.053,0.04400000000000000,46.0
+claire_mccaskill,42,Woman,happy,white,0.38400000000000000,0.288,0.48,46.0
+claire_mccaskill,42,Woman,happy,white,0.38400000000000000,0.288,0.48,47.0
+cory_a._booker,34,Man,sad,black,-0.09,-0.18,-0.26600000000000000,58.0
+cory_a._booker,34,Man,sad,black,-0.09,-0.18,-0.26600000000000000,55.0
+cory_a._booker,30,Man,fear,white,-0.1,-0.199,-0.099,59.0
+cory_a._booker,31,Man,sad,black,0.01200000000000000,-0.08500000000000000,-0.04300000000000000,61.0
+cory_a._booker,31,Man,happy,latino hispanic,0.396,0.297,0.495,56.6
+cory_a._booker,33,Man,fear,black,-0.019000000000000000,-0.11800000000000000,-0.03900000000000000,51.55
+cory_a._booker,29,Man,happy,black,0.396,0.297,0.495,55.0
+cory_a._booker,32,Man,happy,latino hispanic,0.38,0.282,0.472,61.0
+cory_a._booker,29,Man,sad,black,-0.09700000000000000,-0.193,-0.278,58.0
+cory_a._booker,33,Man,fear,black,-0.019000000000000000,-0.11800000000000000,-0.03900000000000000,55.0
+cory_a._booker,30,Man,fear,black,-0.129,-0.22700000000000000,-0.11800000000000000,59.0
+cory_a._booker,29,Man,sad,black,-0.098,-0.196,-0.27600000000000000,61.0
+cory_a._booker,30,Man,fear,black,-0.128,-0.22700000000000000,-0.11100000000000000,56.6
+cory_a._booker,30,Man,neutral,black,-0.05200000000000000,-0.11600000000000000,-0.056000000000000000,51.55
+cory_gardner,28,Man,happy,white,0.396,0.297,0.495,42.0
+cory_gardner,29,Man,fear,white,-0.068,-0.166,-0.06200000000000000,39.0
+cory_gardner,29,Man,fear,white,-0.068,-0.166,-0.06200000000000000,46.0
+cory_gardner,39,Man,neutral,white,0.0,0.0,0.0,42.0
+cory_gardner,30,Man,neutral,white,0.0,0.0,0.0,39.0
+cory_gardner,33,Man,happy,white,0.327,0.241,0.412,40.0
+cory_gardner,33,Man,angry,white,-0.14800000000000000,-0.239,-0.11600000000000000,40.0
+cory_gardner,39,Man,happy,white,0.396,0.297,0.495,41.0
+cory_gardner,39,Man,neutral,white,0.0,0.0,0.0,45.0
+cory_gardner,40,Man,happy,white,0.396,0.297,0.495,38.0
+cory_gardner,34,Man,angry,white,-0.10700000000000000,-0.16300000000000000,-0.066,39.7
+cory_gardner,33,Man,angry,white,-0.14800000000000000,-0.239,-0.11600000000000000,42.0
+cory_gardner,34,Man,happy,white,0.392,0.294,0.49,42.0
+cory_gardner,44,Man,angry,white,-0.09200000000000000,-0.177,-0.085,43.1
+cynthia_m._lummis,36,Woman,happy,white,0.38800000000000000,0.291,0.485,56.0
+cynthia_m._lummis,30,Woman,neutral,latino hispanic,0.09600000000000000,0.072,0.12,56.0
+cynthia_m._lummis,39,Woman,happy,white,0.396,0.297,0.495,56.0
+cynthia_m._lummis,32,Woman,happy,white,0.396,0.297,0.495,56.0
+cynthia_m._lummis,35,Woman,happy,white,0.396,0.297,0.495,56.0
+cynthia_m._lummis,39,Woman,happy,white,0.396,0.297,0.495,56.0
+cynthia_m._lummis,36,Woman,happy,white,0.38800000000000000,0.291,0.485,56.0
+cynthia_m._lummis,44,Woman,happy,white,0.396,0.297,0.495,56.0
+dan_sullivan,41,Man,fear,white,-0.098,-0.196,-0.10100000000000000,46.0
+dan_sullivan,37,Man,happy,white,0.336,0.252,0.42,48.0
+dan_sullivan,48,Man,sad,white,-0.14100000000000000,-0.24,-0.21300000000000000,44.0
+dan_sullivan,42,Man,sad,white,-0.09800000000000000,-0.195,-0.275,46.0
+dan_sullivan,33,Man,sad,white,-0.092,-0.183,-0.259,45.0
+dan_sullivan,37,Man,happy,white,0.336,0.252,0.42,46.0
+dan_sullivan,33,Man,happy,white,0.344,0.258,0.43,47.0
+dan_sullivan,41,Man,fear,white,-0.098,-0.196,-0.10100000000000000,53.0
+dan_sullivan,49,Man,angry,white,-0.18100000000000000,-0.28,-0.133,46.0
+dan_sullivan,33,Man,sad,white,-0.092,-0.183,-0.259,43.0
+david_perdue,50,Man,angry,middle eastern,-0.10800000000000000,-0.18000000000000000,-0.115,44.0
+david_perdue,24,Man,happy,white,0.272,0.176,0.33300000000000000,46.0
+david_perdue,35,Man,sad,white,-0.12200000000000000,-0.22,-0.18400000000000000,44.0
+david_perdue,45,Man,angry,white,-0.014000000000000000,-0.111,0.0050000000000000000,47.0
+david_perdue,49,Man,happy,white,0.35600000000000000,0.267,0.445,48.0
+david_perdue,52,Man,happy,white,0.36800000000000000,0.27600000000000000,0.46,48.0
+david_perdue,51,Man,happy,asian,0.392,0.294,0.49,50.0
+david_perdue,24,Man,happy,white,0.272,0.176,0.33300000000000000,41.0
+david_perdue,49,Man,happy,white,0.38,0.285,0.475,43.0
+david_perdue,35,Man,sad,white,-0.12200000000000000,-0.22,-0.18400000000000000,43.0
+david_perdue,51,Man,happy,white,0.34,0.255,0.425,43.15
+david_perdue,25,Man,happy,white,0.396,0.297,0.495,44.0
+david_perdue,45,Man,angry,white,-0.014000000000000000,-0.111,0.0050000000000000000,48.0
+david_perdue,30,Man,fear,white,-0.099,-0.198,-0.16900000000000000,43.0
+david_perdue,46,Man,happy,white,0.332,0.249,0.415,47.0
+dean_heller,24,Man,happy,white,0.392,0.294,0.49,45.0
+dean_heller,35,Man,fear,white,-0.09700000000000000,-0.19400000000000000,-0.09900000000000000,46.0
+dean_heller,38,Man,sad,white,-0.098,-0.196,-0.264,42.0
+dean_heller,37,Man,fear,white,-0.08900000000000000,-0.185,-0.158,46.0
+dean_heller,28,Man,sad,white,-0.07500000000000000,-0.14400000000000000,-0.15100000000000000,45.0
+dean_heller,30,Man,happy,white,0.332,0.249,0.415,43.0
+dean_heller,31,Man,neutral,asian,0.052000000000000000,0.039,0.065,40.0
+dean_heller,36,Man,neutral,asian,-0.035,-0.07200000000000000,-0.055,42.49
+dean_heller,28,Man,sad,white,-0.07500000000000000,-0.14400000000000000,-0.15100000000000000,44.0
+dean_heller,44,Man,sad,white,-0.096,-0.191,-0.261,43.0
+dean_heller,35,Man,fear,white,-0.09700000000000000,-0.19400000000000000,-0.09900000000000000,34.0
+dean_heller,27,Man,happy,white,0.396,0.297,0.495,48.1
+deb_fischer,48,Woman,fear,white,-0.07,-0.16600000000000000,-0.075,38.0
+deb_fischer,46,Woman,happy,white,0.396,0.297,0.495,54.0
+deb_fischer,44,Woman,happy,white,0.396,0.297,0.495,42.0
+deb_fischer,36,Woman,sad,white,-0.08200000000000000,-0.16400000000000000,-0.24600000000000000,51.0
+deb_fischer,34,Man,sad,latino hispanic,-0.10100000000000000,-0.19900000000000000,-0.278,38.0
+deb_fischer,39,Woman,happy,white,0.392,0.294,0.49,54.0
+deb_fischer,43,Woman,happy,white,0.35600000000000000,0.267,0.445,42.0
+deb_fischer,43,Woman,happy,white,0.332,0.249,0.415,51.0
+deb_fischer,46,Woman,happy,white,0.396,0.297,0.495,38.0
+deb_fischer,49,Woman,neutral,white,-0.012000000000000000,-0.021000000000000000,-0.013000000000000000,54.0
+deb_fischer,37,Woman,happy,white,0.38400000000000000,0.288,0.48,42.0
+debbie_stabenow,26,Man,neutral,white,-0.047,-0.094,-0.055,48.0
+debbie_stabenow,50,Woman,happy,white,0.396,0.297,0.495,51.3
+debbie_stabenow,44,Woman,happy,white,0.396,0.297,0.495,49.0
+debbie_stabenow,55,Woman,happy,white,0.38800000000000000,0.291,0.485,53.0
+debbie_stabenow,42,Woman,angry,white,-0.08700000000000000,-0.153,-0.030000000000000000,47.3
+debbie_stabenow,31,Woman,happy,white,0.327,0.23400000000000000,0.41100000000000000,52.8
+debbie_stabenow,51,Woman,happy,white,0.396,0.297,0.495,49.0
+debbie_stabenow,41,Woman,neutral,white,0.128,0.07600000000000000,0.132,53.0
+debbie_stabenow,58,Woman,happy,white,0.396,0.297,0.495,53.0
+debbie_stabenow,55,Woman,happy,white,0.392,0.294,0.49,49.0
+debbie_stabenow,42,Woman,happy,white,0.396,0.297,0.495,54.0
+debbie_stabenow,53,Woman,fear,white,0.05500000000000000,-0.04300000000000000,0.04,53.0
+debbie_stabenow,39,Woman,sad,white,-0.10700000000000000,-0.20400000000000000,-0.205,52.0
+debbie_stabenow,55,Woman,happy,white,0.34800000000000000,0.251,0.42100000000000000,53.0
+dianne_feinstein,41,Man,fear,white,-0.09700000000000000,-0.19400000000000000,-0.19300000000000000,45.0
+dianne_feinstein,50,Woman,neutral,white,0.0,0.0,0.0,40.9
+dianne_feinstein,55,Woman,happy,white,0.396,0.297,0.495,50.0
+dianne_feinstein,36,Man,sad,white,-0.09700000000000000,-0.19400000000000000,-0.291,47.0
+dianne_feinstein,55,Woman,happy,white,0.396,0.297,0.495,41.0
+dianne_feinstein,39,Woman,neutral,white,-0.032,-0.064,-0.096,43.0
+dianne_feinstein,40,Man,fear,white,-0.132,-0.23,-0.098,36.0
+dianne_feinstein,52,Woman,neutral,white,0.039,0.026000000000000000,0.026000000000000000,37.8
+dianne_feinstein,40,Man,fear,white,-0.132,-0.23,-0.098,55.0
+dianne_feinstein,50,Woman,neutral,white,0.0,0.0,0.0,43.0
+dianne_feinstein,37,Man,neutral,white,0.0,0.0,0.0,42.0
+dianne_feinstein,42,Woman,happy,white,0.153,0.056000000000000000,0.19900000000000000,40.0
+dianne_feinstein,36,Man,sad,white,-0.09700000000000000,-0.19400000000000000,-0.291,45.0
+edward_j._markey,66,Man,fear,white,-0.12300000000000000,-0.22,-0.109,60.0
+edward_j._markey,48,Man,surprise,white,0.262,0.16400000000000000,0.18100000000000000,44.0
+edward_j._markey,33,Man,happy,asian,0.386,0.288,0.484,65.0
+edward_j._markey,49,Man,angry,white,0.04800000000000000,-0.049000000000000000,0.13400000000000000,50.0
+edward_j._markey,30,Man,happy,white,0.259,0.193,0.324,60.0
+edward_j._markey,24,Man,neutral,white,0.019000000000000000,-0.03000000000000000,0.008000000000000010,44.0
+edward_j._markey,55,Man,happy,white,0.387,0.289,0.48200000000000000,65.0
+edward_j._markey,54,Man,happy,white,0.374,0.278,0.46800000000000000,50.0
+edward_j._markey,38,Man,happy,latino hispanic,0.38800000000000000,0.291,0.485,60.0
+edward_j._markey,32,Man,fear,white,-0.051000000000000000,-0.10700000000000000,-0.052000000000000000,44.0
+edward_j._markey,46,Man,happy,latino hispanic,0.396,0.297,0.495,65.0
+edward_j._markey,49,Man,angry,white,0.04800000000000000,-0.049000000000000000,0.13400000000000000,50.0
+elizabeth_warren,44,Man,fear,white,-0.053000000000000000,-0.148,-0.13500000000000000,56.0
+elizabeth_warren,28,Man,happy,latino hispanic,0.396,0.297,0.495,55.7
+elizabeth_warren,38,Man,fear,middle eastern,-0.102,-0.193,-0.111,60.0
+elizabeth_warren,28,Man,happy,latino hispanic,0.396,0.297,0.495,56.0
+elizabeth_warren,42,Woman,happy,white,0.38,0.285,0.475,55.0
+elizabeth_warren,35,Woman,neutral,white,-0.047,-0.094,-0.10300000000000000,54.0
+elizabeth_warren,51,Woman,angry,white,-0.19000000000000000,-0.288,-0.10000000000000000,58.0
+elizabeth_warren,42,Woman,happy,white,0.392,0.294,0.49,34.4
+elizabeth_warren,29,Woman,happy,asian,0.391,0.292,0.489,55.2
+elizabeth_warren,53,Woman,fear,asian,-0.10000000000000000,-0.19800000000000000,-0.098,53.8
+elizabeth_warren,29,Woman,happy,latino hispanic,0.371,0.272,0.465,56.0
+elizabeth_warren,35,Man,sad,white,-0.1,-0.192,-0.269,54.0
+elizabeth_warren,39,Woman,neutral,latino hispanic,-0.001,-0.002,-0.003,56.0
+eric_schmitt,45,Man,happy,white,0.38,0.285,0.475,49.0
+eric_schmitt,23,Woman,happy,white,0.315,0.217,0.41,51.0
+eric_schmitt,34,Man,happy,white,0.38400000000000000,0.288,0.48,47.0
+eric_schmitt,36,Man,happy,white,0.35600000000000000,0.267,0.445,49.1
+eric_schmitt,40,Man,happy,white,0.396,0.297,0.495,55.0
+eric_schmitt,42,Man,fear,white,-0.094,-0.18600000000000000,-0.172,50.0
+eric_schmitt,42,Man,happy,white,0.273,0.196,0.33900000000000000,47.0
+eric_schmitt,46,Man,neutral,white,-0.045,-0.06700000000000000,-0.064,53.6
+eric_schmitt,42,Man,fear,white,-0.094,-0.18600000000000000,-0.172,53.3
+eric_schmitt,40,Man,happy,white,0.396,0.297,0.495,37.0
+eric_schmitt,36,Man,happy,white,0.35600000000000000,0.267,0.445,44.0
+eric_schmitt,44,Man,happy,white,0.36,0.27,0.45,36.0
+eric_schmitt,40,Man,happy,white,0.364,0.273,0.455,46.0
+eric_schmitt,45,Man,sad,white,-0.12100000000000000,-0.21900000000000000,-0.19800000000000000,54.9
+eric_schmitt,37,Man,happy,white,0.392,0.294,0.49,54.4
+gary_c._peters,58,Man,happy,white,0.396,0.297,0.495,51.0
+gary_c._peters,46,Man,happy,white,0.396,0.297,0.495,50.0
+gary_c._peters,41,Man,fear,white,-0.099,-0.196,-0.129,49.0
+gary_c._peters,48,Man,happy,latino hispanic,0.396,0.297,0.495,43.6
+gary_c._peters,48,Man,happy,white,0.396,0.297,0.495,52.0
+gary_c._peters,58,Man,happy,white,0.396,0.297,0.495,51.8
+gary_c._peters,39,Man,happy,middle eastern,0.4,0.3,0.5,54.0
+gary_c._peters,45,Man,angry,white,-0.19500000000000000,-0.293,-0.098,48.8
+gary_c._peters,50,Man,happy,white,0.396,0.297,0.495,52.0
+gary_c._peters,45,Man,happy,white,0.36800000000000000,0.27600000000000000,0.46,39.5
+heidi_heitkamp,38,Woman,happy,white,0.396,0.297,0.495,42.0
+heidi_heitkamp,35,Woman,happy,white,0.396,0.297,0.495,47.0
+heidi_heitkamp,49,Woman,sad,white,-0.09300000000000000,-0.18200000000000000,-0.17300000000000000,44.0
+heidi_heitkamp,45,Man,neutral,white,-0.07,-0.12,-0.10400000000000000,44.0
+heidi_heitkamp,53,Woman,neutral,white,0.04300000000000000,0.031000000000000000,0.052000000000000000,45.0
+heidi_heitkamp,39,Woman,fear,latino hispanic,0.06,-0.037000000000000000,0.015,44.0
+heidi_heitkamp,27,Man,angry,middle eastern,-0.17600000000000000,-0.27400000000000000,-0.138,46.0
+heidi_heitkamp,38,Woman,happy,white,0.396,0.297,0.495,46.0
+heidi_heitkamp,53,Woman,happy,latino hispanic,0.4,0.3,0.5,46.0
+heidi_heitkamp,37,Woman,happy,latino hispanic,0.396,0.297,0.495,44.0
+heidi_heitkamp,49,Woman,sad,white,-0.09300000000000000,-0.18200000000000000,-0.17300000000000000,41.0
+heidi_heitkamp,35,Man,sad,white,-0.102,-0.18600000000000000,-0.18600000000000000,41.0
+jacky_rosen,48,Woman,happy,white,0.373,0.276,0.45800000000000000,49.1
+jacky_rosen,33,Woman,happy,white,0.364,0.273,0.455,45.8
+jacky_rosen,32,Woman,happy,white,0.396,0.297,0.495,43.0
+jacky_rosen,33,Woman,happy,white,0.359,0.262,0.43700000000000000,39.6
+jacky_rosen,29,Woman,happy,white,0.38400000000000000,0.288,0.48,42.7
+jacky_rosen,33,Woman,happy,white,0.396,0.297,0.495,45.0
+james_e._risch,46,Man,fear,latino hispanic,-0.10300000000000000,-0.201,-0.124,53.36
+james_e._risch,48,Man,sad,white,-0.141,-0.236,-0.195,53.36
+james_e._risch,46,Man,fear,latino hispanic,-0.10300000000000000,-0.201,-0.124,53.36
+james_e._risch,36,Man,fear,white,-0.067,-0.15900000000000000,-0.06200000000000000,53.36
+james_e._risch,26,Man,neutral,white,0.0,0.0,0.0,53.36
+james_e._risch,51,Man,sad,white,-0.114,-0.20600000000000000,-0.20600000000000000,53.36
+james_e._risch,34,Man,happy,white,0.396,0.297,0.495,53.36
+james_e._risch,45,Man,happy,white,0.396,0.297,0.495,53.36
+james_e._risch,42,Man,angry,white,-0.16700000000000000,-0.265,-0.11600000000000000,53.36
+james_e._risch,42,Man,angry,white,-0.16700000000000000,-0.265,-0.11600000000000000,53.36
+james_e._risch,34,Man,happy,white,0.396,0.297,0.495,53.36
+james_e._risch,34,Man,happy,white,0.396,0.297,0.495,53.36
+james_e._risch,51,Man,happy,white,0.34300000000000000,0.252,0.42,53.36
+james_e._risch,34,Man,happy,white,0.396,0.297,0.495,53.36
+james_lankford,25,Man,happy,white,0.392,0.294,0.49,51.7
+james_lankford,27,Man,surprise,white,0.135,0.04,0.08500000000000000,52.1
+james_lankford,27,Man,disgust,white,-0.065,-0.11600000000000000,-0.04200000000000000,49.12
+james_lankford,41,Man,sad,white,-0.095,-0.18,-0.213,52.0
+james_lankford,41,Man,sad,white,-0.095,-0.18,-0.213,51.0
+james_lankford,26,Man,happy,white,0.3600000000000000,0.264,0.456,59.0
+james_lankford,26,Man,neutral,white,-0.056000000000000000,-0.102,-0.11600000000000000,51.0
+james_lankford,27,Man,fear,white,-0.11100000000000000,-0.19900000000000000,-0.13,61.5
+james_lankford,23,Man,happy,white,0.34300000000000000,0.24900000000000000,0.42100000000000000,52.0
+james_lankford,27,Man,surprise,white,0.135,0.04,0.08500000000000000,56.0
+james_lankford,29,Man,angry,white,-0.07300000000000000,-0.171,-0.038000000000000000,52.0
+james_m._inhofe,46,Man,happy,white,0.38800000000000000,0.291,0.485,50.0
+james_m._inhofe,53,Man,happy,white,0.38400000000000000,0.288,0.48,56.4
+james_m._inhofe,58,Man,neutral,white,0.067,0.044,0.075,57.0
+james_m._inhofe,51,Man,fear,white,-0.098,-0.196,-0.098,46.0
+james_m._inhofe,45,Man,happy,white,0.396,0.297,0.495,57.3
+james_m._inhofe,48,Man,neutral,white,-0.029000000000000000,-0.05800000000000000,-0.087,50.0
+james_m._inhofe,49,Man,happy,white,0.396,0.297,0.495,56.4
+james_m._inhofe,47,Man,happy,white,0.396,0.297,0.495,57.0
+james_m._inhofe,49,Man,happy,white,0.392,0.294,0.49,46.0
+james_m._inhofe,29,Man,neutral,white,0.0,0.0,0.0,57.3
+james_m._inhofe,51,Man,fear,white,-0.098,-0.196,-0.098,50.0
+james_m._inhofe,51,Man,neutral,white,-0.029000000000000000,-0.05000000000000000,-0.04500000000000000,56.4
+james_m._inhofe,51,Man,neutral,white,-0.029000000000000000,-0.05000000000000000,-0.04500000000000000,57.0
+jeanne_shaheen,32,Woman,happy,white,0.396,0.297,0.495,47.0
+jeanne_shaheen,28,Man,sad,black,-0.099,-0.198,-0.289,52.0
+jeanne_shaheen,38,Woman,happy,white,0.396,0.297,0.495,58.0
+jeanne_shaheen,41,Woman,happy,white,0.396,0.297,0.495,51.0
+jeanne_shaheen,40,Woman,happy,white,0.396,0.297,0.495,54.0
+jeanne_shaheen,34,Woman,fear,white,-0.083,-0.166,-0.083,49.1
+jeanne_shaheen,41,Woman,happy,white,0.396,0.297,0.495,51.0
+jeanne_shaheen,35,Woman,happy,white,0.396,0.297,0.495,50.0
+jeanne_shaheen,34,Man,surprise,white,0.106,0.012000000000000000,0.056000000000000000,44.1
+jeanne_shaheen,38,Woman,happy,white,0.396,0.297,0.495,41.0
+jeanne_shaheen,40,Woman,happy,white,0.396,0.297,0.495,45.0
+jeanne_shaheen,46,Man,angry,white,-0.13,-0.228,-0.17100000000000000,57.0
+jeanne_shaheen,42,Woman,happy,white,0.396,0.297,0.495,52.0
+jeff_merkley,30,Man,neutral,white,-0.036000000000000000,-0.07300000000000000,-0.081,55.0
+jeff_merkley,52,Man,sad,white,-0.09700000000000000,-0.19400000000000000,-0.291,55.0
+jeff_merkley,34,Man,happy,white,0.396,0.297,0.495,55.0
+jeff_merkley,36,Man,angry,white,-0.17900000000000000,-0.27700000000000000,-0.1,55.0
+jeff_merkley,45,Man,neutral,white,-0.027000000000000000,-0.052000000000000000,-0.053000000000000000,55.0
+jeff_merkley,32,Man,sad,white,0.032,-0.031000000000000000,-0.039000000000000000,55.0
+jeff_merkley,26,Man,happy,white,0.376,0.282,0.47,55.0
+jeff_merkley,42,Man,sad,white,-0.098,-0.185,-0.138,55.0
+jeff_merkley,31,Man,fear,black,-0.08800000000000000,-0.17600000000000000,-0.13400000000000000,55.0
+jeff_merkley,44,Man,neutral,white,-0.061,-0.11400000000000000,-0.10100000000000000,55.0
+jeff_merkley,32,Man,sad,white,0.032,-0.031000000000000000,-0.039000000000000000,55.0
+jeff_merkley,35,Man,neutral,white,0.013000000000000000,-0.012000000000000000,-0.007000000000000000,55.0
+jerry_moran,35,Man,happy,white,0.396,0.297,0.495,45.3
+jerry_moran,39,Man,sad,white,-0.11200000000000000,-0.198,-0.2,54.2
+jerry_moran,39,Man,happy,white,0.38800000000000000,0.291,0.485,54.0
+jerry_moran,33,Man,happy,white,0.396,0.297,0.495,57.5
+jerry_moran,44,Man,happy,white,0.396,0.297,0.495,45.3
+jerry_moran,46,Man,angry,white,-0.15000000000000000,-0.247,-0.143,54.2
+jerry_moran,26,Man,neutral,white,-0.014000000000000000,-0.026000000000000000,-0.03,54.0
+jerry_moran,33,Man,happy,white,0.396,0.297,0.495,57.5
+jerry_moran,40,Man,happy,white,0.396,0.297,0.495,45.3
+jerry_moran,38,Man,sad,white,-0.118,-0.21,-0.21200000000000000,54.2
+jerry_moran,41,Man,happy,white,0.396,0.297,0.495,54.0
+joe_donnelly,34,Man,happy,latino hispanic,0.27400000000000000,0.204,0.341,50.7
+joe_donnelly,47,Man,happy,latino hispanic,0.396,0.297,0.495,48.0
+joe_donnelly,36,Man,happy,asian,0.396,0.297,0.495,44.0
+joe_donnelly,46,Man,happy,latino hispanic,0.396,0.297,0.495,43.0
+joe_donnelly,46,Man,happy,latino hispanic,0.392,0.294,0.49,42.0
+joe_donnelly,47,Man,sad,white,-0.066,-0.135,-0.12300000000000000,43.0
+joe_donnelly,44,Man,sad,latino hispanic,-0.10100000000000000,-0.196,-0.201,34.0
+joe_donnelly,46,Man,happy,latino hispanic,0.35200000000000000,0.264,0.44,45.6
+joe_donnelly,50,Man,happy,white,0.35200000000000000,0.264,0.44,42.7
+joe_donnelly,51,Man,neutral,asian,-0.06,-0.10100000000000000,-0.085,40.0
+joe_donnelly,36,Man,sad,asian,-0.09300000000000000,-0.183,-0.23200000000000000,43.0
+joe_donnelly,46,Man,sad,latino hispanic,-0.091,-0.179,-0.254,41.6
+"joe_manchin,_iii",50,Man,sad,latino hispanic,-0.109,-0.205,-0.23600000000000000,46.0
+"joe_manchin,_iii",43,Man,happy,white,0.35200000000000000,0.264,0.44,41.0
+"joe_manchin,_iii",36,Man,happy,white,0.396,0.297,0.495,49.0
+"joe_manchin,_iii",52,Man,angry,white,-0.184,-0.282,-0.11200000000000000,53.0
+"joe_manchin,_iii",48,Man,sad,white,-0.11900000000000000,-0.20100000000000000,-0.168,42.0
+"joe_manchin,_iii",36,Man,happy,white,0.396,0.297,0.495,50.0
+"joe_manchin,_iii",52,Man,angry,white,-0.184,-0.282,-0.11200000000000000,45.0
+"joe_manchin,_iii",40,Man,happy,white,0.396,0.297,0.495,47.3
+"joe_manchin,_iii",33,Man,neutral,white,0.0,0.0,0.0,48.0
+"joe_manchin,_iii",48,Man,sad,white,-0.11900000000000000,-0.20100000000000000,-0.168,51.0
+"joe_manchin,_iii",47,Man,angry,white,-0.139,-0.225,-0.145,45.0
+john_barrasso,34,Man,happy,latino hispanic,0.392,0.294,0.49,60.0
+john_barrasso,38,Man,sad,latino hispanic,-0.09900000000000000,-0.19800000000000000,-0.291,60.0
+john_barrasso,50,Man,fear,white,-0.069,-0.166,-0.076,60.0
+john_barrasso,34,Man,happy,latino hispanic,0.37200000000000000,0.27900000000000000,0.465,60.0
+john_barrasso,23,Man,fear,white,-0.099,-0.198,-0.099,60.0
+john_barrasso,33,Man,happy,latino hispanic,0.38800000000000000,0.291,0.485,60.0
+john_barrasso,47,Man,surprise,white,0.17300000000000000,0.07400000000000000,0.10500000000000000,60.0
+john_barrasso,31,Man,happy,latino hispanic,0.38800000000000000,0.291,0.485,60.0
+john_barrasso,50,Man,surprise,white,0.297,0.198,0.198,60.0
+john_barrasso,25,Man,fear,white,-0.085,-0.17,-0.127,60.0
+john_barrasso,34,Man,sad,white,-0.10400000000000000,-0.20300000000000000,-0.26300000000000000,60.0
+john_boozman,44,Man,sad,white,-0.098,-0.187,-0.18900000000000000,43.5
+john_boozman,52,Man,sad,latino hispanic,-0.118,-0.21600000000000000,-0.242,52.0
+john_boozman,53,Man,neutral,latino hispanic,-0.023000000000000000,-0.043,-0.05200000000000000,54.6
+john_boozman,47,Man,sad,latino hispanic,-0.12,-0.214,-0.16600000000000000,43.5
+john_boozman,49,Man,neutral,latino hispanic,-0.035,-0.069,-0.071,52.0
+john_boozman,51,Man,neutral,latino hispanic,-0.002,-0.004,-0.006,54.6
+john_boozman,44,Man,fear,white,-0.09700000000000000,-0.191,-0.14700000000000000,43.5
+john_boozman,53,Man,neutral,latino hispanic,-0.006,-0.012,-0.016,52.0
+john_boozman,39,Man,sad,latino hispanic,-0.105,-0.195,-0.18600000000000000,54.6
+john_boozman,47,Man,sad,latino hispanic,-0.12,-0.214,-0.16600000000000000,43.5
+john_boozman,52,Man,neutral,latino hispanic,-0.053,-0.1,-0.10300000000000000,52.0
+john_boozman,54,Man,sad,latino hispanic,-0.07200000000000000,-0.16700000000000000,-0.149,54.6
+john_boozman,39,Man,sad,latino hispanic,-0.105,-0.195,-0.18600000000000000,43.5
+john_boozman,54,Man,sad,latino hispanic,-0.07200000000000000,-0.16700000000000000,-0.149,52.0
+john_boozman,51,Man,angry,white,-0.132,-0.20100000000000000,-0.08100000000000000,54.6
+john_cornyn,40,Man,happy,white,0.396,0.297,0.495,50.0
+john_cornyn,45,Man,happy,white,0.301,0.20200000000000000,0.36700000000000000,48.0
+john_cornyn,52,Man,happy,white,0.38400000000000000,0.288,0.48,47.0
+john_cornyn,33,Man,happy,white,0.392,0.294,0.49,45.0
+john_cornyn,40,Man,fear,white,-0.1,-0.19200000000000000,-0.11200000000000000,50.0
+john_cornyn,49,Man,sad,white,-0.099,-0.198,-0.297,39.0
+john_cornyn,48,Man,sad,white,-0.099,-0.198,-0.297,46.0
+john_cornyn,51,Man,neutral,white,0.011000000000000000,0.0020000000000000000,0.005,44.0
+john_cornyn,46,Man,sad,white,-0.09900000000000000,-0.19800000000000000,-0.291,44.4
+john_cornyn,33,Man,sad,white,-0.09,-0.18,-0.258,44.0
+john_cornyn,40,Man,happy,white,0.396,0.297,0.495,43.0
+john_cornyn,44,Man,happy,white,0.36,0.27,0.45,47.0
+john_cornyn,45,Man,happy,white,0.301,0.20200000000000000,0.36700000000000000,46.0
+john_cornyn,41,Man,happy,white,0.38400000000000000,0.288,0.48,44.0
+john_cornyn,49,Man,sad,white,-0.099,-0.198,-0.297,37.0
+john_fetterman,41,Man,sad,middle eastern,-0.136,-0.229,-0.18500000000000000,44.0
+john_fetterman,33,Man,angry,latino hispanic,-0.185,-0.28400000000000000,-0.125,48.0
+john_fetterman,37,Man,sad,white,-0.099,-0.198,-0.297,48.0
+john_fetterman,39,Man,sad,middle eastern,-0.092,-0.18900000000000000,-0.209,42.0
+john_fetterman,27,Man,fear,white,-0.11200000000000000,-0.21,-0.138,45.0
+john_fetterman,41,Man,neutral,white,0.0,0.0,0.0,46.0
+john_fetterman,41,Man,sad,middle eastern,-0.136,-0.229,-0.18500000000000000,43.7
+john_fetterman,27,Man,sad,middle eastern,-0.10800000000000000,-0.19,-0.17200000000000000,52.0
+john_fetterman,44,Man,neutral,white,-0.07400000000000000,-0.11400000000000000,-0.052000000000000000,51.0
+john_fetterman,26,Man,sad,white,-0.1,-0.187,-0.207,50.0
+john_fetterman,31,Man,sad,middle eastern,-0.105,-0.199,-0.21400000000000000,47.0
+john_kennedy,33,Man,fear,white,-0.079,-0.154,-0.10300000000000000,53.0
+john_kennedy,43,Man,happy,middle eastern,0.322,0.241,0.39900000000000000,53.0
+john_kennedy,34,Man,fear,white,-0.07400000000000000,-0.142,-0.11800000000000000,51.0
+john_kennedy,33,Man,fear,white,-0.10400000000000000,-0.20200000000000000,-0.17,53.0
+john_kennedy,33,Man,neutral,white,-0.016,-0.031000000000000000,-0.035,53.0
+john_kennedy,25,Woman,sad,asian,-0.091,-0.182,-0.273,51.0
+john_kennedy,36,Man,sad,white,-0.133,-0.22800000000000000,-0.203,53.0
+john_kennedy,30,Man,sad,white,-0.09500000000000000,-0.19000000000000000,-0.27900000000000000,53.0
+john_kennedy,45,Man,happy,asian,0.396,0.297,0.495,51.0
+john_kennedy,44,Man,happy,white,0.38,0.285,0.475,53.0
+john_kennedy,43,Man,angry,white,-0.07800000000000000,-0.162,-0.036000000000000000,53.0
+john_kennedy,41,Man,neutral,white,-0.013000000000000000,-0.026000000000000000,-0.039,51.0
+john_mccain,38,Man,sad,white,-0.11200000000000000,-0.21000000000000000,-0.22,29.0
+john_mccain,34,Man,happy,white,0.35200000000000000,0.264,0.44,29.0
+john_mccain,38,Man,neutral,white,0.06900000000000000,0.039,0.07800000000000000,29.0
+john_mccain,39,Man,angry,white,-0.16500000000000000,-0.26100000000000000,-0.148,29.0
+john_mccain,28,Man,neutral,white,0.0,0.0,0.0,29.0
+john_mccain,43,Man,fear,white,-0.10600000000000000,-0.205,-0.117,29.0
+john_mccain,38,Man,sad,white,-0.07,-0.16700000000000000,-0.175,29.0
+john_mccain,34,Man,happy,white,0.396,0.297,0.495,29.0
+john_mccain,29,Man,sad,white,-0.10700000000000000,-0.205,-0.24800000000000000,29.0
+john_mccain,39,Man,happy,white,0.15200000000000000,0.05600000000000000,0.19300000000000000,29.0
+john_mccain,36,Man,fear,white,-0.05500000000000000,-0.15200000000000000,-0.07300000000000000,29.0
+john_thune,34,Man,happy,white,0.396,0.297,0.495,59.0
+john_thune,33,Man,sad,white,-0.10400000000000000,-0.177,-0.157,46.0
+john_thune,32,Man,happy,white,0.396,0.297,0.495,53.0
+john_thune,33,Man,sad,white,-0.11200000000000000,-0.21,-0.26600000000000000,58.0
+john_thune,36,Man,happy,white,0.396,0.297,0.495,59.0
+john_thune,33,Man,sad,white,-0.11200000000000000,-0.21,-0.26600000000000000,46.0
+john_thune,35,Man,surprise,white,0.15900000000000000,0.062,0.10100000000000000,53.0
+john_thune,34,Man,happy,white,0.396,0.297,0.495,58.0
+john_thune,33,Man,sad,white,-0.10400000000000000,-0.177,-0.157,59.0
+john_thune,32,Man,happy,white,0.396,0.297,0.495,46.0
+john_w._hickenlooper,42,Man,fear,white,-0.099,-0.198,-0.099,53.0
+john_w._hickenlooper,36,Man,happy,white,0.38400000000000000,0.288,0.48,51.0
+john_w._hickenlooper,35,Man,happy,white,0.17400000000000000,0.077,0.209,48.0
+john_w._hickenlooper,53,Man,angry,white,-0.19300000000000000,-0.29,-0.09900000000000000,53.0
+john_w._hickenlooper,35,Man,happy,asian,0.37500000000000000,0.27700000000000000,0.466,54.0
+john_w._hickenlooper,35,Man,happy,asian,0.37500000000000000,0.27700000000000000,0.466,51.0
+john_w._hickenlooper,42,Man,fear,white,-0.099,-0.198,-0.099,50.0
+john_w._hickenlooper,33,Man,neutral,middle eastern,0.0,0.0,0.0,56.9
+jon_ossoff,26,Man,sad,white,-0.11,-0.207,-0.259,49.0
+jon_ossoff,29,Man,happy,white,0.396,0.297,0.495,47.3
+jon_ossoff,31,Man,sad,white,-0.12300000000000000,-0.21700000000000000,-0.20000000000000000,44.6
+jon_ossoff,32,Man,neutral,white,-0.002,-0.004,-0.006,46.3
+jon_ossoff,28,Man,happy,white,0.396,0.297,0.495,46.0
+jon_ossoff,28,Man,neutral,white,-0.047,-0.094,-0.08900000000000000,41.0
+jon_ossoff,29,Man,happy,white,0.396,0.297,0.495,47.0
+jon_ossoff,32,Man,sad,white,-0.09,-0.158,-0.158,42.63
+jon_ossoff,27,Man,happy,white,0.38400000000000000,0.288,0.48,43.0
+jon_ossoff,29,Man,sad,white,-0.09700000000000000,-0.195,-0.27800000000000000,43.0
+jon_ossoff,28,Man,fear,white,-0.1,-0.198,-0.192,43.0
+jon_tester,42,Man,happy,white,0.36200000000000000,0.269,0.449,55.0
+jon_tester,29,Man,happy,white,0.396,0.297,0.495,49.0
+jon_tester,46,Man,neutral,white,0.040000000000000000,0.017000000000000000,0.041000000000000000,49.0
+jon_tester,43,Man,neutral,white,0.05600000000000000,0.0070000000000000000,0.047,44.0
+jon_tester,25,Man,happy,white,0.396,0.297,0.495,51.0
+jon_tester,31,Man,happy,white,0.396,0.297,0.495,50.0
+jon_tester,42,Man,happy,white,0.36200000000000000,0.269,0.449,45.0
+jon_tester,52,Man,neutral,white,-0.06900000000000000,-0.10700000000000000,-0.034,54.0
+jon_tester,43,Man,neutral,white,0.05600000000000000,0.0070000000000000000,0.047,54.0
+jon_tester,29,Man,happy,white,0.396,0.297,0.495,47.0
+jon_tester,41,Man,sad,white,-0.10400000000000000,-0.2,-0.20600000000000000,55.0
+jon_tester,33,Man,angry,white,-0.198,-0.297,-0.099,49.0
+jon_tester,25,Man,happy,white,0.396,0.297,0.495,45.0
+joni_ernst,25,Woman,happy,white,0.396,0.297,0.495,42.0
+joni_ernst,29,Woman,sad,white,-0.107,-0.198,-0.22700000000000000,48.0
+joni_ernst,27,Woman,sad,white,0.039000000000000000,-0.059000000000000000,-0.03000000000000000,43.0
+joni_ernst,26,Woman,happy,white,0.38400000000000000,0.288,0.48,36.0
+joni_ernst,33,Woman,happy,white,0.392,0.294,0.49,45.0
+joni_ernst,25,Woman,happy,white,0.36800000000000000,0.27600000000000000,0.46,47.0
+joni_ernst,33,Woman,happy,white,0.392,0.294,0.49,43.0
+joni_ernst,34,Woman,happy,white,0.392,0.294,0.49,48.0
+joni_ernst,39,Woman,neutral,white,0.0,0.0,0.0,42.84
+joni_ernst,26,Woman,happy,white,0.38800000000000000,0.291,0.485,45.0
+joni_ernst,33,Woman,happy,white,0.392,0.294,0.49,58.0
+katie_boyd_britt,26,Woman,happy,white,0.38400000000000000,0.288,0.48,57.1
+katie_boyd_britt,33,Woman,happy,white,0.38800000000000000,0.291,0.485,57.1
+katie_boyd_britt,31,Man,angry,white,-0.17600000000000000,-0.273,-0.133,57.1
+katie_boyd_britt,30,Woman,neutral,white,0.015,0.01,0.017,57.1
+katie_boyd_britt,31,Woman,happy,white,0.396,0.297,0.495,57.1
+katie_boyd_britt,32,Woman,fear,latino hispanic,0.026000000000000000,-0.07300000000000000,0.051,57.1
+katie_boyd_britt,38,Woman,fear,latino hispanic,-0.10900000000000000,-0.20600000000000000,-0.08700000000000000,57.1
+katie_boyd_britt,26,Woman,happy,white,0.364,0.273,0.455,57.1
+katie_boyd_britt,32,Woman,fear,latino hispanic,0.026000000000000000,-0.07300000000000000,0.051,57.1
+katie_boyd_britt,33,Woman,happy,white,0.37200000000000000,0.27900000000000000,0.465,57.1
+katie_boyd_britt,33,Woman,happy,white,0.38800000000000000,0.291,0.485,57.1
+katie_boyd_britt,36,Woman,happy,white,0.396,0.297,0.495,57.1
+kelly_ayotte,49,Woman,sad,white,-0.09200000000000000,-0.17700000000000000,-0.235,43.0
+kelly_ayotte,39,Woman,happy,white,0.396,0.297,0.495,45.0
+kelly_ayotte,37,Man,sad,white,-0.10900000000000000,-0.195,-0.192,36.0
+kelly_ayotte,38,Woman,happy,white,0.392,0.294,0.49,43.0
+kelly_ayotte,40,Woman,fear,latino hispanic,-0.086,-0.17,-0.154,43.0
+kelly_ayotte,35,Man,neutral,white,0.0,0.0,0.0,45.0
+kelly_ayotte,49,Woman,sad,white,-0.09200000000000000,-0.17700000000000000,-0.235,36.0
+kelly_ayotte,41,Woman,neutral,white,-0.033,-0.066,-0.06900000000000000,43.0
+kelly_ayotte,32,Woman,happy,white,0.23600000000000000,0.177,0.295,43.0
+kelly_ayotte,46,Woman,angry,white,-0.14600000000000000,-0.23800000000000000,-0.11900000000000000,45.0
+kelly_ayotte,37,Man,sad,white,-0.10900000000000000,-0.195,-0.192,36.0
+kelly_loeffler,33,Woman,happy,white,0.29100000000000000,0.212,0.355,12.0
+kelly_loeffler,39,Woman,happy,white,0.396,0.297,0.495,21.0
+kelly_loeffler,33,Woman,sad,white,0.01600000000000000,-0.071,-0.08200000000000000,40.0
+kelly_loeffler,39,Woman,happy,white,0.396,0.297,0.495,46.9
+kelly_loeffler,34,Man,fear,white,0.056000000000000000,-0.04300000000000000,0.081,21.0
+kelly_loeffler,39,Woman,happy,white,0.396,0.297,0.495,21.0
+kelly_loeffler,34,Man,fear,white,0.056000000000000000,-0.04300000000000000,0.081,46.0
+kelly_loeffler,33,Woman,sad,white,0.01600000000000000,-0.071,-0.08200000000000000,48.0
+kelly_loeffler,39,Woman,happy,white,0.38800000000000000,0.291,0.485,24.0
+kelly_loeffler,33,Woman,happy,white,0.29100000000000000,0.212,0.355,17.0
+kelly_loeffler,34,Woman,fear,white,-0.099,-0.198,-0.099,21.0
+kelly_loeffler,35,Woman,happy,white,0.161,0.063,0.20200000000000000,21.0
+kelly_loeffler,34,Woman,neutral,white,0.0,0.0,0.0,26.0
+kelly_loeffler,34,Woman,happy,white,0.396,0.297,0.495,26.0
+kevin_cramer,40,Man,happy,white,0.396,0.297,0.495,53.0
+kevin_cramer,40,Man,happy,white,0.396,0.297,0.495,50.0
+kevin_cramer,46,Man,sad,white,-0.111,-0.206,-0.239,51.0
+kevin_cramer,27,Man,happy,latino hispanic,0.175,0.118,0.217,54.5
+kevin_cramer,49,Man,happy,white,0.4,0.3,0.5,56.0
+kevin_cramer,52,Man,happy,white,0.396,0.297,0.495,53.0
+kevin_cramer,57,Man,fear,white,0.12400000000000000,0.026000000000000000,0.172,49.0
+kevin_cramer,36,Man,happy,white,0.396,0.297,0.495,51.0
+kevin_cramer,52,Man,happy,white,0.396,0.297,0.495,47.0
+kevin_cramer,40,Man,happy,white,0.396,0.297,0.495,40.0
+kevin_cramer,44,Man,happy,white,0.396,0.297,0.495,45.0
+kirsten_e._gillibrand,32,Woman,happy,white,0.38800000000000000,0.291,0.485,58.0
+kirsten_e._gillibrand,41,Woman,neutral,white,0.086,0.047,0.10100000000000000,57.0
+kirsten_e._gillibrand,25,Man,sad,white,-0.099,-0.198,-0.297,58.0
+kirsten_e._gillibrand,26,Woman,happy,white,0.36,0.27,0.45,60.0
+kirsten_e._gillibrand,35,Woman,happy,white,0.38800000000000000,0.291,0.485,58.0
+kirsten_e._gillibrand,30,Woman,happy,white,0.396,0.297,0.495,58.0
+kirsten_e._gillibrand,32,Woman,happy,white,0.38400000000000000,0.288,0.48,51.0
+kirsten_e._gillibrand,32,Woman,happy,white,0.39,0.291,0.489,61.0
+kyrsten_sinema,32,Woman,happy,white,0.396,0.297,0.495,21.0
+kyrsten_sinema,32,Woman,happy,white,0.396,0.297,0.495,17.0
+kyrsten_sinema,32,Woman,happy,white,0.396,0.297,0.495,24.0
+kyrsten_sinema,31,Man,fear,white,-0.098,-0.196,-0.098,27.0
+kyrsten_sinema,45,Man,happy,white,0.17800000000000000,0.109,0.204,13.8
+kyrsten_sinema,39,Woman,angry,white,-0.192,-0.289,-0.10100000000000000,20.6
+kyrsten_sinema,28,Woman,fear,latino hispanic,-0.098,-0.196,-0.098,49.0
+kyrsten_sinema,28,Woman,fear,latino hispanic,-0.098,-0.196,-0.098,22.0
+kyrsten_sinema,33,Woman,happy,white,0.4,0.3,0.5,26.0
+lindsey_graham,39,Man,neutral,white,-0.010000000000000000,-0.024,-0.012000000000000000,48.0
+lindsey_graham,51,Man,happy,white,0.35600000000000000,0.267,0.445,47.0
+lindsey_graham,40,Man,happy,white,0.396,0.297,0.495,45.0
+lindsey_graham,40,Man,angry,white,-0.142,-0.23700000000000000,-0.094,47.0
+lindsey_graham,50,Man,fear,white,-0.056000000000000000,-0.14800000000000000,-0.064,46.0
+lindsey_graham,35,Man,neutral,white,-0.043,-0.086,-0.043,48.0
+lindsey_graham,46,Man,happy,white,0.396,0.297,0.495,46.0
+lindsey_graham,45,Man,happy,white,0.396,0.297,0.495,48.0
+lindsey_graham,51,Man,happy,white,0.396,0.297,0.495,44.0
+lindsey_graham,38,Man,neutral,white,-0.006000000000000000,-0.012000000000000000,-0.018,49.28
+lindsey_graham,40,Man,angry,white,-0.142,-0.23700000000000000,-0.094,43.0
+lindsey_graham,51,Man,happy,white,0.35600000000000000,0.267,0.445,46.0
+lindsey_graham,40,Man,happy,white,0.396,0.297,0.495,44.9
+lindsey_graham,39,Man,happy,white,0.396,0.297,0.495,45.0
+lisa_murkowski,28,Man,sad,white,-0.043,-0.11800000000000000,-0.161,38.0
+lisa_murkowski,31,Man,happy,white,0.396,0.297,0.495,55.0
+lisa_murkowski,41,Man,happy,latino hispanic,0.396,0.297,0.495,49.2
+lisa_murkowski,33,Man,happy,white,0.122,0.038000000000000000,0.16400000000000000,36.0
+lisa_murkowski,35,Woman,happy,white,0.396,0.297,0.495,60.0
+lisa_murkowski,50,Man,fear,white,-0.076,-0.172,-0.081,52.2
+lisa_murkowski,42,Man,happy,white,0.396,0.297,0.495,35.7
+lisa_murkowski,50,Man,fear,white,-0.076,-0.172,-0.081,38.0
+lisa_murkowski,28,Man,sad,white,-0.043,-0.11800000000000000,-0.161,35.3
+lisa_murkowski,33,Man,happy,white,0.122,0.038000000000000000,0.16400000000000000,35.0
+lisa_murkowski,35,Man,sad,white,-0.115,-0.207,-0.151,38.0
+lisa_murkowski,38,Man,happy,latino hispanic,0.396,0.297,0.495,56.6
+marco_rubio,30,Man,neutral,white,-0.08200000000000000,-0.141,-0.11900000000000000,46.0
+marco_rubio,44,Man,happy,latino hispanic,0.366,0.267,0.414,48.0
+marco_rubio,27,Man,surprise,latino hispanic,0.187,0.09000000000000000,0.1,48.0
+marco_rubio,27,Man,surprise,latino hispanic,0.187,0.09000000000000000,0.1,46.0
+marco_rubio,24,Man,angry,latino hispanic,-0.15000000000000000,-0.24400000000000000,-0.17,42.0
+marco_rubio,40,Man,neutral,latino hispanic,-0.088,-0.136,-0.046,44.0
+marco_rubio,24,Man,angry,latino hispanic,-0.15000000000000000,-0.24400000000000000,-0.17,46.0
+marco_rubio,32,Man,sad,latino hispanic,-0.09600000000000000,-0.169,-0.16700000000000000,45.0
+marco_rubio,44,Man,happy,latino hispanic,0.366,0.267,0.414,46.0
+marco_rubio,25,Man,fear,latino hispanic,-0.08800000000000000,-0.17600000000000000,-0.162,50.0
+marco_rubio,26,Man,neutral,white,-0.086,-0.145,-0.121,46.8
+marco_rubio,25,Man,happy,latino hispanic,0.376,0.282,0.47,45.0
+marco_rubio,40,Man,neutral,latino hispanic,-0.088,-0.136,-0.046,46.0
+maria_cantwell,43,Woman,happy,white,0.363,0.271,0.45400000000000000,50.0
+maria_cantwell,41,Woman,sad,white,-0.10400000000000000,-0.201,-0.249,51.0
+maria_cantwell,31,Woman,happy,white,0.38,0.285,0.475,52.0
+maria_cantwell,43,Woman,happy,white,0.363,0.271,0.45400000000000000,43.0
+maria_cantwell,32,Woman,happy,white,0.396,0.297,0.495,52.0
+maria_cantwell,43,Woman,happy,white,0.363,0.271,0.45400000000000000,53.0
+maria_cantwell,35,Woman,surprise,asian,0.20300000000000000,0.134,0.135,50.0
+maria_cantwell,33,Woman,neutral,white,0.012000000000000000,0.009,0.015,51.0
+maria_cantwell,31,Woman,happy,white,0.38,0.285,0.475,52.0
+maria_cantwell,39,Woman,happy,white,0.35100000000000000,0.252,0.441,43.0
+maria_cantwell,36,Woman,happy,white,0.396,0.297,0.495,52.0
+mark_kelly,51,Man,neutral,white,-0.063,-0.102,-0.033,50.0
+mark_kelly,35,Man,happy,white,0.392,0.294,0.49,55.0
+mark_kelly,37,Man,happy,white,0.36200000000000000,0.27100000000000000,0.449,49.0
+mark_kelly,48,Man,neutral,white,0.14,0.09600000000000000,0.17800000000000000,46.0
+mark_kelly,37,Man,happy,white,0.36200000000000000,0.27100000000000000,0.449,48.9
+mark_kelly,43,Man,fear,white,-0.095,-0.193,-0.086,47.0
+mark_kelly,34,Man,angry,white,-0.14100000000000000,-0.22400000000000000,-0.10400000000000000,47.2
+mark_r._warner,26,Man,happy,white,0.392,0.294,0.49,59.7
+mark_r._warner,47,Man,neutral,white,-0.08400000000000000,-0.14800000000000000,-0.063,55.0
+mark_r._warner,26,Man,happy,white,0.396,0.297,0.495,52.0
+mark_r._warner,40,Man,happy,white,0.332,0.249,0.415,60.7
+mark_r._warner,48,Man,angry,white,-0.149,-0.23800000000000000,-0.13300000000000000,55.0
+mark_r._warner,49,Man,neutral,white,-0.0030000000000000000,-0.006000000000000000,-0.007000000000000000,57.0
+mark_r._warner,38,Man,happy,white,0.396,0.297,0.495,51.3
+mark_r._warner,25,Man,happy,white,0.38800000000000000,0.291,0.485,57.0
+mark_r._warner,24,Man,happy,white,0.392,0.294,0.49,54.0
+mark_r._warner,26,Man,neutral,white,0.002,0.0,0.004,55.0
+mark_r._warner,47,Man,neutral,white,-0.08400000000000000,-0.14800000000000000,-0.063,55.0
+mark_r._warner,33,Man,happy,white,0.34800000000000000,0.26100000000000000,0.435,55.0
+mark_r._warner,38,Man,happy,white,0.396,0.297,0.495,50.7
+mark_r._warner,38,Man,angry,white,-0.19400000000000000,-0.291,-0.09700000000000000,57.0
+mark_r._warner,49,Man,angry,white,-0.03100000000000000,-0.127,-0.011000000000000000,59.7
+markwayne_mullin,33,Man,neutral,white,0.11200000000000000,0.084,0.14,58.0
+markwayne_mullin,31,Man,happy,white,0.38,0.285,0.475,52.0
+markwayne_mullin,32,Man,sad,white,-0.008000000000000000,-0.08100000000000000,-0.061,47.0
+markwayne_mullin,39,Man,fear,white,-0.099,-0.198,-0.10100000000000000,52.0
+markwayne_mullin,43,Man,happy,white,0.08200000000000000,4.44089209850063E-18,0.12600000000000000,50.0
+markwayne_mullin,39,Man,fear,white,-0.099,-0.198,-0.10100000000000000,58.9
+markwayne_mullin,47,Man,sad,white,-0.098,-0.196,-0.294,50.0
+markwayne_mullin,48,Man,happy,white,0.094,0.020000000000000000,0.162,49.17
+markwayne_mullin,43,Man,neutral,white,0.0,0.0,0.0,51.9
+markwayne_mullin,33,Man,fear,white,-0.07300000000000000,-0.16700000000000000,-0.098,53.0
+marsha_blackburn,40,Woman,happy,white,0.396,0.297,0.495,49.0
+marsha_blackburn,42,Woman,happy,white,0.386,0.287,0.483,44.0
+marsha_blackburn,35,Woman,neutral,white,0.0,0.0,0.0,50.5
+marsha_blackburn,50,Woman,happy,white,0.15400000000000000,0.065,0.182,51.0
+marsha_blackburn,36,Man,fear,white,-0.07400000000000000,-0.17300000000000000,-0.069,49.0
+marsha_blackburn,46,Woman,happy,white,0.396,0.297,0.495,43.0
+marsha_blackburn,26,Woman,happy,middle eastern,0.12000000000000000,0.03500000000000000,0.13700000000000000,48.0
+marsha_blackburn,49,Woman,happy,white,0.268,0.18600000000000000,0.33800000000000000,37.0
+marsha_blackburn,50,Woman,happy,white,0.365,0.268,0.452,47.0
+marsha_blackburn,35,Woman,fear,white,-0.10000000000000000,-0.19800000000000000,-0.098,50.87
+marsha_blackburn,35,Woman,neutral,white,0.0,0.0,0.0,47.0
+marsha_blackburn,43,Woman,happy,white,0.396,0.297,0.495,54.46
+marsha_blackburn,28,Woman,fear,white,0.05200000000000000,-0.026000000000000000,0.044000000000000000,46.0
+marsha_blackburn,30,Woman,fear,white,0.067,-0.025,0.02,45.0
+martha_mcsally,35,Woman,happy,white,0.396,0.297,0.495,39.0
+martha_mcsally,31,Woman,happy,white,0.3940000000000000,0.295,0.489,41.0
+martha_mcsally,39,Woman,sad,white,-0.06200000000000000,-0.159,-0.235,39.0
+martha_mcsally,45,Woman,happy,white,0.287,0.214,0.35700000000000000,43.0
+martha_mcsally,25,Woman,happy,white,0.396,0.297,0.495,43.5
+martha_mcsally,34,Woman,happy,white,0.396,0.297,0.495,43.7
+martha_mcsally,35,Woman,happy,white,0.396,0.297,0.495,42.0
+martha_mcsally,43,Man,neutral,white,-0.05000000000000000,-0.083,-0.057,41.9
+martha_mcsally,34,Woman,happy,white,0.396,0.297,0.495,41.0
+martha_mcsally,25,Woman,happy,white,0.392,0.294,0.49,45.4
+martha_mcsally,24,Man,neutral,white,-0.001,-0.002,-0.003,41.0
+martha_mcsally,34,Woman,happy,white,0.396,0.297,0.495,39.0
+martin_heinrich,45,Man,neutral,white,-0.057,-0.10300000000000000,-0.11600000000000000,47.0
+martin_heinrich,27,Man,sad,latino hispanic,-0.096,-0.191,-0.253,48.0
+martin_heinrich,27,Man,sad,latino hispanic,-0.096,-0.191,-0.253,50.0
+martin_heinrich,33,Man,neutral,white,0.006000000000000000,0.003,0.009000000000000000,49.8
+martin_heinrich,28,Man,neutral,white,-0.004000000000000000,-0.012000000000000000,-0.014000000000000000,47.0
+martin_heinrich,34,Man,angry,white,-0.132,-0.21500000000000000,-0.131,38.9
+martin_heinrich,29,Man,neutral,white,-0.001,-0.002,-0.003,48.0
+martin_heinrich,25,Man,neutral,white,-0.002,-0.004,-0.006,41.0
+martin_heinrich,35,Man,sad,white,-0.069,-0.138,-0.207,45.0
+martin_heinrich,30,Man,neutral,white,0.08700000000000000,0.041000000000000000,0.057,39.0
+martin_heinrich,34,Man,angry,white,-0.132,-0.21500000000000000,-0.131,38.0
+martin_heinrich,26,Man,fear,white,-0.092,-0.184,-0.17800000000000000,38.0
+martin_heinrich,41,Man,neutral,white,0.16400000000000000,0.12300000000000000,0.205,35.65
+martin_heinrich,29,Man,sad,white,-0.094,-0.18700000000000000,-0.237,50.7
+martin_heinrich,30,Man,neutral,white,-0.021,-0.042,-0.041000000000000000,51.0
+martin_heinrich,39,Man,neutral,white,0.06,0.045,0.075,47.0
+martin_heinrich,29,Man,sad,white,-0.094,-0.18700000000000000,-0.237,48.0
+michael_f._bennet,36,Man,happy,latino hispanic,0.38800000000000000,0.291,0.485,45.5
+michael_f._bennet,29,Man,happy,white,0.396,0.297,0.495,46.0
+michael_f._bennet,28,Man,happy,white,0.392,0.294,0.49,56.0
+michael_f._bennet,29,Man,happy,white,0.392,0.294,0.49,54.0
+michael_f._bennet,27,Man,happy,white,0.36,0.27,0.45,48.0
+michael_f._bennet,29,Man,happy,white,0.396,0.297,0.495,51.0
+michael_f._bennet,26,Man,sad,white,-0.05800000000000000,-0.114,-0.158,48.6
+michael_f._bennet,25,Man,happy,white,0.396,0.297,0.495,48.0
+mike_braun,32,Man,fear,white,-0.087,-0.18200000000000000,-0.138,43.4
+mike_braun,33,Man,angry,white,-0.179,-0.278,-0.13700000000000000,41.0
+mike_braun,32,Man,fear,white,-0.087,-0.18200000000000000,-0.138,45.0
+mike_braun,56,Man,angry,white,-0.126,-0.204,-0.07200000000000000,41.0
+mike_braun,36,Man,happy,white,0.396,0.297,0.495,51.0
+mike_braun,51,Man,happy,middle eastern,0.4,0.3,0.5,43.0
+mike_braun,41,Man,happy,white,0.396,0.297,0.495,38.6
+mike_braun,36,Man,happy,white,0.396,0.297,0.495,51.0
+mike_braun,56,Man,angry,white,-0.126,-0.204,-0.07200000000000000,52.0
+mike_braun,53,Man,happy,white,0.218,0.15600000000000000,0.28,40.0
+mike_lee,37,Man,happy,white,0.391,0.292,0.489,43.0
+mike_lee,28,Man,sad,white,-0.068,-0.136,-0.20200000000000000,45.0
+mike_lee,24,Man,happy,white,0.396,0.297,0.495,33.0
+mike_lee,29,Man,happy,white,0.396,0.297,0.495,38.0
+mike_lee,32,Man,angry,white,-0.12,-0.188,-0.148,45.0
+mike_lee,30,Man,happy,white,0.392,0.294,0.49,34.0
+mike_lee,29,Man,happy,white,0.392,0.294,0.49,50.0
+mike_lee,27,Man,happy,latino hispanic,0.396,0.297,0.495,38.0
+mike_lee,36,Man,angry,white,-0.154,-0.244,-0.142,31.0
+mitch_mcconnell,44,Man,neutral,white,0.105,0.075,0.126,51.1
+mitch_mcconnell,53,Man,happy,white,0.392,0.294,0.49,52.0
+mitch_mcconnell,42,Man,angry,white,-0.166,-0.262,-0.098,40.0
+mitch_mcconnell,46,Man,surprise,white,0.20800000000000000,0.111,0.13400000000000000,41.0
+mitch_mcconnell,33,Man,happy,white,0.29600000000000000,0.19700000000000000,0.335,40.0
+mitch_mcconnell,60,Man,angry,white,-0.15900000000000000,-0.257,-0.114,47.0
+mitch_mcconnell,53,Man,happy,white,0.376,0.282,0.47,47.0
+mitch_mcconnell,52,Man,sad,white,-0.109,-0.20600000000000000,-0.25300000000000000,45.0
+mitch_mcconnell,51,Man,happy,white,0.264,0.198,0.33,43.0
+mitch_mcconnell,57,Man,happy,white,0.396,0.297,0.495,55.29
+mitch_mcconnell,31,Woman,neutral,white,-0.001,-0.002,-0.001,49.1
+mitch_mcconnell,52,Man,sad,white,-0.109,-0.20600000000000000,-0.25300000000000000,49.0
+mitch_mcconnell,57,Man,happy,white,0.396,0.297,0.495,53.0
+mitch_mcconnell,33,Man,happy,white,0.29600000000000000,0.19700000000000000,0.335,48.0
+mitch_mcconnell,53,Man,happy,white,0.376,0.282,0.47,46.0
+mitch_mcconnell,53,Man,happy,white,0.392,0.294,0.49,51.1
+mitt_romney,32,Man,neutral,white,0.017,0.007000000000000000,0.017,64.0
+mitt_romney,28,Man,happy,white,0.396,0.297,0.495,64.0
+mitt_romney,53,Man,neutral,middle eastern,0.016000000000000000,0.009000000000000000,0.017,58.4
+mitt_romney,30,Man,neutral,white,0.0,0.0,0.0,72.0
+mitt_romney,30,Man,angry,middle eastern,-0.17200000000000000,-0.26900000000000000,-0.106,55.0
+mitt_romney,30,Man,happy,white,0.396,0.297,0.495,59.0
+mitt_romney,33,Man,happy,white,0.306,0.20800000000000000,0.32800000000000000,58.6
+mitt_romney,29,Man,happy,white,0.38,0.285,0.475,64.0
+mitt_romney,53,Man,neutral,middle eastern,0.016000000000000000,0.009000000000000000,0.017,64.0
+mitt_romney,25,Man,happy,white,0.396,0.297,0.495,58.4
+patrick_j._leahy,39,Man,happy,white,0.38800000000000000,0.291,0.485,38.0
+patrick_j._leahy,56,Man,sad,white,-0.10200000000000000,-0.201,-0.285,38.0
+patrick_j._leahy,44,Man,happy,white,0.16700000000000000,0.07,0.26100000000000000,38.0
+patrick_j._leahy,56,Man,sad,white,-0.10200000000000000,-0.201,-0.285,38.0
+patrick_j._leahy,55,Man,sad,white,-0.08600000000000000,-0.157,-0.16700000000000000,38.0
+patrick_j._leahy,37,Man,happy,white,0.28800000000000000,0.21600000000000000,0.36,38.0
+patrick_j._leahy,46,Man,neutral,white,-0.053,-0.10800000000000000,-0.09700000000000000,38.0
+patrick_j._leahy,45,Man,sad,white,-0.11900000000000000,-0.21,-0.185,38.0
+patrick_j._leahy,40,Man,happy,white,0.18600000000000000,0.124,0.242,38.0
+patrick_j._leahy,39,Man,happy,white,0.38800000000000000,0.291,0.485,38.0
+patrick_j._leahy,44,Man,sad,white,-0.136,-0.23400000000000000,-0.17800000000000000,38.0
+patrick_j._leahy,62,Man,sad,white,-0.10700000000000000,-0.20200000000000000,-0.249,38.0
+patrick_j._leahy,37,Man,angry,white,-0.05500000000000000,-0.132,-0.051,38.0
+patrick_j._leahy,37,Man,fear,white,-0.022000000000000000,-0.09000000000000000,-0.012000000000000000,38.0
+patrick_j._leahy,46,Man,happy,white,0.396,0.297,0.495,38.0
+patty_murray,24,Woman,happy,asian,0.377,0.27900000000000000,0.466,48.0
+patty_murray,25,Man,fear,white,-0.087,-0.17,-0.12300000000000000,52.0
+patty_murray,38,Woman,happy,white,0.396,0.297,0.495,46.0
+patty_murray,50,Woman,neutral,white,0.005000000000000000,-0.04800000000000000,-0.045,48.0
+patty_murray,46,Man,fear,white,-0.049,-0.147,-0.035,48.7
+patty_murray,48,Woman,fear,white,0.01000000000000000,-0.086,0.036000000000000000,46.0
+patty_murray,34,Woman,fear,white,-0.094,-0.193,-0.09300000000000000,50.0
+patty_murray,34,Man,happy,white,0.396,0.297,0.495,50.0
+patty_murray,25,Man,fear,white,-0.087,-0.17,-0.12300000000000000,48.0
+patty_murray,46,Man,fear,white,-0.049,-0.147,-0.035,52.0
+peter_welch,51,Man,fear,white,-0.08000000000000000,-0.17000000000000000,-0.08000000000000000,62.0
+peter_welch,50,Man,happy,white,0.396,0.297,0.495,62.0
+peter_welch,48,Man,happy,middle eastern,0.396,0.297,0.495,49.7
+peter_welch,44,Man,angry,white,-0.12000000000000000,-0.20800000000000000,-0.10100000000000000,63.0
+peter_welch,50,Man,neutral,middle eastern,-0.09,-0.135,-0.045,63.0
+peter_welch,46,Man,angry,asian,-0.155,-0.254,-0.099,62.0
+peter_welch,48,Man,happy,middle eastern,0.396,0.297,0.495,62.0
+peter_welch,31,Man,neutral,white,0.124,0.09300000000000000,0.155,49.7
+peter_welch,34,Man,sad,white,-0.09200000000000000,-0.183,-0.20900000000000000,63.0
+rand_paul,34,Man,neutral,white,0.0,0.0,0.0,55.0
+rand_paul,32,Man,neutral,white,-0.019000000000000000,-0.046000000000000000,-0.039,55.0
+rand_paul,26,Man,happy,white,0.183,0.091,0.16400000000000000,55.0
+rand_paul,42,Man,happy,white,0.396,0.297,0.495,55.0
+rand_paul,42,Man,neutral,white,-0.004,-0.008,-0.012,55.0
+rand_paul,42,Man,happy,white,0.396,0.297,0.495,55.0
+rand_paul,43,Man,happy,latino hispanic,0.24500000000000000,0.15600000000000000,0.29400000000000000,55.0
+rand_paul,44,Man,neutral,white,-0.042,-0.075,-0.081,55.0
+rand_paul,33,Man,neutral,white,0.163,0.121,0.20200000000000000,55.0
+rand_paul,32,Man,neutral,white,-0.019000000000000000,-0.046000000000000000,-0.039,55.0
+rand_paul,34,Man,neutral,white,0.0,0.0,0.0,55.0
+rand_paul,26,Man,happy,white,0.183,0.091,0.16400000000000000,55.0
+rand_paul,42,Man,neutral,white,-0.004,-0.008,-0.012,55.0
+rand_paul,36,Man,neutral,white,0.07800000000000000,0.013000000000000000,0.099,55.0
+raphael_g._warnock,31,Woman,fear,asian,-0.099,-0.198,-0.099,48.7
+raphael_g._warnock,28,Man,happy,black,0.38,0.285,0.475,50.8
+raphael_g._warnock,33,Man,neutral,black,-0.037000000000000000,-0.068,-0.063,50.0
+raphael_g._warnock,37,Man,fear,black,-0.011000000000000000,-0.10800000000000000,-0.031000000000000000,51.0
+raphael_g._warnock,28,Man,happy,black,0.38,0.285,0.475,52.0
+raphael_g._warnock,33,Man,neutral,black,-0.037000000000000000,-0.068,-0.063,51.0
+raphael_g._warnock,29,Man,happy,black,0.396,0.297,0.495,47.3
+richard_blumenthal,28,Man,happy,white,0.188,0.12100000000000000,0.239,45.2
+richard_blumenthal,39,Man,sad,latino hispanic,-0.126,-0.225,-0.21900000000000000,51.0
+richard_blumenthal,39,Man,happy,white,0.396,0.297,0.495,54.0
+richard_blumenthal,26,Man,sad,white,-0.066,-0.13,-0.128,53.0
+richard_blumenthal,28,Man,fear,white,-0.08200000000000000,-0.16,-0.09,49.0
+richard_blumenthal,39,Man,happy,white,0.396,0.297,0.495,57.0
+richard_blumenthal,25,Man,fear,white,-0.099,-0.198,-0.099,51.0
+richard_blumenthal,28,Man,happy,white,0.396,0.297,0.495,52.2
+richard_blumenthal,25,Man,fear,white,-0.099,-0.198,-0.099,48.8
+richard_blumenthal,28,Man,happy,white,0.396,0.297,0.495,45.2
+richard_blumenthal,48,Man,neutral,white,-0.018000000000000000,-0.042,-0.046,50.4
+richard_j._durbin,42,Man,fear,white,-0.042,-0.129,-0.038000000000000000,52.0
+richard_j._durbin,45,Man,fear,asian,-0.099,-0.19700000000000000,-0.188,50.6
+richard_j._durbin,41,Man,neutral,white,0.07,0.02,0.04,44.3
+richard_j._durbin,37,Man,happy,white,0.13700000000000000,0.06900000000000000,0.136,52.0
+richard_j._durbin,35,Man,neutral,white,-0.031,-0.07600000000000000,-0.033,50.6
+richard_j._durbin,35,Man,happy,white,0.396,0.297,0.495,44.3
+richard_j._durbin,45,Man,fear,asian,-0.099,-0.19700000000000000,-0.188,52.0
+richard_j._durbin,39,Man,happy,asian,0.396,0.297,0.495,50.6
+richard_j._durbin,40,Man,neutral,white,0.124,0.09300000000000000,0.155,44.3
+richard_j._durbin,39,Man,neutral,white,0.11100000000000000,0.08200000000000000,0.13700000000000000,52.0
+richard_j._durbin,40,Man,surprise,white,0.14700000000000000,0.05700000000000000,0.09000000000000000,50.6
+rick_scott,48,Man,sad,white,-0.11100000000000000,-0.20900000000000000,-0.17300000000000000,44.0
+rick_scott,52,Man,angry,white,0.023000000000000000,-0.07400000000000000,0.031000000000000000,38.0
+rick_scott,53,Man,surprise,white,0.102,0.003999999999999990,0.048,41.8
+rick_scott,48,Man,angry,white,-0.18900000000000000,-0.287,-0.10800000000000000,39.0
+rick_scott,33,Man,sad,asian,-0.09700000000000000,-0.19400000000000000,-0.285,35.09
+rick_scott,41,Man,sad,white,-0.105,-0.19600000000000000,-0.241,44.0
+rick_scott,23,Man,angry,white,-0.16,-0.254,-0.15,42.0
+rick_scott,45,Man,happy,white,0.392,0.294,0.49,44.0
+rick_scott,23,Man,angry,white,-0.16,-0.254,-0.15,40.0
+rick_scott,51,Man,angry,white,-0.12000000000000000,-0.182,-0.07,41.6
+rick_scott,32,Man,fear,white,-0.08900000000000000,-0.18600000000000000,-0.10900000000000000,43.0
+rick_scott,23,Man,angry,white,-0.16,-0.254,-0.15,40.0
+rick_scott,47,Man,fear,white,0.017000000000000000,-0.08,-0.007000000000000000,43.3
+rick_scott,56,Man,fear,white,-0.07500000000000000,-0.171,-0.102,47.0
+rick_scott,51,Man,angry,white,-0.169,-0.267,-0.14600000000000000,45.0
+rick_scott,33,Man,sad,asian,-0.09700000000000000,-0.19400000000000000,-0.285,44.0
+robert_menendez,53,Man,neutral,white,-0.052000000000000000,-0.10800000000000000,-0.073,43.0
+robert_menendez,36,Woman,neutral,white,0.05800000000000000,0.035,0.04000000000000000,51.0
+robert_menendez,42,Man,happy,white,0.29400000000000000,0.20500000000000000,0.363,28.0
+robert_menendez,40,Man,happy,asian,0.20700000000000000,0.144,0.243,43.0
+robert_menendez,52,Man,fear,white,-0.067,-0.141,-0.122,53.0
+robert_menendez,36,Man,happy,white,0.396,0.297,0.495,37.0
+robert_menendez,37,Man,happy,white,0.396,0.297,0.495,49.0
+robert_menendez,38,Man,happy,white,0.396,0.297,0.495,52.0
+robert_menendez,49,Man,happy,white,0.396,0.297,0.495,51.3
+robert_menendez,31,Woman,neutral,white,0.019000000000000000,-0.022000000000000000,0.025000000000000000,47.3
+roger_f._wicker,38,Man,sad,white,-0.12,-0.21600000000000000,-0.236,57.0
+roger_f._wicker,44,Man,angry,white,-0.198,-0.297,-0.099,60.0
+roger_f._wicker,48,Man,happy,white,0.396,0.297,0.495,48.1
+roger_f._wicker,43,Man,angry,white,-0.09,-0.18900000000000000,0.009000000000000000,53.25
+roger_f._wicker,37,Man,neutral,middle eastern,0.069,0.018000000000000000,0.08200000000000000,57.0
+roger_f._wicker,48,Man,happy,white,0.198,0.099,0.297,54.0
+roger_f._wicker,49,Man,happy,white,0.38400000000000000,0.288,0.48,48.0
+roger_f._wicker,54,Man,sad,white,-0.13400000000000000,-0.23300000000000000,-0.203,43.0
+roger_f._wicker,35,Man,happy,white,0.396,0.297,0.495,57.0
+roger_marshall,40,Man,fear,white,-0.08800000000000000,-0.18600000000000000,-0.094,51.0
+roger_marshall,34,Man,happy,white,0.375,0.28,0.467,47.0
+roger_marshall,33,Man,happy,white,0.29900000000000000,0.20300000000000000,0.37,50.0
+roger_marshall,35,Man,sad,white,0.03400000000000000,-0.063,-0.04300000000000000,47.03
+roger_marshall,32,Man,happy,white,0.396,0.297,0.495,40.0
+roger_marshall,41,Man,happy,white,0.35600000000000000,0.25800000000000000,0.45400000000000000,43.0
+roger_marshall,52,Man,angry,white,-0.185,-0.284,-0.12100000000000000,46.0
+roger_marshall,34,Man,happy,white,0.18900000000000000,0.09200000000000000,0.22200000000000000,42.0
+roger_marshall,36,Man,disgust,white,-0.08700000000000000,-0.14700000000000000,-0.111,47.0
+roger_marshall,40,Man,fear,white,-0.08800000000000000,-0.18600000000000000,-0.094,46.0
+roger_marshall,40,Man,happy,white,0.396,0.297,0.495,43.0
+ron_johnson,51,Man,sad,white,-0.061000000000000000,-0.12,-0.15900000000000000,53.0
+ron_johnson,25,Man,happy,white,0.38400000000000000,0.288,0.48,50.0
+ron_johnson,50,Man,neutral,white,-0.001,-0.002,-0.003,50.2
+ron_johnson,38,Woman,happy,white,0.11900000000000000,0.05300000000000000,0.156,50.1
+ron_johnson,38,Woman,happy,white,0.11900000000000000,0.05300000000000000,0.156,47.0
+ron_johnson,35,Man,angry,white,-0.135,-0.22500000000000000,-0.09700000000000000,48.0
+ron_johnson,44,Man,neutral,white,-0.092,-0.14800000000000000,-0.081,51.0
+ron_johnson,28,Man,happy,white,0.396,0.297,0.495,51.6
+ron_wyden,43,Man,angry,white,-0.182,-0.278,-0.1,55.0
+ron_wyden,37,Man,fear,white,-0.03400000000000000,-0.13200000000000000,-0.05000000000000000,51.1
+ron_wyden,26,Man,happy,white,0.396,0.297,0.495,50.6
+ron_wyden,28,Man,happy,white,0.396,0.297,0.495,51.0
+ron_wyden,36,Man,happy,white,0.396,0.297,0.495,56.0
+ron_wyden,39,Man,happy,white,0.396,0.297,0.495,55.0
+ron_wyden,39,Man,happy,white,0.396,0.297,0.495,56.0
+ron_wyden,36,Man,happy,white,0.396,0.297,0.495,55.0
+ron_wyden,26,Man,happy,white,0.396,0.297,0.495,51.1
+ron_wyden,37,Man,fear,white,-0.096,-0.192,-0.16800000000000000,50.6
+ron_wyden,49,Man,angry,white,-0.17300000000000000,-0.265,-0.11400000000000000,51.0
+ron_wyden,41,Man,happy,white,0.396,0.297,0.495,56.0
+ron_wyden,39,Man,happy,white,0.396,0.297,0.495,55.0
+roy_blunt,33,Man,happy,white,0.31900000000000000,0.22300000000000000,0.396,45.0
+roy_blunt,31,Man,sad,asian,-0.099,-0.198,-0.235,45.0
+roy_blunt,27,Man,angry,white,-0.18600000000000000,-0.284,-0.09500000000000000,45.0
+roy_blunt,26,Man,neutral,latino hispanic,-0.081,-0.134,-0.085,45.0
+roy_blunt,31,Man,angry,white,-0.19500000000000000,-0.293,-0.098,45.0
+roy_blunt,38,Man,happy,asian,0.20800000000000000,0.156,0.26,45.0
+roy_blunt,33,Man,happy,white,0.31900000000000000,0.22300000000000000,0.396,45.0
+roy_blunt,26,Man,neutral,latino hispanic,-0.081,-0.134,-0.085,45.0
+roy_blunt,31,Man,sad,asian,-0.099,-0.198,-0.235,45.0
+roy_blunt,27,Man,angry,white,-0.18600000000000000,-0.284,-0.09500000000000000,45.0
+roy_blunt,37,Man,happy,asian,0.256,0.192,0.32,45.0
+roy_blunt,38,Man,happy,latino hispanic,0.3,0.225,0.375,45.0
+roy_blunt,27,Man,angry,white,-0.132,-0.22,-0.099,45.0
+sheldon_whitehouse,26,Man,neutral,white,0.07100000000000000,0.04,0.09,54.0
+sheldon_whitehouse,47,Man,sad,white,-0.094,-0.165,-0.145,54.0
+sheldon_whitehouse,38,Man,sad,asian,-0.095,-0.19,-0.28300000000000000,55.3
+sheldon_whitehouse,51,Man,angry,latino hispanic,-0.19500000000000000,-0.29400000000000000,-0.10100000000000000,56.0
+sheldon_whitehouse,50,Man,sad,latino hispanic,-0.08500000000000000,-0.151,-0.154,57.0
+sheldon_whitehouse,39,Man,sad,latino hispanic,-0.058000000000000000,-0.11200000000000000,-0.152,54.0
+sheldon_whitehouse,34,Man,angry,white,-0.166,-0.26,-0.115,54.0
+sheldon_whitehouse,32,Man,happy,white,0.364,0.273,0.455,54.0
+sheldon_whitehouse,26,Man,neutral,latino hispanic,0.05800000000000000,0.034,0.067,54.0
+sheldon_whitehouse,50,Man,sad,latino hispanic,-0.08500000000000000,-0.151,-0.154,55.3
+sheldon_whitehouse,37,Man,happy,middle eastern,0.31200000000000000,0.23400000000000000,0.39,56.0
+sheldon_whitehouse,47,Man,sad,white,-0.094,-0.165,-0.145,57.0
+sheldon_whitehouse,37,Man,happy,white,0.38800000000000000,0.291,0.485,54.0
+sheldon_whitehouse,43,Man,neutral,white,-0.043,-0.086,-0.129,54.0
+shelley_moore_capito,26,Woman,happy,white,0.396,0.297,0.495,53.0
+shelley_moore_capito,47,Woman,angry,white,-0.172,-0.269,-0.115,53.0
+shelley_moore_capito,25,Man,happy,white,0.396,0.297,0.495,53.0
+shelley_moore_capito,43,Man,fear,white,-0.099,-0.198,-0.11100000000000000,53.0
+shelley_moore_capito,32,Man,happy,white,0.308,0.212,0.387,53.0
+shelley_moore_capito,31,Man,happy,white,0.396,0.297,0.495,53.0
+shelley_moore_capito,32,Man,happy,white,0.392,0.294,0.49,53.0
+sherrod_brown,34,Man,happy,white,0.376,0.282,0.47,53.0
+sherrod_brown,35,Man,happy,white,0.396,0.297,0.495,53.0
+sherrod_brown,32,Woman,happy,white,0.396,0.297,0.495,52.4
+sherrod_brown,35,Man,happy,white,0.396,0.297,0.495,46.0
+sherrod_brown,32,Woman,happy,white,0.396,0.297,0.495,48.8
+sherrod_brown,37,Man,happy,white,0.396,0.297,0.495,52.5
+sherrod_brown,34,Man,happy,white,0.38800000000000000,0.291,0.485,49.5
+sherrod_brown,30,Man,happy,white,0.396,0.297,0.495,49.5
+sherrod_brown,34,Man,happy,white,0.396,0.297,0.495,52.0
+sherrod_brown,35,Man,sad,white,-0.09,-0.18700000000000000,-0.15,52.0
+sherrod_brown,47,Man,surprise,white,0.158,0.06,0.094,49.0
+sherrod_brown,30,Man,happy,white,0.396,0.297,0.495,49.0
+sherrod_brown,38,Man,happy,white,0.396,0.297,0.495,53.6
+steve_daines,35,Man,happy,white,0.35600000000000000,0.267,0.445,50.0
+steve_daines,38,Man,happy,white,0.396,0.297,0.495,49.0
+steve_daines,39,Man,happy,white,0.396,0.297,0.495,50.0
+steve_daines,35,Man,happy,white,0.38800000000000000,0.291,0.485,49.0
+steve_daines,32,Man,happy,white,0.396,0.297,0.495,51.8
+steve_daines,45,Man,happy,latino hispanic,0.396,0.297,0.495,47.0
+steve_daines,28,Man,neutral,white,-0.008,-0.016,-0.008,47.0
+steve_daines,34,Man,happy,latino hispanic,0.396,0.297,0.495,45.0
+steve_daines,34,Man,happy,latino hispanic,0.396,0.297,0.495,47.09
+steve_daines,35,Man,angry,white,-0.19,-0.288,-0.106,48.0
+susan_m._collins,51,Man,sad,white,-0.09600000000000000,-0.18700000000000000,-0.25500000000000000,44.0
+susan_m._collins,49,Woman,happy,white,0.225,0.127,0.304,35.0
+susan_m._collins,50,Woman,happy,white,0.396,0.297,0.495,38.0
+susan_m._collins,39,Woman,happy,white,0.35200000000000000,0.254,0.442,43.0
+susan_m._collins,38,Woman,happy,white,0.396,0.297,0.495,42.2
+susan_m._collins,46,Woman,fear,asian,0.047,-0.046,0.031000000000000000,42.0
+susan_m._collins,46,Woman,fear,asian,0.047,-0.046,0.031000000000000000,42.0
+susan_m._collins,58,Woman,fear,asian,-0.10400000000000000,-0.201,-0.085,41.0
+susan_m._collins,51,Man,sad,white,-0.09600000000000000,-0.18700000000000000,-0.25500000000000000,40.82
+susan_m._collins,38,Woman,happy,white,0.382,0.284,0.478,41.0
+susan_m._collins,49,Man,fear,white,0.08100000000000000,-0.004000000000000000,0.11800000000000000,43.0
+susan_m._collins,43,Woman,neutral,white,-0.012000000000000000,-0.04300000000000000,-0.011000000000000000,42.0
+tammy_baldwin,37,Man,happy,asian,0.387,0.289,0.484,53.0
+tammy_baldwin,28,Man,sad,white,-0.10700000000000000,-0.205,-0.25800000000000000,51.0
+tammy_baldwin,27,Man,sad,white,-0.095,-0.19,-0.245,49.0
+tammy_baldwin,45,Woman,happy,white,0.36800000000000000,0.27600000000000000,0.46,55.0
+tammy_baldwin,33,Woman,happy,white,0.37200000000000000,0.27900000000000000,0.465,57.0
+tammy_baldwin,40,Woman,happy,white,0.38100000000000000,0.282,0.47700000000000000,58.0
+tammy_baldwin,27,Man,sad,white,-0.134,-0.23200000000000000,-0.20200000000000000,49.0
+tammy_baldwin,42,Man,neutral,white,0.06400000000000000,0.032,0.07,55.0
+tammy_baldwin,46,Man,happy,white,0.396,0.297,0.495,50.3
+tammy_baldwin,31,Man,fear,latino hispanic,-0.095,-0.19400000000000000,-0.09600000000000000,51.0
+tammy_baldwin,34,Man,sad,white,-0.09800000000000000,-0.19200000000000000,-0.25800000000000000,49.8
+tammy_baldwin,33,Man,fear,white,0.013000000000000000,-0.084,0.035,56.0
+tammy_baldwin,45,Woman,happy,white,0.36800000000000000,0.27600000000000000,0.46,56.0
+tammy_baldwin,24,Man,neutral,white,-0.0030000000000000000,-0.006000000000000000,-0.009,50.0
+tammy_duckworth,35,Woman,happy,asian,0.396,0.297,0.495,50.0
+tammy_duckworth,32,Woman,happy,asian,0.396,0.297,0.495,56.0
+tammy_duckworth,36,Man,neutral,white,0.018000000000000000,0.011000000000000000,0.019,49.7
+tammy_duckworth,38,Woman,surprise,white,0.27700000000000000,0.17800000000000000,0.183,48.2
+tammy_duckworth,41,Woman,happy,asian,0.396,0.297,0.495,43.3
+tammy_duckworth,37,Woman,happy,asian,0.396,0.297,0.495,58.0
+tammy_duckworth,29,Man,neutral,latino hispanic,0.09600000000000000,0.072,0.12,49.1
+tammy_duckworth,36,Woman,happy,asian,0.396,0.297,0.495,58.0
+tammy_duckworth,35,Woman,happy,asian,0.396,0.297,0.495,50.0
+tammy_duckworth,37,Woman,happy,asian,0.396,0.297,0.495,56.0
+tammy_duckworth,36,Man,neutral,white,0.018000000000000000,0.011000000000000000,0.019,49.7
+tammy_duckworth,32,Woman,happy,asian,0.396,0.297,0.495,48.2
+tammy_duckworth,29,Man,neutral,latino hispanic,0.09600000000000000,0.072,0.12,43.3
+ted_budd,45,Man,happy,white,0.344,0.258,0.43,44.6
+ted_budd,29,Man,happy,white,0.38,0.285,0.475,37.0
+ted_budd,28,Man,happy,white,0.38800000000000000,0.291,0.485,44.0
+ted_budd,41,Man,happy,white,0.38800000000000000,0.291,0.485,46.9
+ted_budd,33,Man,sad,white,-0.099,-0.198,-0.297,51.4
+ted_budd,30,Man,happy,white,0.392,0.294,0.49,43.9
+ted_budd,31,Man,happy,white,0.35700000000000000,0.264,0.447,49.0
+ted_budd,37,Woman,neutral,white,0.0,0.0,0.0,48.0
+ted_budd,45,Man,happy,white,0.344,0.258,0.43,51.0
+ted_budd,41,Man,happy,white,0.396,0.297,0.495,51.2
+ted_budd,33,Man,sad,white,-0.099,-0.198,-0.297,40.0
+ted_budd,30,Man,happy,white,0.392,0.294,0.49,50.0
+ted_budd,36,Man,happy,white,0.364,0.273,0.455,45.0
+ted_budd,28,Man,happy,white,0.38800000000000000,0.291,0.485,48.2
+ted_budd,29,Man,happy,white,0.38,0.285,0.475,49.3
+ted_cruz,28,Man,happy,white,0.392,0.294,0.49,48.0
+ted_cruz,28,Man,happy,white,0.392,0.294,0.49,50.0
+ted_cruz,24,Man,fear,white,-0.09100000000000000,-0.18400000000000000,-0.16900000000000000,49.0
+ted_cruz,24,Man,fear,white,-0.09100000000000000,-0.18400000000000000,-0.16900000000000000,41.0
+ted_cruz,29,Man,sad,white,-0.098,-0.185,-0.199,50.0
+ted_cruz,30,Man,happy,white,0.396,0.297,0.495,51.0
+ted_cruz,30,Man,happy,white,0.33900000000000000,0.248,0.42300000000000000,41.0
+ted_cruz,43,Man,neutral,white,-0.05000000000000000,-0.09900000000000000,-0.141,49.0
+ted_cruz,27,Man,fear,white,-0.099,-0.198,-0.099,36.0
+ted_cruz,24,Man,fear,white,-0.09100000000000000,-0.18400000000000000,-0.16900000000000000,46.0
+ted_cruz,45,Man,neutral,white,-0.051000000000000000,-0.09500000000000000,-0.11,38.0
+ted_cruz,23,Man,happy,middle eastern,0.38800000000000000,0.291,0.485,47.0
+ted_cruz,36,Man,angry,white,-0.16500000000000000,-0.24800000000000000,-0.08500000000000000,48.0
+ted_cruz,30,Man,happy,white,0.33900000000000000,0.248,0.42300000000000000,41.0
+ted_cruz,29,Man,happy,white,0.38400000000000000,0.288,0.48,48.0
+ted_cruz,29,Man,sad,white,-0.098,-0.185,-0.199,50.0
+thomas_r._carper,31,Man,sad,white,-0.10400000000000000,-0.20200000000000000,-0.262,47.0
+thomas_r._carper,35,Man,happy,white,0.392,0.294,0.49,60.0
+thomas_r._carper,52,Man,happy,white,0.30400000000000000,0.228,0.38,61.0
+thomas_r._carper,34,Man,happy,white,0.392,0.294,0.49,47.0
+thomas_r._carper,40,Man,sad,white,-0.049,-0.138,-0.183,60.0
+thomas_r._carper,41,Man,neutral,white,-0.006000000000000000,-0.012000000000000000,-0.018,61.0
+thomas_r._carper,34,Man,fear,white,-0.064,-0.128,-0.07400000000000000,47.0
+thomas_r._carper,48,Man,angry,white,-0.17300000000000000,-0.262,-0.099,60.0
+thomas_r._carper,27,Man,happy,white,0.396,0.297,0.495,61.0
+thomas_r._carper,41,Man,neutral,white,-0.006000000000000000,-0.012000000000000000,-0.018,47.0
+thomas_r._carper,30,Man,happy,white,0.396,0.297,0.495,60.0
+thomas_r._carper,48,Man,happy,white,0.105,0.030000000000000000,0.135,61.0
+thomas_r._carper,52,Man,sad,white,-0.14200000000000000,-0.23900000000000000,-0.19300000000000000,47.0
+tim_scott,33,Man,angry,black,0.034000000000000000,-0.06400000000000000,0.126,56
+tim_scott,34,Man,happy,black,0.272,0.19,0.324,57
+tim_scott,28,Man,happy,black,0.38800000000000000,0.291,0.485,54
+tim_scott,29,Man,angry,black,-0.055,-0.139,-0.075,53
+tim_scott,31,Man,neutral,black,0.135,0.10100000000000000,0.16700000000000000,58
+tim_scott,33,Man,happy,black,0.36800000000000000,0.27600000000000000,0.46,55
+tim_scott,32,Man,happy,black,0.38400000000000000,0.288,0.48,57.0
+tim_scott,33,Man,happy,black,0.228,0.17,0.278,54.0
+tina_smith,37,Woman,happy,white,0.396,0.297,0.495,51.0
+tina_smith,45,Woman,happy,white,0.396,0.297,0.495,48.0
+tina_smith,42,Woman,happy,white,0.396,0.297,0.495,48.21
+tina_smith,43,Woman,happy,white,0.396,0.297,0.495,43.0
+tina_smith,53,Woman,happy,white,0.387,0.289,0.484,43.8
+tina_smith,44,Woman,happy,white,0.396,0.297,0.495,46.6
+tina_smith,48,Woman,happy,white,0.396,0.297,0.495,49.0
+tina_smith,39,Woman,happy,white,0.307,0.209,0.38800000000000000,47.0
+todd_young,28,Man,fear,white,-0.067,-0.134,-0.10100000000000000,39.0
+todd_young,42,Man,happy,white,0.38800000000000000,0.291,0.485,45.0
+todd_young,35,Man,happy,white,0.267,0.19400000000000000,0.325,49.0
+todd_young,46,Man,happy,white,0.396,0.297,0.495,39.0
+todd_young,38,Woman,sad,white,-0.05800000000000000,-0.11600000000000000,-0.146,49.0
+todd_young,40,Man,happy,white,0.396,0.297,0.495,39.0
+todd_young,42,Man,sad,middle eastern,-0.07200000000000000,-0.14800000000000000,-0.21600000000000000,45.0
+todd_young,36,Man,happy,white,0.396,0.297,0.495,49.0
+todd_young,45,Man,happy,white,0.396,0.297,0.495,39.0
+todd_young,42,Man,sad,middle eastern,-0.07200000000000000,-0.14800000000000000,-0.21600000000000000,45.0
+todd_young,47,Man,happy,white,0.396,0.297,0.495,49.0
+todd_young,33,Man,fear,latino hispanic,-0.035,-0.13400000000000000,-0.055,39.0
+tom_cotton,35,Man,sad,middle eastern,-0.086,-0.166,-0.21,75.0
+tom_cotton,29,Man,happy,white,0.396,0.297,0.495,62.5
+tom_cotton,26,Man,neutral,middle eastern,-0.028000000000000000,-0.05,-0.042,49.0
+tom_cotton,34,Man,happy,white,0.396,0.297,0.495,75.0
+tom_cotton,28,Man,happy,white,0.396,0.297,0.495,62.5
+tom_cotton,27,Man,happy,middle eastern,0.396,0.297,0.495,49.0
+tom_cotton,34,Man,angry,white,-0.13,-0.226,-0.084,75.0
+tom_cotton,33,Man,happy,middle eastern,0.396,0.297,0.495,62.5
+tom_cotton,35,Man,sad,middle eastern,-0.086,-0.166,-0.21,49.0
+tom_cotton,34,Man,happy,white,0.36,0.27,0.45,75.0
+tom_cotton,25,Man,angry,middle eastern,-0.141,-0.23200000000000000,-0.125,62.5
+tom_cotton,34,Man,angry,white,-0.13,-0.226,-0.084,49.0
+tom_cotton,35,Man,sad,middle eastern,-0.086,-0.166,-0.21,75.0
+tom_cotton,33,Man,happy,middle eastern,0.396,0.297,0.495,62.5
+tom_cotton,30,Man,happy,white,0.396,0.297,0.495,49.0
+tom_cotton,34,Man,happy,white,0.396,0.297,0.495,75.0
+tommy_tuberville,47,Man,neutral,white,0.083,0.051,0.08800000000000000,43.9
+tommy_tuberville,53,Man,sad,white,-0.11800000000000000,-0.215,-0.21100000000000000,52.0
+tommy_tuberville,39,Man,surprise,white,0.12300000000000000,0.02500000000000000,0.085,52.0
+tommy_tuberville,39,Man,happy,white,0.29900000000000000,0.209,0.35600000000000000,47.0
+tommy_tuberville,41,Man,disgust,white,-0.098,-0.14800000000000000,-0.18600000000000000,55.0
+tommy_tuberville,39,Man,surprise,white,0.12300000000000000,0.02500000000000000,0.085,54.7
+tommy_tuberville,47,Man,neutral,white,0.053000000000000000,0.026000000000000000,0.047,54.4
+tommy_tuberville,43,Man,neutral,white,-0.059000000000000000,-0.11600000000000000,-0.121,53.8
+tommy_tuberville,41,Man,disgust,white,-0.098,-0.14800000000000000,-0.18600000000000000,51.1
+tommy_tuberville,43,Man,neutral,white,-0.059000000000000000,-0.11600000000000000,-0.121,57.6
+tommy_tuberville,44,Man,happy,white,0.396,0.297,0.495,56.0
