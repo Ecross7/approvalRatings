@@ -18,6 +18,9 @@ Acquired from GovTrack and Congress.gov, this dataset furnishes information on b
 ### Senator Image Dataset: 
 Comprising over 1100 facial images of senators obtained using the Bing API and other sources, this dataset captures diverse expressions and emotions, enabling deeper analysis of their public persona.
 
+### We merged these data sets  into final4.csv with columns 
+* ['full_name', 'bioguide_id', 'govtrack_id', 'pct', 'birthday', 'gender', 'election_date', 'party', 'senate_class', 'stage', 'cycle', 'start_date', 'end_date', 'congressional', 'bills-introduced', 'bills-with-companion', 'cosponsored', 'cosponsors', 'ideology', 'leadership', 'missed-votes', 'Emotion', 'Norm_valence', 'Race', 'Val1', 'Val2', 'Val3', 'Val_mean', 'Weight_val', 'Weighted_val_mean', 'age', 'serving_age', 'emotion_majority']
+
 Quantifying Emotions: Valence Metrics
 ### Valence (V): This metric directly subtracts the percentage of negative emotions (N) from the percentage of positive emotions (P).
 * Formula: V = P - N
