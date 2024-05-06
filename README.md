@@ -91,10 +91,22 @@ CatBoost Regressor Feature Importances:
 
 # Repository How-to Guide
 ## data 
-@Ebony
+* Data Collection
+  * Four main data sources were used to create each Senator's "persona profile":
+    1) Voting Data: Source -> GovTrack.us, Tracks U.S. Congress legislative information including member voting history
+    2) JAR & Demographic data: Source -> 538 Project, ABC News' public polling, voting, and candidate demographic dataset
+    3) Image Analysis: Source -> Deep Face API, using nearly 1100 gathered images, the Deep Face API was used to compute valence, race, and emotion through face detection algorithms
+    4) Image Data: multiple images were gather for each Senator to further used in the image analysis 
+
+* Curated Personal Profile
+  * Execute both the cleaning and EDA notebooks listed below to create the senator "persona profile" data object 
 
 ## notebooks 
-@Ebony
+1) [Clean Data: Part 1](notebooks/final_notebooks/book1_clean_merge_senator_votes.ipynb)
+2) [Cleaning Data: Part 2](notebooks/final_notebooks/book2_clean_merge_senator_plusvote_data.ipynb)
+3) Image Analysis
+4) [EDA & Traditional Modeling](notebooks/final_notebooks/book4_final_eda_tradition_modeling.ipynb)
+5) [Deep Learning Modeling](notebooks/final_notebooks/book5_DLmodeling.ipynb)
 
 ## team_csv_code
 @Ebony
