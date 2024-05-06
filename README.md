@@ -50,7 +50,8 @@ The weight sets used in my project are as follows:
 ## Final Features and Target Variable
 ### Features: 
 The final feature set used for model training encompasses demographic information, legislative activity metrics, and emotional profile features, providing a comprehensive view of each senator's background, behavior, and public image.
-### Target Variable: The senator's Job Approval Rating (JAR) serves as the target variable, reflecting public opinion on their performance.
+### Target Variable:
+The senator's Job Approval Rating (JAR) serves as the target variable, reflecting public opinion on their performance.
 
 Correlation Analysis: 
 ![Correlation Analysis](https://github.com/Ecross7/approvalRatings/blob/main/notebooks/correlation_analysis.png)
