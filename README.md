@@ -146,7 +146,7 @@ CatBoost Regressor Feature Importances:
 ## notebooks 
 1) [Clean Data: Part 1](notebooks/final_notebooks/book1_clean_merge_senator_votes.ipynb)
 2) [Cleaning Data: Part 2](notebooks/final_notebooks/book2_clean_merge_senator_plusvote_data.ipynb)
-3) Image Analysis
+3) [Image Analysis and merging datasets](notebooks/final_notebooks/Final_face.ipynb)
 4) [EDA & Traditional Modeling](notebooks/final_notebooks/book4_final_eda_tradition_modeling.ipynb)
 5) [Deep Learning Modeling](notebooks/final_notebooks/book5_DLmodeling.ipynb)
 
@@ -155,5 +155,6 @@ All csv files needed to run files are embedded into the notebooks via public url
 ## team_csv_code
 * development team csv files: [development csv files](team_csv_code/dev_csv_code)
 * Main csv file: [Main csv file](team_csv_code/dev_csv_code)
+* 
 
 * To properly run both the traditional and deep learning modeling notebooks, the [Main csv file](team_csv_code/dev_csv_code) is required. Note: this required file is already embedded into the specific notebooks. Thus, otebooks can run as they stand without having to upload additional files.
