@@ -3,24 +3,61 @@ UMBC Spring 2024 - DATA606 Data Science Capstone
 Team 2: Saikumar Baddam, Elizabeth Cardosa, Ebony Cross-Williams
 
 ## Project Introduction
-@Sai
+* In the "I Approve this message" project, we delve into the intricate world of U.S. Senators' job approval ratings (JARs). This project explores various factors influencing these ratings, including personal characteristics, legislative behavior, public sentiment, and emotional profiles derived from facial analysis. By constructing predictive models and analyzing feature importance, our goal is to unravel the complexities of senator approval ratings.
 
 ## Background 
-@Sai
+* Navigating the U.S. political landscape is complex task, especially when attempting to decipher the factors contributing to a politician's success. Our project focuses on the public persona of senators and its profound impact on public opinion. Recognizing the pivotal role emotions play in political communication and leadership, we leverage facial emotion analysis to gain invaluable insights into these dynamics.
 
 ## Datasets
-@Sai
- TODO: 
- * describe each dataset used
- * include equations for valence metrics
- * list features and target found in final modeling
- * (optional) include graphics from final presentations EDA slides
+To construct a holistic understanding of each senator, we utilize three primary datasets:
+
+### Senator Demographic and Polling Data: 
+This dataset, sourced from the 538 Project and ABC News, encompasses senator demographics (age, gender, race, etc.), voting history, and approval rating percentages.
+### Legislative Activity Data: 
+Acquired from GovTrack and Congress.gov, this dataset furnishes information on bills introduced, co-sponsored, and voting behavior metrics such as ideology and leadership scores. These metrics shed light on a senator's political leanings and legislative influence.
+### Senator Image Dataset: 
+Comprising over 1100 facial images of senators obtained using the Bing API and other sources, this dataset captures diverse expressions and emotions, enabling deeper analysis of their public persona.
+
+Quantifying Emotions: Valence Metrics
+### Valence (V): This metric directly subtracts the percentage of negative emotions (N) from the percentage of positive emotions (P).
+* Formula: V = P - N
+
+### Normalized Valence (NV): This metric divides the valence score by the sum of all emotion percentages, providing a value between -1 and 1.
+* Formula: NV = V / (P + N + E), where E represents neutral emotions.
+
+### Weighted Valence (Val1, Val2, Val3): These metrics incorporate weighted emotions, with different weights assigned to each emotion based on their perceived positivity or negativity.
+* Formula: Val_i = Σ (w_j * e_j) / 100, where:
+
+* Val_i is the weighted valence score for weight set i (i = 1, 2, 3).
+* w_j is the weight assigned to emotion j in the weight set i.
+* e_j is the percentage of emotion j detected in the facial expression.
+
+The weight sets used in my project are as follows:
+
+* weights_set1: { "happy": 0.4, "surprise": 0.3, "angry": -0.2, "sad": -0.1, "fear": -0.1, "disgust": -0.1, "neutral": 0.0 }
+
+* weights_set2: { "happy": 0.3, "surprise": 0.2, "angry": -0.3, "sad": -0.2, "fear": -0.2, "disgust": -0.1, "neutral": 0.0 }
+
+* weights_set3: { "happy": 0.5, "surprise": 0.2, "angry": -0.1, "sad": -0.3, "fear": -0.1, "disgust": -0.1, "neutral": 0.0 }
+
+### Weighted Valence Mean (WVM): This metric averages the three weighted valence scores for a balanced perspective.
+
+* Formula: WVM = (Val1 + Val2 + Val3) / 3
+
+## Final Features and Target Variable
+### Features: 
+The final feature set used for model training encompasses demographic information, legislative activity metrics, and emotional profile features, providing a comprehensive view of each senator's background, behavior, and public image.
+### Target Variable: The senator's Job Approval Rating (JAR) serves as the target variable, reflecting public opinion on their performance.
 
 Correlation Analysis: 
 ![Correlation Analysis](https://github.com/Ecross7/approvalRatings/blob/main/notebooks/correlation_analysis.png)
 
 ## Models
-@ Sai 
+We explored a range of machine learning and deep learning models to predict senator JARs:
+### Traditional Models: 
+* We implemented and evaluated models such as Linear Regression, K-Nearest Neighbors, Decision Tree, Random Forest Regressor, XGBoost, and CatBoost (with and without pre-processing) to establish baseline performance and compare with deep learning approaches.
+### Deep Learning Models:
+* We explored Artificial Neural Networks (ANNs) with different activation functions (ReLU) and optimizers (AdamR, AdamW, Adam, Adamax), as well as Recurrent Neural Networks (RNNs) to capture potential temporal dependencies in the data.
 
 | Metric | Decision Tree | CatBoost Regressor | ANN (ReLu) |
 | --- | --- | --- | --- |
@@ -35,7 +72,7 @@ CatBoost Regressor Feature Importances:
 ![CatBoost Feature Importances](https://github.com/Ecross7/approvalRatings/blob/main/notebooks/catbosst_feature_importances.png)
 
 ## Conclusions 
-@ Sai - TODO: modify with your desired talk-track/conclusions 
+* Our analysis revealed that CatBoost with transformed features achieved the best performance in predicting senator JARs, demonstrating the highest R2 score and lowest errors. This model also requires fewer training resources and offers interpretable feature importances, making it a suitable choice for this task.
 
 * Obtained a good model for predicting Senator's Approval Ratings​
   * Can be used for campaign and election planning​
