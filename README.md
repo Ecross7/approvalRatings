@@ -155,6 +155,5 @@ All csv files needed to run files are embedded into the notebooks via public url
 ## team_csv_code
 * development team csv files: [development csv files](team_csv_code/dev_csv_code)
 * Main csv file: [Main csv file](team_csv_code/dev_csv_code)
-* 
 
 * To properly run both the traditional and deep learning modeling notebooks, the [Main csv file](team_csv_code/dev_csv_code) is required. Note: this required file is already embedded into the specific notebooks. Thus, otebooks can run as they stand without having to upload additional files.
